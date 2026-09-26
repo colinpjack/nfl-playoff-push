@@ -116,14 +116,15 @@ body {
   right: -34px;
   width: 200px;
   padding: 8px 0;
-  background: linear-gradient(90deg, #fc4c02, #ff7a33);
-  color: #fff;
-  font-family: "Bebas Neue", sans-serif;
-  letter-spacing: 0.08em;
-  font-size: 16px;
+  background: #ffe14a;
+  color: #111;
+  font-family: Outfit, system-ui, sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  font-size: 13px;
   line-height: 1;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: lowercase;
   white-space: nowrap;
   transform: rotate(45deg);
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
@@ -1194,8 +1195,151 @@ body.league h1 {
   line-height: 0.88;
 }
 
-body.league .topbar { align-items: flex-start; }
-body.league .brand { flex: 1; min-width: 0; }
+body.league .topbar {
+  align-items: center;
+  justify-content: flex-start;
+}
+body.league .brand { flex: 0 1 auto; min-width: 0; }
+body.league .top-meta { margin-left: auto; }
+
+.my-teams {
+  flex: 1 1 250px;
+  min-width: 230px;
+  max-width: 360px;
+  margin-top: 8px;
+  padding: 8px 10px 10px;
+  border: 1px solid rgba(243, 212, 138, 0.4);
+  border-radius: 16px;
+  background: rgba(7, 8, 12, 0.62);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
+}
+
+.my-teams-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.my-teams-head h2 {
+  margin: 0;
+  font-size: 22px;
+  letter-spacing: 0.06em;
+  line-height: 1;
+}
+
+.my-teams-edit {
+  border: 0;
+  background: transparent;
+  color: var(--gold);
+  font: inherit;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 2px 0;
+}
+
+.my-teams-edit:hover { color: #fff; }
+
+.mine-cols,
+.mine-row {
+  display: grid;
+  grid-template-columns: 22px 36px 28px minmax(40px, 1fr) 52px 42px;
+  gap: 4px;
+  align-items: center;
+}
+
+.mine-cols {
+  margin-bottom: 2px;
+  color: var(--muted);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.mine-cols span,
+.mine-row span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mine-row {
+  padding: 4px 2px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mine-row:hover { background: rgba(255, 255, 255, 0.05); }
+.mine-row img { width: 20px; height: 20px; }
+.mine-abbr { letter-spacing: 0.04em; }
+.mine-rank,
+.mine-trend,
+.mine-magic {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 12px;
+}
+.mine-trend.up,
+.mine-magic.in { color: var(--win); }
+.mine-trend.down,
+.mine-magic.out { color: var(--loss); }
+.mine-trend.flat,
+.mine-week { color: var(--muted); font-weight: 700; }
+.mine-week { font-size: 11px; letter-spacing: 0.02em; }
+
+.mine-empty {
+  display: block;
+  width: 100%;
+  margin: 2px 0;
+  padding: 6px 8px;
+  border: 1px dashed rgba(243, 212, 138, 0.35);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--powder);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.mine-empty:hover { border-color: var(--gold); color: #fff; }
+
+.mine-picks { display: grid; gap: 6px; }
+
+.mine-pick {
+  display: grid;
+  grid-template-columns: 14px 1fr;
+  gap: 6px;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--muted);
+}
+
+.mine-pick select {
+  width: 100%;
+  min-width: 0;
+  padding: 6px 8px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #100e09;
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.mine-note {
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+}
 
 .jump {
   display: flex;
@@ -1336,6 +1480,12 @@ body.league .brand { flex: 1; min-width: 0; }
   font-family: "Bebas Neue", sans-serif;
   font-size: 28px;
   letter-spacing: 0.04em;
+}
+
+@media (max-width: 980px) {
+  body.league .topbar { align-items: stretch; flex-direction: column; }
+  body.league .top-meta { margin-left: 0; }
+  .my-teams { max-width: none; margin-top: 4px; }
 }
 
 @media (max-width: 900px) {

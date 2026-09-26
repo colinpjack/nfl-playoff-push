@@ -176,6 +176,196 @@ function renderLast(data) {
     : `<p class="meta">Scores from last week will show up after the first Sunday.</p>`;
 }
 
+const MY_TEAMS_KEY = "push-my-teams";
+let leagueData = null;
+let myTeamsEditing = false;
+let trackedMemory = null;
+
+function trackedTeams() {
+  if (trackedMemory) return trackedMemory.slice();
+  let saved = [];
+  try {
+    saved = JSON.parse(localStorage.getItem(MY_TEAMS_KEY) || "[]");
+  } catch (err) {
+    saved = [];
+  }
+  if (!Array.isArray(saved)) saved = [];
+  const abbrs = [0, 1, 2].map((index) => String(saved[index] || "").toUpperCase());
+  const seen = new Set();
+  return abbrs.map((abbr) => {
+    if (!abbr || seen.has(abbr)) return "";
+    seen.add(abbr);
+    return abbr;
+  });
+}
+
+function setTracked(abbrs) {
+  const seen = new Set();
+  const next = [0, 1, 2].map((index) => {
+    const abbr = String(abbrs[index] || "").toUpperCase();
+    if (!abbr || seen.has(abbr)) return "";
+    seen.add(abbr);
+    return abbr;
+  });
+  trackedMemory = next;
+  try {
+    localStorage.setItem(MY_TEAMS_KEY, JSON.stringify(next));
+  } catch (err) {
+    /* Private browsing can block storage; the in-memory list still works this visit. */
+  }
+  return next;
+}
+
+function magicFor(team, rows) {
+  const rivals = rows.filter((row) => row.division === team.division && row.abbr !== team.abbr);
+  if (!rivals.length) return { value: "—", title: "Division rivals are not on the board yet.", kind: "" };
+  let best = null;
+  rivals.forEach((rival) => {
+    const value = 18 - Number(team.wins) - Number(rival.losses);
+    if (!best || value > best.value) best = { value, rival };
+  });
+  const clubMax = Number(team.wins) + Number(team.gr || 0);
+  const clear = rows.filter((row) => (
+    row.conference === team.conference && row.abbr !== team.abbr && Number(row.wins) > clubMax
+  )).length;
+  if (clear >= 7) {
+    return { value: "OUT", title: "Cannot catch seven clubs already ahead.", kind: "out" };
+  }
+  if (best.value <= 0) {
+    return { value: "IN", title: `${team.division} clinched on wins.`, kind: "in" };
+  }
+  return {
+    value: String(best.value),
+    title: `${team.abbr} wins plus ${best.rival.abbr} losses to win the ${team.division}.`,
+    kind: "",
+  };
+}
+
+function slateFor(abbr, data) {
+  const game = (data.thisWeek || []).find((item) => item.home?.abbr === abbr || item.away?.abbr === abbr);
+  if (!game) {
+    const bye = (data.byes || []).some((team) => team.abbr === abbr);
+    return bye
+      ? { label: "Bye", title: "No game this week." }
+      : { label: "—", title: "This week's matchup is not posted." };
+  }
+  const home = game.home?.abbr === abbr;
+  const opp = home ? game.away : game.home;
+  const where = home ? "vs" : "@";
+  const label = `${where} ${opp?.abbr || ""}`;
+  if (game.completed || game.live) {
+    const us = home ? game.home?.score : game.away?.score;
+    const them = home ? game.away?.score : game.home?.score;
+    return { label, title: `${game.status || ""} ${us}–${them}`.trim() };
+  }
+  return { label, title: [game.status, game.broadcast].filter(Boolean).join(" · ") };
+}
+
+function teamSelect(rows, tracked, slot) {
+  const taken = new Set(tracked.filter((abbr, index) => abbr && index !== slot));
+  const ordered = rows.slice().sort((a, b) => a.division.localeCompare(b.division) || a.name.localeCompare(b.name));
+  const groups = [];
+  ordered.forEach((team) => {
+    const last = groups[groups.length - 1];
+    if (!last || last.name !== team.division) groups.push({ name: team.division, teams: [team] });
+    else last.teams.push(team);
+  });
+  const options = groups.map((group) => {
+    const items = group.teams.map((team) => {
+      const disabled = taken.has(team.abbr) ? " disabled" : "";
+      const selected = team.abbr === tracked[slot] ? " selected" : "";
+      return `<option value="${esc(team.abbr)}"${selected}${disabled}>${esc(team.name)}</option>`;
+    }).join("");
+    return `<optgroup label="${esc(group.name)}">${items}</optgroup>`;
+  }).join("");
+  return `<label class="mine-pick">${slot + 1}
+    <select data-slot="${slot}" aria-label="Team ${slot + 1}">
+      <option value="">Choose a team</option>
+      ${options}
+    </select>
+  </label>`;
+}
+
+function renderMyTeams(data) {
+  if (!data) return;
+  leagueData = data;
+  const rows = data.powerRankings || [];
+  const byAbbr = Object.fromEntries(rows.map((team) => [team.abbr, team]));
+  const tracked = trackedTeams().map((abbr) => (byAbbr[abbr] ? abbr : ""));
+  const hasAny = tracked.some(Boolean);
+  const editing = myTeamsEditing || !hasAny;
+  const button = $("myTeamsEdit");
+  if (button) {
+    button.hidden = !hasAny;
+    button.textContent = editing ? "Done" : "Edit";
+    button.setAttribute("aria-expanded", editing ? "true" : "false");
+  }
+  const body = $("myTeamsBody");
+  if (!body) return;
+  if (editing) {
+    body.innerHTML = `<div class="mine-picks">
+      ${[0, 1, 2].map((slot) => teamSelect(rows, tracked, slot)).join("")}
+      <p class="mine-note">Pick up to three. Saved on this browser.</p>
+    </div>`;
+    return;
+  }
+  const cards = tracked.map((abbr, slot) => {
+    if (!abbr) {
+      return `<button type="button" class="mine-empty" data-slot="${slot}">Pick a team</button>`;
+    }
+    const team = byAbbr[abbr];
+    const direction = team.formDirection || "flat";
+    const trend = signed(team.formDiff);
+    const slate = slateFor(abbr, data);
+    const magic = magicFor(team, rows);
+    const summary = `${team.name}, power rank ${team.rank}, trend ${trend} over the last three games, ${slate.label}, magic number ${magic.value}.`;
+    return `<a class="mine-row" href="${teamHref(abbr)}" aria-label="${esc(summary)}">
+      <img src="${esc(team.logo)}" alt="" />
+      <span class="mine-abbr">${esc(abbr)}</span>
+      <span class="mine-rank">${esc(team.rank)}</span>
+      <span class="mine-trend ${esc(direction)}" title="Point differential over the last three games">${esc(trend)}</span>
+      <span class="mine-week" title="${esc(slate.title)}">${esc(slate.label)}</span>
+      <span class="mine-magic ${esc(magic.kind)}" title="${esc(magic.title)}">${esc(magic.value)}</span>
+    </a>`;
+  }).join("");
+  body.innerHTML = `<div class="mine-cols" aria-hidden="true"><span></span><span></span><span>Rank</span><span>Trend</span><span>Week</span><span>Magic</span></div>${cards}`;
+}
+
+function wireMyTeams() {
+  const root = $("myTeams");
+  if (!root || root.dataset.wired) return;
+  root.dataset.wired = "1";
+  root.addEventListener("click", (event) => {
+    const edit = event.target.closest("#myTeamsEdit");
+    if (edit) {
+      myTeamsEditing = edit.textContent !== "Done";
+      renderMyTeams(leagueData);
+      if (myTeamsEditing) {
+        const select = root.querySelector("select");
+        if (select) select.focus();
+      }
+      return;
+    }
+    const empty = event.target.closest(".mine-empty");
+    if (!empty) return;
+    myTeamsEditing = true;
+    renderMyTeams(leagueData);
+    const select = root.querySelector(`select[data-slot="${empty.dataset.slot}"]`);
+    if (select) select.focus();
+  });
+  root.addEventListener("change", (event) => {
+    const select = event.target.closest("select[data-slot]");
+    if (!select) return;
+    const next = trackedTeams();
+    next[Number(select.dataset.slot)] = select.value;
+    myTeamsEditing = true;
+    setTracked(next);
+    renderMyTeams(leagueData);
+    const fresh = root.querySelector(`select[data-slot="${select.dataset.slot}"]`);
+    if (fresh) fresh.focus();
+  });
+}
+
 async function boot() {
   try {
     const res = await fetch(`data/league.json?t=${Date.now()}`, { cache: "no-store" });
@@ -183,6 +373,8 @@ async function boot() {
     const data = await res.json();
     renderTicker(data);
     renderHero(data);
+    renderMyTeams(data);
+    wireMyTeams();
     renderClubs(data);
     renderRankings(data);
     renderPicture(data);
