@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Push | This week's power rankings and playoff picture</title>
+  <meta name="description" content="This week's NFL power rankings and playoff picture: standings, trending teams, the games on the slate, and last week's scores. Every club has its own page." />
+  <link rel="icon" href="https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@500;600&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css?v=20260926a" />
+</head>
+<body class="league">
+  <div class="chris-ribbon"><span>Chris Approved</span></div>
+
+  <div class="atmosphere" aria-hidden="true">
+    <div class="flood flood-a"></div>
+    <div class="flood flood-b"></div>
+    <div class="diamond"></div>
+    <div class="football"></div>
+  </div>
+
+  <div class="page">
+  <div class="ticker" id="ticker" aria-label="Scoreboard ticker">
+    <div class="ticker-track" id="tickerTrack">Loading the board…</div>
+  </div>
+
+  <header class="topbar">
+    <div class="brand">
+      <img class="brand-logo" src="https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" alt="NFL" />
+      <div>
+        <p class="eyebrow">The Push · NFL</p>
+        <h1>This week's power rankings and playoff picture</h1>
+      </div>
+    </div>
+    <div class="top-meta">
+      <span class="pill" id="updatePill">Refreshing</span>
+      <span class="pill ghost" id="seasonPill">Week</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="hero">
+      <div class="hero-copy">
+        <div class="hero-story">
+          <p class="kicker" id="statusKicker">Loading the week…</p>
+          <h2 id="headline">The board is loading</h2>
+          <p class="lede" id="blurb">Pulling standings, the slate, and the football math.</p>
+          <div class="rules">
+            <span class="pill ghost">Win the division</span>
+            <span class="pill ghost">Or grab a wild card</span>
+            <span class="pill ghost">14 playoff teams</span>
+          </div>
+        </div>
+        <div class="hero-chips" id="heroChips"></div>
+      </div>
+      <div class="hero-meters" id="heroMeters"></div>
+    </section>
+
+    <nav class="jump" aria-label="Sections">
+      <a href="#clubs">Teams</a>
+      <a href="#rankings">Power rankings</a>
+      <a href="#picture">Playoff picture</a>
+      <a href="#trending">Trending</a>
+      <a href="#week">This week</a>
+      <a href="#last">Last week</a>
+    </nav>
+
+    <section class="panel" id="clubs">
+      <div class="section-head">
+        <h3>All 32</h3>
+        <p>Every club has the same playoff page: the cut line, the division, the schedule, and the football underneath the record.</p>
+      </div>
+      <div class="club-strip" id="clubStrip"></div>
+    </section>
+
+    <section class="panel" id="rankings">
+      <div class="section-head">
+        <h3>Power rankings</h3>
+        <p id="rankingsBlurb">Sorting the league from the results and the point differential.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="board" id="rankTable">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel" id="picture">
+      <div class="section-head">
+        <h3>Playoff picture</h3>
+        <p>Current standings. Seven clubs in each conference: four division winners and three wild cards. The line under the seventh seed is the cut line.</p>
+      </div>
+      <div class="legend">
+        <span><i class="swatch in"></i> In a playoff spot</span>
+        <span><i class="swatch hunt"></i> Chasing</span>
+      </div>
+      <div class="picture-grid">
+        <div>
+          <h4 class="subhead">AFC</h4>
+          <p class="meta" id="afcBlurb"></p>
+          <div class="table-wrap">
+            <table class="board compact" id="afcTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div>
+          <h4 class="subhead">NFC</h4>
+          <p class="meta" id="nfcBlurb"></p>
+          <div class="table-wrap">
+            <table class="board compact" id="nfcTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="section-head">
+        <h3>Division leaders</h3>
+        <p>These eight are the automatic seeds. Everyone else is chasing a wild card.</p>
+      </div>
+      <div class="leader-grid eight" id="divLeaders"></div>
+    </section>
+
+    <section class="panel" id="trending">
+      <div class="section-head">
+        <h3>Trending teams</h3>
+        <p id="trendingBlurb">Who the last three games say is rising, and who is falling.</p>
+      </div>
+      <div class="trend-split">
+        <div>
+          <h4 class="subhead">Heating up</h4>
+          <div class="trend-list" id="trendUp"></div>
+        </div>
+        <div>
+          <h4 class="subhead">Cooling off</h4>
+          <div class="trend-list" id="trendDown"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" id="week">
+      <div class="section-head">
+        <h3>Games this week</h3>
+        <p id="weekBlurb">Kickoffs, and the score once a game is live or final.</p>
+      </div>
+      <div class="week-grid" id="weekGames"></div>
+      <div class="bye-row" id="byes"></div>
+    </section>
+
+    <section class="panel" id="last">
+      <div class="section-head">
+        <h3>Last week</h3>
+        <p id="lastBlurb">Final scores from the week before this one.</p>
+      </div>
+      <div class="week-grid" id="lastGames"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Updated from ESPN’s public NFL feeds. Not affiliated with the NFL or ESPN.</p>
+    <p class="tiny">Fourteen teams qualify: four division winners and three wild cards in each conference. Power rankings blend point differential, shrunk toward average, with the last three games. The playoff percentage is a season simulation. It is not a betting line.</p>
+  </footer>
+  </div>
+
+  <script src="js/common.js?v=20260926a"></script>
+  <script src="js/league.js?v=20260926a"></script>
+</body>
+</html>
