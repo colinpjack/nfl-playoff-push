@@ -1196,7 +1196,7 @@ body.league h1 {
 }
 
 body.league .topbar {
-  align-items: center;
+  align-items: flex-start;
   justify-content: flex-start;
 }
 body.league .brand { flex: 0 1 auto; min-width: 0; }
@@ -1247,7 +1247,7 @@ body.league .top-meta { margin-left: auto; }
 .mine-cols,
 .mine-row {
   display: grid;
-  grid-template-columns: 22px 36px 28px minmax(40px, 1fr) 52px 42px;
+  grid-template-columns: 22px 36px 30px 36px minmax(48px, 1fr) 36px;
   gap: 4px;
   align-items: center;
 }
@@ -1269,7 +1269,7 @@ body.league .top-meta { margin-left: auto; }
 }
 
 .mine-row {
-  padding: 4px 2px;
+  padding: 2px;
   border-radius: 8px;
   font-size: 12px;
   font-weight: 700;
@@ -1284,6 +1284,7 @@ body.league .top-meta { margin-left: auto; }
   font-family: "IBM Plex Mono", monospace;
   font-size: 12px;
 }
+.mine-trend { font-size: 13px; text-align: center; }
 .mine-trend.up,
 .mine-magic.in { color: var(--win); }
 .mine-trend.down,

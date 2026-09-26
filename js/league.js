@@ -177,6 +177,7 @@ function renderLast(data) {
 }
 
 const MY_TEAMS_KEY = "push-my-teams";
+const MY_TEAM_COUNT = 5;
 let leagueData = null;
 let myTeamsEditing = false;
 let trackedMemory = null;
@@ -190,7 +191,7 @@ function trackedTeams() {
     saved = [];
   }
   if (!Array.isArray(saved)) saved = [];
-  const abbrs = [0, 1, 2].map((index) => String(saved[index] || "").toUpperCase());
+  const abbrs = Array.from({ length: MY_TEAM_COUNT }, (_, index) => String(saved[index] || "").toUpperCase());
   const seen = new Set();
   return abbrs.map((abbr) => {
     if (!abbr || seen.has(abbr)) return "";
@@ -201,7 +202,7 @@ function trackedTeams() {
 
 function setTracked(abbrs) {
   const seen = new Set();
-  const next = [0, 1, 2].map((index) => {
+  const next = Array.from({ length: MY_TEAM_COUNT }, (_, index) => {
     const abbr = String(abbrs[index] || "").toUpperCase();
     if (!abbr || seen.has(abbr)) return "";
     seen.add(abbr);
@@ -304,8 +305,8 @@ function renderMyTeams(data) {
   if (!body) return;
   if (editing) {
     body.innerHTML = `<div class="mine-picks">
-      ${[0, 1, 2].map((slot) => teamSelect(rows, tracked, slot)).join("")}
-      <p class="mine-note">Pick up to three. Saved on this browser.</p>
+      ${Array.from({ length: MY_TEAM_COUNT }, (_, slot) => teamSelect(rows, tracked, slot)).join("")}
+      <p class="mine-note">Pick up to five. Saved on this browser.</p>
     </div>`;
     return;
   }
@@ -315,15 +316,16 @@ function renderMyTeams(data) {
     }
     const team = byAbbr[abbr];
     const direction = team.formDirection || "flat";
-    const trend = signed(team.formDiff);
+    const trend = direction === "up" ? "▲" : direction === "down" ? "▼" : "—";
+    const trendWord = direction === "up" ? "up" : direction === "down" ? "down" : "unchanged";
     const slate = slateFor(abbr, data);
     const magic = magicFor(team, rows);
-    const summary = `${team.name}, power rank ${team.rank}, trend ${trend} over the last three games, ${slate.label}, magic number ${magic.value}.`;
+    const summary = `${team.name}, power rank ${team.rank}, trend ${trendWord} over the last three games, ${slate.label}, magic number ${magic.value}.`;
     return `<a class="mine-row" href="${teamHref(abbr)}" aria-label="${esc(summary)}">
       <img src="${esc(team.logo)}" alt="" />
       <span class="mine-abbr">${esc(abbr)}</span>
       <span class="mine-rank">${esc(team.rank)}</span>
-      <span class="mine-trend ${esc(direction)}" title="Point differential over the last three games">${esc(trend)}</span>
+      <span class="mine-trend ${esc(direction)}" title="Last three games are ${esc(trendWord)}">${trend}</span>
       <span class="mine-week" title="${esc(slate.title)}">${esc(slate.label)}</span>
       <span class="mine-magic ${esc(magic.kind)}" title="${esc(magic.title)}">${esc(magic.value)}</span>
     </a>`;
