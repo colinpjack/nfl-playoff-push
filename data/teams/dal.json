@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:59:45.176849-04:00",
+  "generatedAt": "2026-09-26T17:04:11.772615-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1840,12 +1840,6 @@
       "detail": ""
     },
     {
-      "name": "P.J. Locke",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "DeMarvion Overshown",
       "position": "LB",
       "status": "Out",
@@ -1878,6 +1872,12 @@
     {
       "name": "Marist Liufau",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "P.J. Locke",
+      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },
