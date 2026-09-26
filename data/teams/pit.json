@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:04:11.772615-04:00",
+  "generatedAt": "2026-09-26T19:34:58.553040-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1828,12 +1828,6 @@
       "detail": ""
     },
     {
-      "name": "Gennings Dunker",
-      "position": "G",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Michael Pittman Jr.",
       "position": "WR",
       "status": "Questionable",
@@ -1866,6 +1860,12 @@
     {
       "name": "Jack Driscoll",
       "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Gennings Dunker",
+      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },

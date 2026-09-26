@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:04:11.772615-04:00",
+  "generatedAt": "2026-09-26T19:34:58.553040-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1828,12 +1828,6 @@
       "detail": ""
     },
     {
-      "name": "Alec Pierce",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Charvarius Ward",
       "position": "CB",
       "status": "Questionable",
@@ -1865,6 +1859,12 @@
     },
     {
       "name": "D.J. Montgomery",
+      "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Alec Pierce",
       "position": "WR",
       "status": "Injured Reserve",
       "detail": ""

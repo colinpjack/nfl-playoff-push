@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:04:11.772615-04:00",
+  "generatedAt": "2026-09-26T19:34:58.553040-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1822,12 +1822,6 @@
   },
   "injuries": [
     {
-      "name": "Jonah Coleman",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "status": "Questionable",
@@ -1842,6 +1836,12 @@
     {
       "name": "Levelle Bailey",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jonah Coleman",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
