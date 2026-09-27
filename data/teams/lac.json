@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Highmark Stadium",
       "broadcast": "FOX",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "1:16 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 32,
       "homeAbbr": "BUF",
@@ -1670,7 +1670,7 @@
       "interest": "Chargers game",
       "tagClass": "jays",
       "note": "The Chargers are on the road against the Bills.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Chiefs loss helps the West race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bengals hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 6 seed. A loss helps the cut line. The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",
@@ -1834,15 +1834,15 @@
       "detail": ""
     },
     {
-      "name": "Charlie Kolar",
-      "position": "TE",
+      "name": "Alex Harkey",
+      "position": "G",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Trey Lance",
-      "position": "QB",
-      "status": "Questionable",
+      "name": "Charlie Kolar",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1852,15 +1852,15 @@
       "detail": ""
     },
     {
-      "name": "Elijah Molden",
-      "position": "CB",
+      "name": "DJ Uiagalelei",
+      "position": "QB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Rodney Shelley",
+      "name": "Elijah Molden",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

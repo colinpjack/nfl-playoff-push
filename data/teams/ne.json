@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "EverBank Stadium",
       "broadcast": "CBS",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "2:00 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 47,
       "homeAbbr": "JAX",
@@ -1670,7 +1670,7 @@
       "interest": "Patriots game",
       "tagClass": "jays",
       "note": "The Patriots are on the road against the Jaguars.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line. A Dolphins loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Bills loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Jets loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bengals hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",
@@ -1822,8 +1822,32 @@
   },
   "injuries": [
     {
+      "name": "Dametrious Crownover",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Behren Morton",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Eli Raridon",
       "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Greg Van Roten",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Christian Barmore",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1834,9 +1858,15 @@
       "detail": ""
     },
     {
+      "name": "Leonard Taylor III",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Craig Woodson",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

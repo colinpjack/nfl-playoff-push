@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "Huntington Bank Field",
       "broadcast": "FOX",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "1:43 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 42,
       "homeAbbr": "CLE",
@@ -1670,7 +1670,7 @@
       "interest": "Browns game",
       "tagClass": "jays",
       "note": "The Browns are at home against the Panthers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Bengals loss helps the North race. A Steelers loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1725,7 +1725,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 6 seed. A loss helps the cut line. The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",
@@ -1822,6 +1822,18 @@
   },
   "injuries": [
     {
+      "name": "Parker Brailsford",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Taylen Green",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Teven Jenkins",
       "position": "G",
       "status": "Out",
@@ -1830,13 +1842,13 @@
     {
       "name": "Tyson Campbell",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Grant Delpit",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Justin Jefferson",
+      "position": "LB",
+      "status": "Out",
       "detail": ""
     },
     {

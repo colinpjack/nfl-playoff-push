@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Acrisure Stadium",
       "broadcast": "CBS",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "2:00 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 60,
       "homeAbbr": "PIT",
@@ -1670,7 +1670,7 @@
       "interest": "Bengals game",
       "tagClass": "jays",
       "note": "The Bengals are on the road against the Steelers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Browns loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1725,7 +1725,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 6 seed. A loss helps the cut line. The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",
@@ -1822,9 +1822,45 @@
   },
   "injuries": [
     {
+      "name": "Jack Endries",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Myles Hinton",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Connor Lew",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Colbie Young",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "B.J. Hill",
       "position": "DT",
-      "status": "Doubtful",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Josh Newton",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Landon Robinson",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {

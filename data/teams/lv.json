@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1670,7 +1670,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Chiefs loss helps the West race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Chargers loss helps the West race. The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bengals hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 6 seed. A loss helps the cut line. The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",

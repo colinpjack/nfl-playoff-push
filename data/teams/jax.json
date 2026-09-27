@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "EverBank Stadium",
       "broadcast": "CBS",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "2:00 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 53,
       "homeAbbr": "JAX",
@@ -1670,7 +1670,7 @@
       "interest": "Jaguars game",
       "tagClass": "jays",
       "note": "The Jaguars are at home against the Patriots.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Texans loss helps the South race. A Colts loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Titans loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bengals hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1725,7 +1725,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1736,7 +1736,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",
@@ -1822,9 +1822,39 @@
   },
   "injuries": [
     {
+      "name": "Daniel Faalele",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "CJ Williams",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jalen Huskey",
+      "position": "S",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jack Kiser",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Albert Regis",
       "position": "DT",
-      "status": "Doubtful",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Wesley Williams",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {

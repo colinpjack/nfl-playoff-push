@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:54:05.496354-04:00",
+  "generatedAt": "2026-09-27T14:18:44.821473-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Hard Rock Stadium",
       "broadcast": "CBS",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "1:48 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 30,
       "homeAbbr": "MIA",
@@ -1670,7 +1670,7 @@
       "interest": "Dolphins game",
       "tagClass": "jays",
       "note": "The Dolphins are at home against the Chiefs.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1681,7 +1681,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Bills loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1692,7 +1692,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Jets loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1703,7 +1703,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Patriots loss helps the East race. The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T17:00Z",
@@ -1714,7 +1714,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bengals hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-09-27T20:25Z",
@@ -1822,21 +1822,39 @@
   },
   "injuries": [
     {
+      "name": "De'Von Achane",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DJ Campbell",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Brady Cook",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Caleb Douglas",
       "position": "WR",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Ryan Miller",
-      "position": "WR",
-      "status": "Questionable",
+      "name": "Chukwuebuka Godrick",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaylen Wright",
       "position": "RB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1846,9 +1864,9 @@
       "detail": ""
     },
     {
-      "name": "JuJu Brents",
+      "name": "Marcellas Dial Jr.",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
