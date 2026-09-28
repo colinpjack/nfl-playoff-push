@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1823,38 +1823,8 @@
   },
   "injuries": [
     {
-      "name": "Ethan Onianwa",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Cooper Rush",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Strand",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Malcolm DeWalt IV",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Samson Ebukam",
       "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Robert Longerbeam",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1812,24 +1812,6 @@
   },
   "injuries": [
     {
-      "name": "Jack Endries",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Myles Hinton",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Connor Lew",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Colbie Young",
       "position": "WR",
       "status": "Questionable",
@@ -1843,18 +1825,6 @@
     },
     {
       "name": "B.J. Hill",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Josh Newton",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Landon Robinson",
       "position": "DT",
       "status": "Out",
       "detail": ""

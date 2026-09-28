@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1835,20 +1835,8 @@
       "detail": ""
     },
     {
-      "name": "J.J. McCarthy",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Josh Oliver",
       "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Caleb Tiernan",
-      "position": "OT",
       "status": "Out",
       "detail": ""
     },
@@ -1856,30 +1844,6 @@
       "name": "Charles Demmings",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jakobe Thomas",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tavierre Thomas",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Zemaiah Vaughn",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Elijah Williams",
-      "position": "DE",
-      "status": "Out",
       "detail": ""
     },
     {

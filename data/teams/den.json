@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1823,30 +1823,6 @@
   },
   "injuries": [
     {
-      "name": "Dallen Bentley",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kage Casey",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sam Ehlinger",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "status": "Out",
@@ -1855,18 +1831,6 @@
     {
       "name": "Jonathon Cooper",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sai'vion Jones",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tyler Onyedim",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

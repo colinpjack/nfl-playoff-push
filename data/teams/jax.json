@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1823,38 +1823,8 @@
   },
   "injuries": [
     {
-      "name": "Daniel Faalele",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "CJ Williams",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Huskey",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Kiser",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Albert Regis",
       "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Wesley Williams",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

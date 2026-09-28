@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1829,39 +1829,9 @@
       "detail": ""
     },
     {
-      "name": "Michael Carter",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Brandon Crenshaw-Dickson",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kylen Granson",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Atonio Mafi",
+      "name": "Jackson Slater",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jaylon Jones",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jackie Marshall",
-      "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

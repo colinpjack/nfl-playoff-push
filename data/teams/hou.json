@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1835,18 +1835,6 @@
       "detail": ""
     },
     {
-      "name": "Brevin Jordan",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nate Thomas",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jadeveon Clowney",
       "position": "DE",
       "status": "Out",
@@ -1856,12 +1844,6 @@
       "name": "Mario Edwards Jr.",
       "position": "DT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Collin Wright",
-      "position": "CB",
-      "status": "Out",
       "detail": ""
     },
     {

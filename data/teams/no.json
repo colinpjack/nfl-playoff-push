@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1831,25 +1831,13 @@
     {
       "name": "Travis Etienne Jr.",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Brock Rechsteiner",
       "position": "WR",
       "status": "Suspension",
-      "detail": ""
-    },
-    {
-      "name": "Treyton Welch",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Zach Wilson",
-      "position": "QB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1871,21 +1859,9 @@
       "detail": ""
     },
     {
-      "name": "John Ridgeway III",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Pete Werner",
       "position": "LB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tyree Wilson",
-      "position": "DE",
-      "status": "Out",
       "detail": ""
     },
     {

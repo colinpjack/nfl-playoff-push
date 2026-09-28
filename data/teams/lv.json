@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1829,12 +1829,6 @@
       "detail": ""
     },
     {
-      "name": "Bryce Cabeldue",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Aidan O'Connell",
       "position": "QB",
       "status": "Out",
@@ -1844,24 +1838,6 @@
       "name": "Jackson Powers-Johnson",
       "position": "G",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dalton Johnson",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Darrell Luter Jr.",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "JJ Pegues",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {

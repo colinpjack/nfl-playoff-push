@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1812,18 +1812,6 @@
   },
   "injuries": [
     {
-      "name": "Parker Brailsford",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Taylen Green",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Teven Jenkins",
       "position": "G",
       "status": "Out",
@@ -1832,12 +1820,6 @@
     {
       "name": "Tyson Campbell",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Justin Jefferson",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },

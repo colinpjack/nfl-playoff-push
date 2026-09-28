@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1823,15 +1823,9 @@
   },
   "injuries": [
     {
-      "name": "Luke Haggard",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Baker Mayfield",
       "position": "QB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1841,26 +1835,8 @@
       "detail": ""
     },
     {
-      "name": "Billy Schrauth",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Rueben Bain Jr.",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ayden Garnes",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Rakeem Nunez-Roches",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

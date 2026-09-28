@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:58:09.656366-04:00",
+  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1829,12 +1829,6 @@
       "detail": ""
     },
     {
-      "name": "Haynes King",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Xavier Legette",
       "position": "WR",
       "status": "Out",
@@ -1847,20 +1841,8 @@
       "detail": ""
     },
     {
-      "name": "Albert Reese IV",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Cam Jackson",
-      "position": "DT",
+      "name": "Jaycee Horn",
+      "position": "CB",
       "status": "Out",
       "detail": ""
     },
