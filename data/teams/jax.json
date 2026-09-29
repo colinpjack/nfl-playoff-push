@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T09:17:54.710925-04:00",
+  "generatedAt": "2026-09-29T14:51:22.462844-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -102,11 +102,11 @@
     }
   },
   "playoffOdds": {
-    "percent": 94.94,
+    "percent": 94.98,
     "sims": 5000,
-    "note": "Division title in 91.1% of sims, wild card in 3.8%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "note": "Division title in 91.1% of sims, wild card in 3.9%. Point differential, shrunk toward average, plus home field. Not a betting line.",
     "divisionPercent": 91.1,
-    "wildcardPercent": 3.84
+    "wildcardPercent": 3.88
   },
   "kpis": [
     {
@@ -273,7 +273,7 @@
       "ypg": 424.0,
       "yapg": 283.3,
       "to": 3,
-      "playoffPct": 92.52,
+      "playoffPct": 92.48,
       "powerRank": 3,
       "gb": "+1",
       "gbValue": -1.0,
@@ -309,7 +309,7 @@
       "ypg": 417.0,
       "yapg": 382.7,
       "to": -2,
-      "playoffPct": 86.36,
+      "playoffPct": 86.3,
       "powerRank": 8,
       "gb": "+1",
       "gbValue": -1.0,
@@ -345,7 +345,7 @@
       "ypg": 324.7,
       "yapg": 337.3,
       "to": 4,
-      "playoffPct": 94.94,
+      "playoffPct": 94.98,
       "powerRank": 2,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -417,7 +417,7 @@
       "ypg": 320.3,
       "yapg": 338.7,
       "to": 5,
-      "playoffPct": 90.48,
+      "playoffPct": 90.68,
       "powerRank": 5,
       "gb": "+1",
       "gbValue": -1.0,
@@ -453,7 +453,7 @@
       "ypg": 415.7,
       "yapg": 336.3,
       "to": 1,
-      "playoffPct": 67.34,
+      "playoffPct": 67.44,
       "powerRank": 10,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -489,7 +489,7 @@
       "ypg": 282.7,
       "yapg": 398.0,
       "to": 0,
-      "playoffPct": 31.92,
+      "playoffPct": 31.82,
       "powerRank": 19,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -525,7 +525,7 @@
       "ypg": 283.3,
       "yapg": 359.7,
       "to": -1,
-      "playoffPct": 30.92,
+      "playoffPct": 31.04,
       "powerRank": 24,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -561,7 +561,7 @@
       "ypg": 339.0,
       "yapg": 382.7,
       "to": 2,
-      "playoffPct": 67.18,
+      "playoffPct": 67.08,
       "powerRank": 9,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -633,7 +633,7 @@
       "ypg": 319.7,
       "yapg": 298.0,
       "to": -5,
-      "playoffPct": 18.66,
+      "playoffPct": 18.58,
       "powerRank": 21,
       "gb": "1",
       "gbValue": 1.0,
@@ -669,7 +669,7 @@
       "ypg": 307.0,
       "yapg": 432.3,
       "to": -5,
-      "playoffPct": 19.3,
+      "playoffPct": 19.32,
       "powerRank": 27,
       "gb": "1",
       "gbValue": 1.0,
@@ -705,7 +705,7 @@
       "ypg": 307.3,
       "yapg": 335.3,
       "to": -1,
-      "playoffPct": 1.5,
+      "playoffPct": 1.52,
       "powerRank": 32,
       "gb": "2",
       "gbValue": 2.0,
@@ -741,7 +741,7 @@
       "ypg": 322.0,
       "yapg": 361.0,
       "to": 0,
-      "playoffPct": 1.92,
+      "playoffPct": 1.98,
       "powerRank": 30,
       "gb": "2",
       "gbValue": 2.0,
@@ -777,7 +777,7 @@
       "ypg": 258.3,
       "yapg": 325.3,
       "to": -1,
-      "playoffPct": 4.9,
+      "playoffPct": 4.82,
       "powerRank": 29,
       "gb": "2",
       "gbValue": 2.0,
@@ -813,7 +813,7 @@
       "ypg": 349.3,
       "yapg": 345.3,
       "to": 1,
-      "playoffPct": 6.8,
+      "playoffPct": 6.7,
       "powerRank": 28,
       "gb": "2",
       "gbValue": 2.0,
@@ -851,7 +851,7 @@
       "ypg": 324.7,
       "yapg": 337.3,
       "to": 4,
-      "playoffPct": 94.94,
+      "playoffPct": 94.98,
       "powerRank": 2,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -888,7 +888,7 @@
       "ypg": 307.0,
       "yapg": 432.3,
       "to": -5,
-      "playoffPct": 19.3,
+      "playoffPct": 19.32,
       "powerRank": 27,
       "gb": "1",
       "gbValue": 1.0,
@@ -925,7 +925,7 @@
       "ypg": 258.3,
       "yapg": 325.3,
       "to": -1,
-      "playoffPct": 4.9,
+      "playoffPct": 4.82,
       "powerRank": 29,
       "gb": "2",
       "gbValue": 2.0,
@@ -962,7 +962,7 @@
       "ypg": 349.3,
       "yapg": 345.3,
       "to": 1,
-      "playoffPct": 6.8,
+      "playoffPct": 6.7,
       "powerRank": 28,
       "gb": "2",
       "gbValue": 2.0,
@@ -1001,7 +1001,7 @@
       "ypg": 417.0,
       "yapg": 382.7,
       "to": -2,
-      "playoffPct": 86.36,
+      "playoffPct": 86.3,
       "powerRank": 8
     },
     {
@@ -1061,7 +1061,7 @@
       "ypg": 324.7,
       "yapg": 337.3,
       "to": 4,
-      "playoffPct": 94.94,
+      "playoffPct": 94.98,
       "powerRank": 2
     },
     {
@@ -1091,7 +1091,7 @@
       "ypg": 424.0,
       "yapg": 283.3,
       "to": 3,
-      "playoffPct": 92.52,
+      "playoffPct": 92.48,
       "powerRank": 3
     }
   ],
@@ -1124,7 +1124,7 @@
       "ypg": 324.7,
       "yapg": 337.3,
       "to": 4,
-      "playoffPct": 94.94,
+      "playoffPct": 94.98,
       "powerRank": 2
     },
     {
@@ -1154,7 +1154,7 @@
       "ypg": 307.0,
       "yapg": 432.3,
       "to": -5,
-      "playoffPct": 19.3,
+      "playoffPct": 19.32,
       "powerRank": 27
     },
     {
@@ -1184,7 +1184,7 @@
       "ypg": 258.3,
       "yapg": 325.3,
       "to": -1,
-      "playoffPct": 4.9,
+      "playoffPct": 4.82,
       "powerRank": 29
     },
     {
@@ -1214,7 +1214,7 @@
       "ypg": 349.3,
       "yapg": 345.3,
       "to": 1,
-      "playoffPct": 6.8,
+      "playoffPct": 6.7,
       "powerRank": 28
     }
   ],
@@ -1825,7 +1825,7 @@
     {
       "name": "Albert Regis",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
