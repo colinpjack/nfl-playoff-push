@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:09:32.972536-04:00",
+  "generatedAt": "2026-09-29T09:17:54.710925-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -160,7 +160,7 @@
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "88%",
+      "value": "89%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -207,7 +207,7 @@
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "88%",
+      "value": "89%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "up"
     },
@@ -221,9 +221,9 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "29:38",
+      "value": "31:29",
       "detail": "Per game. Thirty minutes is a split clock.",
-      "direction": "flat"
+      "direction": "up"
     }
   ],
   "paths": {

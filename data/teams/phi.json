@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:09:32.972536-04:00",
+  "generatedAt": "2026-09-29T09:17:54.710925-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -48,7 +48,7 @@
     "\u2014 GB OF THE CUT LINE",
     "NEXT SUN VS LAR",
     "BYE WEEK 10",
-    "PASSER RATING 100.7"
+    "PASSER RATING 84.5"
   ],
   "narrative": {
     "kicker": "Inside the NFC field",
@@ -124,7 +124,7 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "24.0",
+      "value": "18.3",
       "hint": "League average sits near 22"
     },
     {
@@ -136,7 +136,7 @@
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "346.0",
+      "value": "317.3",
       "hint": "Total offense, pass plus rush"
     },
     {
@@ -148,25 +148,25 @@
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "-2",
+      "value": "-5",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "53%",
-      "hint": "17-32 \u00b7 around 40% is average"
+      "value": "46%",
+      "hint": "19-41 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "71%",
+      "value": "67%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-3",
+      "value": "-5",
       "hint": "Sacks recorded minus sacks allowed"
     },
     {
@@ -193,37 +193,37 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "+1",
-      "detail": "24.0 scored, 23.0 allowed.",
-      "direction": "up"
+      "value": "-4.7",
+      "detail": "18.3 scored, 23.0 allowed.",
+      "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "53%",
-      "detail": "17-32",
+      "value": "46%",
+      "detail": "19-41",
       "direction": "up"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "71%",
+      "value": "67%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "up"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-3",
+      "value": "-5",
       "detail": "Pass rush minus pass protection.",
       "direction": "down"
     },
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "31:32",
+      "value": "28:44",
       "detail": "Per game. Thirty minutes is a split clock.",
-      "direction": "up"
+      "direction": "flat"
     }
   ],
   "paths": {
@@ -342,9 +342,9 @@
       "home": "1-0",
       "road": "1-1",
       "gr": 14,
-      "ypg": 346.0,
+      "ypg": 317.3,
       "yapg": 325.3,
-      "to": -2,
+      "to": -5,
       "playoffPct": 39.0,
       "powerRank": 20,
       "gb": "\u2014",
@@ -450,9 +450,9 @@
       "home": "1-1",
       "road": "1-0",
       "gr": 14,
-      "ypg": 443.0,
+      "ypg": 420.3,
       "yapg": 336.0,
-      "to": 0,
+      "to": 3,
       "playoffPct": 83.26,
       "powerRank": 4,
       "gb": "\u2014",
@@ -848,9 +848,9 @@
       "home": "1-0",
       "road": "1-1",
       "gr": 14,
-      "ypg": 346.0,
+      "ypg": 317.3,
       "yapg": 325.3,
-      "to": -2,
+      "to": -5,
       "playoffPct": 39.0,
       "powerRank": 20,
       "gb": "\u2014",
@@ -998,9 +998,9 @@
       "home": "1-0",
       "road": "1-1",
       "gr": 14,
-      "ypg": 346.0,
+      "ypg": 317.3,
       "yapg": 325.3,
-      "to": -2,
+      "to": -5,
       "playoffPct": 39.0,
       "powerRank": 20
     },
@@ -1121,9 +1121,9 @@
       "home": "1-0",
       "road": "1-1",
       "gr": 14,
-      "ypg": 346.0,
+      "ypg": 317.3,
       "yapg": 325.3,
-      "to": -2,
+      "to": -5,
       "playoffPct": 39.0,
       "powerRank": 20
     },
@@ -2086,5 +2086,5 @@
       }
     ]
   },
-  "qbRating": 100.7
+  "qbRating": 84.5
 }
