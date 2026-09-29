@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:51:22.462844-04:00",
+  "generatedAt": "2026-09-29T18:56:36.705197-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1829,12 +1829,6 @@
       "detail": ""
     },
     {
-      "name": "Greg Van Roten",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Christian Barmore",
       "position": "DT",
       "status": "Questionable",
@@ -1916,6 +1910,12 @@
       "name": "Brenden Schooler",
       "position": "S",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Greg Van Roten",
+      "position": "G",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

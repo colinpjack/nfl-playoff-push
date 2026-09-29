@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:51:22.462844-04:00",
+  "generatedAt": "2026-09-29T18:56:36.705197-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1861,7 +1861,7 @@
     {
       "name": "James Ester",
       "position": "G",
-      "status": "Questionable",
+      "status": "IR",
       "detail": ""
     },
     {
