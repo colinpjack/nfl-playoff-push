@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
+  "generatedAt": "2026-09-28T20:20:30.092336-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Soldier Field",
       "broadcast": "ESPN, ABC",
-      "detail": "9/28 - 8:15 PM EDT",
-      "live": false,
+      "detail": "12:38 - 1st",
+      "live": true,
       "final": false,
       "winPct": 43,
       "homeAbbr": "CHI",
@@ -1670,7 +1670,7 @@
       "interest": "Eagles game",
       "tagClass": "jays",
       "note": "The Eagles are on the road against the Bears.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-04T13:30Z",
@@ -1840,9 +1840,21 @@
       "detail": ""
     },
     {
-      "name": "Jonathan Greenard",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Tanner McKee",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Cole Payton",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "AJ Epenesa",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {

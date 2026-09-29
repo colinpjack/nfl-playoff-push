@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
+  "generatedAt": "2026-09-28T20:20:30.092336-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1811,6 +1811,18 @@
     "elimRival": "PIT"
   },
   "injuries": [
+    {
+      "name": "Jovaughn Gwyn",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ethan Pocic",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
     {
       "name": "Ronnie Stanley",
       "position": "OT",

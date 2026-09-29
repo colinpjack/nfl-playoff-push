@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
+  "generatedAt": "2026-09-28T20:20:30.092336-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1642,7 +1642,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Eagles loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-04T13:30Z",

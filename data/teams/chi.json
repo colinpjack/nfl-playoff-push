@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
+  "generatedAt": "2026-09-28T20:20:30.092336-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Soldier Field",
       "broadcast": "ESPN, ABC",
-      "detail": "9/28 - 8:15 PM EDT",
-      "live": false,
+      "detail": "12:38 - 1st",
+      "live": true,
       "final": false,
       "winPct": 57,
       "homeAbbr": "CHI",
@@ -1670,7 +1670,7 @@
       "interest": "Bears game",
       "tagClass": "jays",
       "note": "The Bears are at home against the Eagles.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-04T17:00Z",
@@ -1822,8 +1822,32 @@
   },
   "injuries": [
     {
+      "name": "Jordan McFadden",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ozzy Trapilo",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Caleb Williams",
       "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jamree Kromah",
+      "position": "DE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jayden Loving",
+      "position": "DT",
       "status": "Out",
       "detail": ""
     },

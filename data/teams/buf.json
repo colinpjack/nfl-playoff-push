@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
+  "generatedAt": "2026-09-28T20:20:30.092336-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1823,6 +1823,12 @@
   },
   "injuries": [
     {
+      "name": "Josh Allen",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Ar'maj Reed-Adams",
       "position": "G",
       "status": "Out",
@@ -1832,12 +1838,6 @@
       "name": "Christian Benford",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Phidarian Mathis",
-      "position": "DT",
-      "status": "Suspension",
       "detail": ""
     },
     {

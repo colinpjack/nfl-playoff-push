@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:02.254907-04:00",
+  "generatedAt": "2026-09-28T20:20:30.092336-04:00",
   "season": 2026,
   "week": 3,
   "weekLabel": "Week 3 \u00b7 2026",
@@ -3592,8 +3592,8 @@
       "id": "401872963",
       "date": "2026-09-29T00:15Z",
       "week": 3,
-      "status": "Mon, Sep 28 \u00b7 8:15 PM",
-      "live": false,
+      "status": "12:38 - 1st",
+      "live": true,
       "completed": false,
       "venue": "Soldier Field",
       "broadcast": "ESPN, ABC",
