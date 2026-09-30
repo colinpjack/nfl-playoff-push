@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:37.882427-04:00",
+  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1823,39 +1823,21 @@
   },
   "injuries": [
     {
-      "name": "Tytus Howard",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Elgton Jenkins",
       "position": "C",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Teven Jenkins",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Tylan Wallace",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tyson Campbell",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Grant Delpit",
-      "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

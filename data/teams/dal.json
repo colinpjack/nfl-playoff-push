@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:37.882427-04:00",
+  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1829,12 +1829,6 @@
       "detail": ""
     },
     {
-      "name": "Jonathan Bullard",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Cobie Durant",
       "position": "CB",
       "status": "Doubtful",
@@ -1859,9 +1853,9 @@
       "detail": ""
     },
     {
-      "name": "Jalen Thompson",
-      "position": "S",
-      "status": "Out",
+      "name": "Jonathan Bullard",
+      "position": "DT",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1909,6 +1903,12 @@
     {
       "name": "DJ Rogers",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jalen Thompson",
+      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     }

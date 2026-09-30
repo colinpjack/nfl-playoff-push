@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:37.882427-04:00",
+  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1829,38 +1829,26 @@
       "detail": ""
     },
     {
+      "name": "Monroe Freeling",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Xavier Legette",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Damien Lewis",
       "position": "G",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Jaycee Horn",
-      "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Mike Jackson",
-      "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Devin Lloyd",
+      "name": "Princely Umanmielen",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nick Scott",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1897,6 +1885,18 @@
     {
       "name": "Trevor Etienne",
       "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jaycee Horn",
+      "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Mike Jackson",
+      "position": "CB",
       "status": "Injured Reserve",
       "detail": ""
     },

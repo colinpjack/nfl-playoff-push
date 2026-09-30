@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:37.882427-04:00",
+  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1823,6 +1823,12 @@
   },
   "injuries": [
     {
+      "name": "Nick Allegretti",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Sam Cosmi",
       "position": "G",
       "status": "Out",
@@ -1836,6 +1842,18 @@
     },
     {
       "name": "Chig Okonkwo",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Lucas Patrick",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ben Sinnott",
       "position": "TE",
       "status": "Questionable",
       "detail": ""
@@ -1859,8 +1877,26 @@
       "detail": ""
     },
     {
+      "name": "Javon Kinlaw",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Frankie Luvu",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Charles Omenihu",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Amik Robertson",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

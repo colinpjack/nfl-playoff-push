@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:37.882427-04:00",
+  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1825,6 +1825,12 @@
     {
       "name": "Ben Bartch",
       "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "D.J. Reed",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

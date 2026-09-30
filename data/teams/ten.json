@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:37.882427-04:00",
+  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1823,6 +1823,24 @@
   },
   "injuries": [
     {
+      "name": "Tony Pollard",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyjae Spears",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Franklin-Myers",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Kendell Brooks",
       "position": "S",
       "status": "Injured Reserve",
@@ -1844,12 +1862,6 @@
       "name": "Jaylen Harrell",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Andre James",
-      "position": "C",
-      "status": "Questionable",
       "detail": ""
     },
     {
