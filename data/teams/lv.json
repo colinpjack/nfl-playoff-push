@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:03:08.946545-04:00",
+  "generatedAt": "2026-09-30T04:26:49.641788-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1823,12 +1823,6 @@
   },
   "injuries": [
     {
-      "name": "Jack Bech",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Aidan O'Connell",
       "position": "QB",
       "status": "Questionable",
@@ -1849,6 +1843,12 @@
     {
       "name": "Chigozie Anusiem",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jack Bech",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1886,12 +1886,6 @@
       "name": "Carter Runyon",
       "position": "TE",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Justin Shorter",
-      "position": "WR",
-      "status": "Questionable",
       "detail": ""
     },
     {

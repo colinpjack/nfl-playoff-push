@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:03:08.946545-04:00",
+  "generatedAt": "2026-09-30T04:26:49.641788-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1823,20 +1823,14 @@
   },
   "injuries": [
     {
-      "name": "Fernando Carmona",
-      "position": "G",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Jackson Slater",
-      "position": "G",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Kendell Brooks",
       "position": "S",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Fernando Carmona",
+      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1873,6 +1867,12 @@
     {
       "name": "Dorian Mausi",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jackson Slater",
+      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:03:08.946545-04:00",
+  "generatedAt": "2026-09-30T04:26:49.641788-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1847,12 +1847,6 @@
       "detail": ""
     },
     {
-      "name": "Leo Chenal",
-      "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Nick Cross",
       "position": "S",
       "status": "Out",
@@ -1867,6 +1861,12 @@
     {
       "name": "Trey Amos",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Leo Chenal",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

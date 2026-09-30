@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:03:08.946545-04:00",
+  "generatedAt": "2026-09-30T04:26:49.641788-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1856,12 +1856,6 @@
       "name": "Storm Duck",
       "position": "CB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "James Ester",
-      "position": "G",
-      "status": "IR",
       "detail": ""
     },
     {
