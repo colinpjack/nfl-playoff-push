@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:29:53.365376-04:00",
+  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1856,6 +1856,12 @@
       "name": "Zack Baun",
       "position": "LB",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Chance Campbell",
+      "position": "LB",
+      "status": "Out",
       "detail": ""
     },
     {
