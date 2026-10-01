@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
+  "generatedAt": "2026-10-01T02:29:53.365376-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1835,15 +1835,15 @@
       "detail": ""
     },
     {
-      "name": "Kene Nwangwu",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Dylan Parham",
       "position": "G",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Jeremy Ruckert",
+      "position": "TE",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1856,6 +1856,12 @@
       "name": "Mason Taylor",
       "position": "TE",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Kingsley Enagbare",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
