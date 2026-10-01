@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1823,12 +1823,6 @@
   },
   "injuries": [
     {
-      "name": "Chris Godwin Jr.",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Bucky Irving",
       "position": "RB",
       "status": "Questionable",
@@ -1865,6 +1859,12 @@
       "detail": ""
     },
     {
+      "name": "Benjamin Morrison",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Rakeem Nunez-Roches",
       "position": "DT",
       "status": "Questionable",
@@ -1873,12 +1873,6 @@
     {
       "name": "Keionte Scott",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Josiah Trotter",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

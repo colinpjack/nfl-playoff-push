@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1843,12 +1843,6 @@
     {
       "name": "Dadrion Taylor-Demerson",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mack Wilson Sr.",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

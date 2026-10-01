@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1823,6 +1823,12 @@
   },
   "injuries": [
     {
+      "name": "Taylen Green",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Elgton Jenkins",
       "position": "C",
       "status": "Out",
@@ -1837,6 +1843,12 @@
     {
       "name": "Tylan Wallace",
       "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Justin Jefferson",
+      "position": "LB",
       "status": "Out",
       "detail": ""
     },

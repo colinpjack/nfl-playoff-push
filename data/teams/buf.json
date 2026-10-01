@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1847,6 +1847,12 @@
       "detail": ""
     },
     {
+      "name": "Sam Franklin Jr.",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Damar Hamlin",
       "position": "S",
       "status": "Questionable",
@@ -1854,12 +1860,6 @@
     },
     {
       "name": "T.J. Sanders",
-      "position": "DT",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Deone Walker",
       "position": "DT",
       "status": "Questionable",
       "detail": ""

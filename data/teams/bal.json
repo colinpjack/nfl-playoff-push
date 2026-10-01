@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1823,21 +1823,9 @@
   },
   "injuries": [
     {
-      "name": "Zay Flowers",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jovaughn Gwyn",
       "position": "G",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Lamar Jackson",
-      "position": "QB",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1853,18 +1841,6 @@
       "detail": ""
     },
     {
-      "name": "John Simpson",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Durham Smythe",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ronnie Stanley",
       "position": "OT",
       "status": "Questionable",
@@ -1873,12 +1849,6 @@
     {
       "name": "Trey Hendrickson",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marlon Humphrey",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

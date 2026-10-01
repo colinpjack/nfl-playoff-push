@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1841,6 +1841,12 @@
       "detail": ""
     },
     {
+      "name": "Swayze Bozeman",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Bryan Cook",
       "position": "S",
       "status": "Questionable",
@@ -1855,6 +1861,12 @@
     {
       "name": "B.J. Hill",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DJ Turner II",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

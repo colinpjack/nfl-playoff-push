@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1829,9 +1829,9 @@
       "detail": ""
     },
     {
-      "name": "Travis Etienne Jr.",
-      "position": "RB",
-      "status": "Out",
+      "name": "Noah Fant",
+      "position": "TE",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1841,8 +1841,20 @@
       "detail": ""
     },
     {
-      "name": "Martin Emerson Jr.",
-      "position": "CB",
+      "name": "Julian Blackmon",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kaden Elliss",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Carl Granderson",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1878,6 +1890,12 @@
     },
     {
       "name": "Ty Chandler",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Travis Etienne Jr.",
       "position": "RB",
       "status": "Injured Reserve",
       "detail": ""

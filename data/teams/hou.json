@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:29:32.845537-04:00",
+  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1853,25 +1853,7 @@
       "detail": ""
     },
     {
-      "name": "Will Anderson Jr.",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Calen Bullock",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jadeveon Clowney",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Logan Hall",
       "position": "DE",
       "status": "Questionable",
       "detail": ""
@@ -1976,6 +1958,12 @@
       "name": "Henry To'oTo'o",
       "position": "LB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Noah Whittington",
+      "position": "RB",
+      "status": "Out",
       "detail": ""
     }
   ],
