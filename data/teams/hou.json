@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1823,6 +1823,18 @@
   },
   "injuries": [
     {
+      "name": "British Brooks",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Trent Brown",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Nico Collins",
       "position": "WR",
       "status": "Questionable",
@@ -1841,8 +1853,32 @@
       "detail": ""
     },
     {
+      "name": "Will Anderson Jr.",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Calen Bullock",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jadeveon Clowney",
       "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Logan Hall",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jake Hansen",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1861,7 +1897,7 @@
     {
       "name": "Mario Edwards Jr.",
       "position": "DT",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1823,21 +1823,15 @@
   },
   "injuries": [
     {
-      "name": "Marvin Mims Jr.",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaylen Waddle",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jonathon Cooper",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Dondrea Tillman",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1823,9 +1823,33 @@
   },
   "injuries": [
     {
+      "name": "Dalton Risner",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Colbie Young",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jordan Battle",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Bryan Cook",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kyle Dugger",
+      "position": "S",
+      "status": "Questionable",
       "detail": ""
     },
     {

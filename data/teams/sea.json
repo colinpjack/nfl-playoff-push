@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1823,6 +1823,24 @@
   },
   "injuries": [
     {
+      "name": "George Holani",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jadarian Price",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Grey Zabel",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
@@ -1842,6 +1860,12 @@
     },
     {
       "name": "Brandon Pili",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jarran Reed",
       "position": "DT",
       "status": "Questionable",
       "detail": ""

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1822,6 +1822,18 @@
     "elimRival": "PHI"
   },
   "injuries": [
+    {
+      "name": "Andrew Thomas",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
     {
       "name": "Deonte Banks",
       "position": "CB",

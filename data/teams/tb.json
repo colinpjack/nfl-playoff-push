@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1823,6 +1823,24 @@
   },
   "injuries": [
     {
+      "name": "Chris Godwin Jr.",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Bucky Irving",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ko Kieft",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Baker Mayfield",
       "position": "QB",
       "status": "Out",
@@ -1831,6 +1849,30 @@
     {
       "name": "Rueben Bain Jr.",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "SirVocea Dennis",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Yaya Diaby",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Rakeem Nunez-Roches",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Keionte Scott",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1823,6 +1823,18 @@
   },
   "injuries": [
     {
+      "name": "Reggie Gilliam",
+      "position": "FB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Morgan Moses",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Eli Raridon",
       "position": "TE",
       "status": "Questionable",
@@ -1831,6 +1843,18 @@
     {
       "name": "Christian Barmore",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Christian Elliss",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Christian Gonzalez",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1841,13 +1841,13 @@
       "detail": ""
     },
     {
-      "name": "Jayden Reed",
-      "position": "WR",
-      "status": "Out",
+      "name": "Warren Brinson",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Warren Brinson",
+      "name": "Karl Brooks",
       "position": "DT",
       "status": "Questionable",
       "detail": ""
@@ -1861,6 +1861,12 @@
     {
       "name": "Edgerrin Cooper",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Lukas Van Ness",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1892,6 +1898,12 @@
       "name": "Micah Parsons",
       "position": "DE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jayden Reed",
+      "position": "WR",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

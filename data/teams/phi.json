@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1841,21 +1841,33 @@
       "detail": ""
     },
     {
-      "name": "Tanner McKee",
-      "position": "QB",
-      "status": "Out",
+      "name": "Will Shipley",
+      "position": "RB",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Cole Payton",
-      "position": "QB",
-      "status": "Out",
+      "name": "DeVonta Smith",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "AJ Epenesa",
-      "position": "DE",
-      "status": "Out",
+      "name": "Zack Baun",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jihaad Campbell",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Moro Ojomo",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {

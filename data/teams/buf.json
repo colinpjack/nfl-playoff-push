@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:17:10.841916-04:00",
+  "generatedAt": "2026-09-30T20:09:47.692945-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1823,14 +1823,20 @@
   },
   "injuries": [
     {
-      "name": "Josh Allen",
-      "position": "QB",
+      "name": "Keon Coleman",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Ar'maj Reed-Adams",
-      "position": "G",
+      "name": "DJ Moore",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joe Andreessen",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1841,9 +1847,21 @@
       "detail": ""
     },
     {
+      "name": "Damar Hamlin",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "T.J. Sanders",
       "position": "DT",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Deone Walker",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {
