@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:44:35.445313-04:00",
+  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1835,12 +1835,6 @@
       "detail": ""
     },
     {
-      "name": "Jordan Battle",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Swayze Bozeman",
       "position": "LB",
       "status": "Questionable",
@@ -1855,18 +1849,12 @@
     {
       "name": "Kyle Dugger",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "B.J. Hill",
       "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "DJ Turner II",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

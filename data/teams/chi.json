@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:44:35.445313-04:00",
+  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1825,25 +1825,19 @@
     {
       "name": "Braxton Jones",
       "position": "OT",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "D'Andre Swift",
-      "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Caleb Williams",
       "position": "QB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Cam Lewis",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1921,7 +1915,7 @@
     {
       "name": "Anthony Johnson Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

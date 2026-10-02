@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:44:35.445313-04:00",
+  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1823,20 +1823,8 @@
   },
   "injuries": [
     {
-      "name": "Keon Coleman",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "DJ Moore",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Joe Andreessen",
-      "position": "LB",
+      "name": "Ray Davis",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1853,15 +1841,9 @@
       "detail": ""
     },
     {
-      "name": "Damar Hamlin",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "T.J. Sanders",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

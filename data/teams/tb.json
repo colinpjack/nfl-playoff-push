@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:44:35.445313-04:00",
+  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1823,15 +1823,9 @@
   },
   "injuries": [
     {
-      "name": "Bucky Irving",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ko Kieft",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1843,7 +1837,7 @@
     {
       "name": "Rueben Bain Jr.",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1861,7 +1855,7 @@
     {
       "name": "Benjamin Morrison",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

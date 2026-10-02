@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:44:35.445313-04:00",
+  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1823,30 +1823,6 @@
   },
   "injuries": [
     {
-      "name": "LeQuint Allen Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nate Boerkircher",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cole Van Lanen",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Christian Braswell",
       "position": "CB",
       "status": "Questionable",
@@ -1855,12 +1831,6 @@
     {
       "name": "Montaric Brown",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "DaVon Hamilton",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

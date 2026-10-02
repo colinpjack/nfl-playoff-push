@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:44:35.445313-04:00",
+  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1825,18 +1825,12 @@
     {
       "name": "British Brooks",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Trent Brown",
       "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nico Collins",
-      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
@@ -1849,11 +1843,17 @@
     {
       "name": "Azeez Al-Shaair",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jadeveon Clowney",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Logan Hall",
       "position": "DE",
       "status": "Questionable",
       "detail": ""
