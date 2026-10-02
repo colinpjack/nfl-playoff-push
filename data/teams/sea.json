@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
+  "generatedAt": "2026-10-01T22:33:08.650268-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1835,12 +1835,6 @@
       "detail": ""
     },
     {
-      "name": "Grey Zabel",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
@@ -1855,18 +1849,6 @@
     {
       "name": "Ty Okada",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Brandon Pili",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jarran Reed",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

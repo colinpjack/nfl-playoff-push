@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
+  "generatedAt": "2026-10-01T22:33:08.650268-04:00",
   "season": 2026,
   "week": 4,
   "weekLabel": "Week 4 \u00b7 2026",
@@ -3172,8 +3172,8 @@
       "id": "401872964",
       "date": "2026-10-02T00:15Z",
       "week": 4,
-      "status": "Thu, Oct 1 \u00b7 8:15 PM",
-      "live": false,
+      "status": "4:13 - 3rd",
+      "live": true,
       "completed": false,
       "venue": "Huntington Bank Field",
       "broadcast": "Prime Video",

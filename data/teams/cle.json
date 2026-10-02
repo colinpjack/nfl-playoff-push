@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:24:05.127111-04:00",
+  "generatedAt": "2026-10-01T22:33:08.650268-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Huntington Bank Field",
       "broadcast": "Prime Video",
-      "detail": "10/1 - 8:15 PM EDT",
-      "live": false,
+      "detail": "4:13 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 50,
       "homeAbbr": "CLE",
@@ -1642,7 +1642,7 @@
       "interest": "Browns game",
       "tagClass": "jays",
       "note": "The Browns are at home against the Steelers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-04T17:00Z",
@@ -1844,6 +1844,18 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Mason Graham",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Mike Hall Jr.",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {
