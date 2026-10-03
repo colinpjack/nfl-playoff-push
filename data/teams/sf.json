@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
+  "generatedAt": "2026-10-02T20:25:59.378603-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1835,26 +1835,20 @@
       "detail": ""
     },
     {
-      "name": "Trent Williams",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Nick Bosa",
       "position": "DE",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Dre Greenlaw",
+      "name": "Jaden Dugger",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Romello Height",
-      "position": "DE",
+      "name": "Dre Greenlaw",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

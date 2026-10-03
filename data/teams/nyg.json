@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
+  "generatedAt": "2026-10-02T20:25:59.378603-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1822,30 +1822,6 @@
     "elimRival": "PHI"
   },
   "injuries": [
-    {
-      "name": "Andrew Thomas",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tyrone Tracy Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Deonte Banks",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tyler Nubin",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
     {
       "name": "Paulson Adebo",
       "position": "CB",

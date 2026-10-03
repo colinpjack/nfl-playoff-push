@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
+  "generatedAt": "2026-10-02T20:25:59.378603-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1822,6 +1822,12 @@
     "elimRival": "CAR"
   },
   "injuries": [
+    {
+      "name": "Kendal Daniels",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
     {
       "name": "Divine Deablo",
       "position": "LB",

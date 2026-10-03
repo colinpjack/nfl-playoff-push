@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
+  "generatedAt": "2026-10-02T20:25:59.378603-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1823,27 +1823,15 @@
   },
   "injuries": [
     {
-      "name": "Hjalte Froholdt",
-      "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Roy Lopez",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Walter Nolen III",
-      "position": "DT",
+      "name": "Josh Sweat",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Dadrion Taylor-Demerson",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

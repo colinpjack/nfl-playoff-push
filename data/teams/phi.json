@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
+  "generatedAt": "2026-10-02T20:25:59.378603-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1825,7 +1825,7 @@
     {
       "name": "Hollywood Brown",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1837,13 +1837,7 @@
     {
       "name": "Fred Johnson",
       "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Will Shipley",
-      "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1855,7 +1849,7 @@
     {
       "name": "Zack Baun",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1867,13 +1861,7 @@
     {
       "name": "Marcus Epps",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Moro Ojomo",
-      "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

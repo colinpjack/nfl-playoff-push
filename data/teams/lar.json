@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:40:14.337165-04:00",
+  "generatedAt": "2026-10-02T20:25:59.378603-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1825,7 +1825,7 @@
     {
       "name": "Terrance Ferguson",
       "position": "TE",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1838,24 +1838,6 @@
       "name": "Aaron Donald",
       "position": "DT",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kamren Kinchens",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nate Landman",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Josh Wallace",
-      "position": "CB",
-      "status": "Questionable",
       "detail": ""
     },
     {
