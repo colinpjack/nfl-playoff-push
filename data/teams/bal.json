@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:06:35.331159-04:00",
+  "generatedAt": "2026-10-04T02:21:01.728009-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1829,21 +1829,9 @@
       "detail": ""
     },
     {
-      "name": "Jovaughn Gwyn",
-      "position": "G",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Chris Moore",
       "position": "WR",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Ethan Pocic",
-      "position": "C",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1856,6 +1844,12 @@
       "name": "Trey Hendrickson",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jovaughn Gwyn",
+      "position": "G",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1872,6 +1866,12 @@
     },
     {
       "name": "Danny Pinter",
+      "position": "C",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Ethan Pocic",
       "position": "C",
       "status": "Injured Reserve",
       "detail": ""

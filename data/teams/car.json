@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:06:35.331159-04:00",
+  "generatedAt": "2026-10-04T02:21:01.728009-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1829,12 +1829,6 @@
       "detail": ""
     },
     {
-      "name": "Xavier Legette",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Damien Lewis",
       "position": "G",
       "status": "Out",
@@ -1891,6 +1885,12 @@
     {
       "name": "Mike Jackson",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Xavier Legette",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },
