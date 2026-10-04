@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T02:21:01.728009-04:00",
+  "generatedAt": "2026-10-04T08:49:59.691246-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1835,9 +1835,15 @@
       "detail": ""
     },
     {
+      "name": "Luke McCaffrey",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Terry McLaurin",
       "position": "WR",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1847,14 +1853,14 @@
       "detail": ""
     },
     {
-      "name": "Percy Butler",
+      "name": "Nick Cross",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Nick Cross",
-      "position": "S",
+      "name": "Javontae Jean-Baptiste",
+      "position": "LB",
       "status": "Out",
       "detail": ""
     },
