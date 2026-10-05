@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:23:28.056175-04:00",
+  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -41,14 +41,14 @@
   "ticker": [
     "IND 2-2",
     "AFC NO. 10",
-    "POWER NO. 11",
+    "POWER NO. 12",
     "W2",
     "POINT DIFF -2",
     "1 GB OF JAX IN THE SOUTH",
     "\u2014 GB OF THE CUT LINE",
     "NEXT SUN @ PIT",
     "BYE WEEK 13",
-    "PASSER RATING 80.8"
+    "PASSER RATING 73.9"
   ],
   "narrative": {
     "kicker": "AFC playoff race",
@@ -66,7 +66,7 @@
     },
     {
       "label": "Power rank",
-      "value": "No. 11"
+      "value": "No. 12"
     },
     {
       "label": "Streak",
@@ -102,11 +102,11 @@
     }
   },
   "playoffOdds": {
-    "percent": 39.64,
+    "percent": 40.54,
     "sims": 5000,
-    "note": "Division title in 10.8% of sims, wild card in 28.9%. Point differential, shrunk toward average, plus home field. Not a betting line.",
-    "divisionPercent": 10.78,
-    "wildcardPercent": 28.86
+    "note": "Division title in 11.3% of sims, wild card in 29.3%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "divisionPercent": 11.26,
+    "wildcardPercent": 29.28
   },
   "kpis": [
     {
@@ -124,43 +124,43 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "24.0",
+      "value": "25.5",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "30.3",
+      "value": "26.0",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "307.0",
+      "value": "298.0",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "432.3",
+      "value": "407.2",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "-5",
+      "value": "-6",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "41%",
-      "hint": "15-37 \u00b7 around 40% is average"
+      "value": "38%",
+      "hint": "20-53 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "67%",
+      "value": "75%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -193,21 +193,21 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "-6.3",
-      "detail": "24.0 scored, 30.3 allowed.",
+      "value": "-0.5",
+      "detail": "25.5 scored, 26.0 allowed.",
       "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "41%",
-      "detail": "15-37",
-      "direction": "up"
+      "value": "38%",
+      "detail": "20-53",
+      "direction": "flat"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "67%",
+      "value": "75%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "up"
     },
@@ -221,7 +221,7 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "30:58",
+      "value": "30:53",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "up"
     }
@@ -270,10 +270,10 @@
       "home": "2-0",
       "road": "2-0",
       "gr": 13,
-      "ypg": 424.0,
-      "yapg": 283.3,
-      "to": 3,
-      "playoffPct": 96.42,
+      "ypg": 421.5,
+      "yapg": 321.8,
+      "to": 5,
+      "playoffPct": 96.68,
       "powerRank": 5,
       "gb": "+2",
       "gbValue": -2.0,
@@ -306,10 +306,10 @@
       "home": "2-0",
       "road": "1-1",
       "gr": 13,
-      "ypg": 324.7,
-      "yapg": 337.3,
-      "to": 4,
-      "playoffPct": 95.46,
+      "ypg": 328.0,
+      "yapg": 365.8,
+      "to": 6,
+      "playoffPct": 95.66,
       "powerRank": 2,
       "gb": "+1",
       "gbValue": -1.0,
@@ -342,11 +342,11 @@
       "home": "2-1",
       "road": "1-0",
       "gr": 13,
-      "ypg": 417.0,
-      "yapg": 382.7,
+      "ypg": 398.8,
+      "yapg": 390.0,
       "to": -2,
-      "playoffPct": 76.4,
-      "powerRank": 8,
+      "playoffPct": 76.2,
+      "powerRank": 9,
       "gb": "+1",
       "gbValue": -1.0,
       "path": "East champ",
@@ -381,7 +381,7 @@
       "ypg": 307.5,
       "yapg": 367.5,
       "to": -1,
-      "playoffPct": 47.38,
+      "playoffPct": 46.46,
       "powerRank": 15,
       "gb": "+1",
       "gbValue": -1.0,
@@ -414,11 +414,11 @@
       "home": "1-1",
       "road": "2-0",
       "gr": 13,
-      "ypg": 415.7,
-      "yapg": 336.3,
-      "to": 1,
-      "playoffPct": 75.88,
-      "powerRank": 13,
+      "ypg": 411.0,
+      "yapg": 329.0,
+      "to": 3,
+      "playoffPct": 75.26,
+      "powerRank": 14,
       "gb": "+1",
       "gbValue": -1.0,
       "path": "Wild card",
@@ -450,11 +450,11 @@
       "home": "1-1",
       "road": "2-0",
       "gr": 13,
-      "ypg": 320.3,
-      "yapg": 338.7,
-      "to": 5,
-      "playoffPct": 83.06,
-      "powerRank": 7,
+      "ypg": 349.5,
+      "yapg": 357.5,
+      "to": 3,
+      "playoffPct": 83.18,
+      "powerRank": 8,
       "gb": "+1",
       "gbValue": -1.0,
       "path": "Wild card",
@@ -486,10 +486,10 @@
       "home": "1-0",
       "road": "1-2",
       "gr": 13,
-      "ypg": 319.7,
-      "yapg": 298.0,
+      "ypg": 342.8,
+      "yapg": 309.5,
       "to": -5,
-      "playoffPct": 42.12,
+      "playoffPct": 41.68,
       "powerRank": 20,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -522,11 +522,11 @@
       "home": "2-0",
       "road": "0-2",
       "gr": 13,
-      "ypg": 282.7,
-      "yapg": 398.0,
-      "to": 0,
-      "playoffPct": 22.2,
-      "powerRank": 19,
+      "ypg": 286.0,
+      "yapg": 388.0,
+      "to": -1,
+      "playoffPct": 21.82,
+      "powerRank": 18,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -561,7 +561,7 @@
       "ypg": 344.5,
       "yapg": 338.0,
       "to": 2,
-      "playoffPct": 30.94,
+      "playoffPct": 31.56,
       "powerRank": 21,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -594,11 +594,11 @@
       "home": "1-1",
       "road": "1-1",
       "gr": 13,
-      "ypg": 307.0,
-      "yapg": 432.3,
-      "to": -5,
-      "playoffPct": 39.64,
-      "powerRank": 11,
+      "ypg": 298.0,
+      "yapg": 407.2,
+      "to": -6,
+      "playoffPct": 40.54,
+      "powerRank": 12,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -630,11 +630,11 @@
       "home": "1-1",
       "road": "1-1",
       "gr": 13,
-      "ypg": 339.0,
-      "yapg": 382.7,
-      "to": 2,
-      "playoffPct": 53.24,
-      "powerRank": 12,
+      "ypg": 367.0,
+      "yapg": 371.5,
+      "to": 0,
+      "playoffPct": 53.92,
+      "powerRank": 13,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -666,10 +666,10 @@
       "home": "0-1",
       "road": "1-2",
       "gr": 13,
-      "ypg": 353.3,
-      "yapg": 272.0,
-      "to": 1,
-      "playoffPct": 27.3,
+      "ypg": 309.5,
+      "yapg": 329.0,
+      "to": 3,
+      "playoffPct": 28.12,
       "powerRank": 23,
       "gb": "1",
       "gbValue": 1.0,
@@ -702,9 +702,9 @@
       "home": "0-1",
       "road": "0-3",
       "gr": 13,
-      "ypg": 307.3,
-      "yapg": 335.3,
-      "to": -1,
+      "ypg": 282.0,
+      "yapg": 344.0,
+      "to": -2,
       "playoffPct": 1.36,
       "powerRank": 32,
       "gb": "2",
@@ -738,10 +738,10 @@
       "home": "0-2",
       "road": "0-2",
       "gr": 13,
-      "ypg": 322.0,
-      "yapg": 361.0,
-      "to": 0,
-      "playoffPct": 1.42,
+      "ypg": 325.5,
+      "yapg": 347.2,
+      "to": -3,
+      "playoffPct": 1.56,
       "powerRank": 29,
       "gb": "2",
       "gbValue": 2.0,
@@ -774,10 +774,10 @@
       "home": "0-3",
       "road": "0-1",
       "gr": 13,
-      "ypg": 349.3,
-      "yapg": 345.3,
+      "ypg": 364.2,
+      "yapg": 361.5,
       "to": 1,
-      "playoffPct": 4.2,
+      "playoffPct": 3.78,
       "powerRank": 28,
       "gb": "2",
       "gbValue": 2.0,
@@ -810,10 +810,10 @@
       "home": "0-2",
       "road": "0-2",
       "gr": 13,
-      "ypg": 258.3,
-      "yapg": 325.3,
-      "to": -1,
-      "playoffPct": 2.98,
+      "ypg": 270.5,
+      "yapg": 343.2,
+      "to": -3,
+      "playoffPct": 2.22,
       "powerRank": 26,
       "gb": "2",
       "gbValue": 2.0,
@@ -848,10 +848,10 @@
       "home": "2-0",
       "road": "1-1",
       "gr": 13,
-      "ypg": 324.7,
-      "yapg": 337.3,
-      "to": 4,
-      "playoffPct": 95.46,
+      "ypg": 328.0,
+      "yapg": 365.8,
+      "to": 6,
+      "playoffPct": 95.66,
       "powerRank": 2,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -885,11 +885,11 @@
       "home": "1-1",
       "road": "1-1",
       "gr": 13,
-      "ypg": 307.0,
-      "yapg": 432.3,
-      "to": -5,
-      "playoffPct": 39.64,
-      "powerRank": 11,
+      "ypg": 298.0,
+      "yapg": 407.2,
+      "to": -6,
+      "playoffPct": 40.54,
+      "powerRank": 12,
       "gb": "1",
       "gbValue": 1.0,
       "path": "Outside",
@@ -922,10 +922,10 @@
       "home": "0-3",
       "road": "0-1",
       "gr": 13,
-      "ypg": 349.3,
-      "yapg": 345.3,
+      "ypg": 364.2,
+      "yapg": 361.5,
       "to": 1,
-      "playoffPct": 4.2,
+      "playoffPct": 3.78,
       "powerRank": 28,
       "gb": "3",
       "gbValue": 3.0,
@@ -959,10 +959,10 @@
       "home": "0-2",
       "road": "0-2",
       "gr": 13,
-      "ypg": 258.3,
-      "yapg": 325.3,
-      "to": -1,
-      "playoffPct": 2.98,
+      "ypg": 270.5,
+      "yapg": 343.2,
+      "to": -3,
+      "playoffPct": 2.22,
       "powerRank": 26,
       "gb": "3",
       "gbValue": 3.0,
@@ -998,11 +998,11 @@
       "home": "2-1",
       "road": "1-0",
       "gr": 13,
-      "ypg": 417.0,
-      "yapg": 382.7,
+      "ypg": 398.8,
+      "yapg": 390.0,
       "to": -2,
-      "playoffPct": 76.4,
-      "powerRank": 8
+      "playoffPct": 76.2,
+      "powerRank": 9
     },
     {
       "abbr": "CLE",
@@ -1031,7 +1031,7 @@
       "ypg": 307.5,
       "yapg": 367.5,
       "to": -1,
-      "playoffPct": 47.38,
+      "playoffPct": 46.46,
       "powerRank": 15
     },
     {
@@ -1058,10 +1058,10 @@
       "home": "2-0",
       "road": "1-1",
       "gr": 13,
-      "ypg": 324.7,
-      "yapg": 337.3,
-      "to": 4,
-      "playoffPct": 95.46,
+      "ypg": 328.0,
+      "yapg": 365.8,
+      "to": 6,
+      "playoffPct": 95.66,
       "powerRank": 2
     },
     {
@@ -1088,10 +1088,10 @@
       "home": "2-0",
       "road": "2-0",
       "gr": 13,
-      "ypg": 424.0,
-      "yapg": 283.3,
-      "to": 3,
-      "playoffPct": 96.42,
+      "ypg": 421.5,
+      "yapg": 321.8,
+      "to": 5,
+      "playoffPct": 96.68,
       "powerRank": 5
     }
   ],
@@ -1121,10 +1121,10 @@
       "home": "2-0",
       "road": "1-1",
       "gr": 13,
-      "ypg": 324.7,
-      "yapg": 337.3,
-      "to": 4,
-      "playoffPct": 95.46,
+      "ypg": 328.0,
+      "yapg": 365.8,
+      "to": 6,
+      "playoffPct": 95.66,
       "powerRank": 2
     },
     {
@@ -1151,11 +1151,11 @@
       "home": "1-1",
       "road": "1-1",
       "gr": 13,
-      "ypg": 307.0,
-      "yapg": 432.3,
-      "to": -5,
-      "playoffPct": 39.64,
-      "powerRank": 11
+      "ypg": 298.0,
+      "yapg": 407.2,
+      "to": -6,
+      "playoffPct": 40.54,
+      "powerRank": 12
     },
     {
       "abbr": "HOU",
@@ -1181,10 +1181,10 @@
       "home": "0-3",
       "road": "0-1",
       "gr": 13,
-      "ypg": 349.3,
-      "yapg": 345.3,
+      "ypg": 364.2,
+      "yapg": 361.5,
       "to": 1,
-      "playoffPct": 4.2,
+      "playoffPct": 3.78,
       "powerRank": 28
     },
     {
@@ -1211,10 +1211,10 @@
       "home": "0-2",
       "road": "0-2",
       "gr": 13,
-      "ypg": 258.3,
-      "yapg": 325.3,
-      "to": -1,
-      "playoffPct": 2.98,
+      "ypg": 270.5,
+      "yapg": 343.2,
+      "to": -3,
+      "playoffPct": 2.22,
       "powerRank": 26
     }
   ],
@@ -1911,8 +1911,8 @@
         "position": "QB",
         "jersey": "17",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
-        "line": "65/98, 611 YDS, 3 TD, 3 INT",
-        "value": "80.8",
+        "line": "84/132, 754 YDS, 3 TD, 4 INT",
+        "value": "73.9",
         "statLabel": "RTG"
       }
     ],
@@ -1923,8 +1923,8 @@
         "position": "RB",
         "jersey": "28",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242335.png",
-        "line": "66 CAR, 258 YDS, 4 TD",
-        "value": "258",
+        "line": "86 CAR, 353 YDS, 6 TD",
+        "value": "353",
         "statLabel": "YDS"
       },
       {
@@ -1933,8 +1933,18 @@
         "position": "WR",
         "jersey": "2",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688813.png",
-        "line": "14 REC, 186 YDS",
-        "value": "186",
+        "line": "17 REC, 202 YDS",
+        "value": "202",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "3051889",
+        "name": "Laquon Treadwell",
+        "position": "WR",
+        "jersey": "13",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051889.png",
+        "line": "9 REC, 123 YDS",
+        "value": "123",
         "statLabel": "YDS"
       },
       {
@@ -1948,16 +1958,6 @@
         "statLabel": "YDS"
       },
       {
-        "id": "3051889",
-        "name": "Laquon Treadwell",
-        "position": "WR",
-        "jersey": "13",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051889.png",
-        "line": "4 REC, 81 YDS",
-        "value": "81",
-        "statLabel": "YDS"
-      },
-      {
         "id": "4360078",
         "name": "Alec Pierce",
         "position": "WR",
@@ -1965,6 +1965,26 @@
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360078.png",
         "line": "5 REC, 72 YDS",
         "value": "72",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4686468",
+        "name": "Seth McGowan",
+        "position": "RB",
+        "jersey": "20",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686468.png",
+        "line": "12 CAR, 45 YDS",
+        "value": "45",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4061956",
+        "name": "Ashton Dulin",
+        "position": "WR",
+        "jersey": "16",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4061956.png",
+        "line": "3 REC, 29 YDS",
+        "value": "29",
         "statLabel": "YDS"
       },
       {
@@ -1976,26 +1996,6 @@
         "line": "1 REC, 16 YDS",
         "value": "16",
         "statLabel": "YDS"
-      },
-      {
-        "id": "4683151",
-        "name": "Deion Burks",
-        "position": "WR",
-        "jersey": "80",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683151.png",
-        "line": "2 CAR, 14 YDS",
-        "value": "14",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "4686468",
-        "name": "Seth McGowan",
-        "position": "RB",
-        "jersey": "20",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686468.png",
-        "line": "6 CAR, 14 YDS",
-        "value": "14",
-        "statLabel": "YDS"
       }
     ],
     "defense": [
@@ -2005,48 +2005,8 @@
         "position": "LB",
         "jersey": "51",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917142.png",
-        "line": "29",
-        "value": "29",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4035861",
-        "name": "Cam Bynum",
-        "position": "S",
-        "jersey": "0",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035861.png",
-        "line": "18",
-        "value": "18",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "5088571",
-        "name": "Bryce Boettcher",
-        "position": "LB",
-        "jersey": "50",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5088571.png",
-        "line": "15",
-        "value": "15",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "2971282",
-        "name": "DeForest Buckner",
-        "position": "DT",
-        "jersey": "99",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2971282.png",
-        "line": "14 \u00b7 3 SACK",
-        "value": "14",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4432789",
-        "name": "Hunter Wohler",
-        "position": "S",
-        "jersey": "30",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432789.png",
-        "line": "14",
-        "value": "14",
+        "line": "37",
+        "value": "37",
         "statLabel": "TKL"
       },
       {
@@ -2055,8 +2015,48 @@
         "position": "CB",
         "jersey": "27",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682909.png",
-        "line": "14",
-        "value": "14",
+        "line": "22",
+        "value": "22",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "5088571",
+        "name": "Bryce Boettcher",
+        "position": "LB",
+        "jersey": "50",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5088571.png",
+        "line": "20",
+        "value": "20",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4035861",
+        "name": "Cam Bynum",
+        "position": "S",
+        "jersey": "0",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035861.png",
+        "line": "19",
+        "value": "19",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "2971282",
+        "name": "DeForest Buckner",
+        "position": "DT",
+        "jersey": "99",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2971282.png",
+        "line": "18 \u00b7 3 SACK",
+        "value": "18",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4905664",
+        "name": "A.J. Haulcy",
+        "position": "S",
+        "jersey": "25",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4905664.png",
+        "line": "15",
+        "value": "15",
         "statLabel": "TKL"
       },
       {
@@ -2065,8 +2065,8 @@
         "position": "DT",
         "jersey": "95",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427635.png",
-        "line": "1.5",
-        "value": "1.5",
+        "line": "2",
+        "value": "2",
         "statLabel": "SACK"
       },
       {
@@ -2081,5 +2081,5 @@
       }
     ]
   },
-  "qbRating": 80.8
+  "qbRating": 73.9
 }
