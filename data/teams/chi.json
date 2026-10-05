@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1243,7 +1243,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Lambeau Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "10/11 - 1:00 PM EDT",
       "live": false,
       "final": false,
@@ -1271,7 +1271,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Mercedes-Benz Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "10/18 - 1:00 PM EDT",
       "live": false,
       "final": false,
@@ -1395,7 +1395,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/22 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1451,7 +1451,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/6 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1563,7 +1563,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "1/3 - 4:25 PM EST",
       "live": false,
       "final": false,
@@ -1711,7 +1711,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Bank of America Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1740,7 +1740,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1798,7 +1798,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1830,38 +1830,14 @@
       "detail": ""
     },
     {
-      "name": "Ozzy Trapilo",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Caleb Williams",
       "position": "QB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Jamree Kromah",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Cam Lewis",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jayden Loving",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "James Lynch",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

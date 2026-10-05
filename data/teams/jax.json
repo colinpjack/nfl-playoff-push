@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1367,7 +1367,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Nissan Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/15 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1451,7 +1451,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/6 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1824,18 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Daniel Faalele",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "CJ Williams",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Christian Braswell",
       "position": "CB",
       "status": "Out",
@@ -1844,18 +1832,6 @@
     {
       "name": "Montaric Brown",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Huskey",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Kiser",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },

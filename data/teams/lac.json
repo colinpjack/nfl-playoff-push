@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1311,7 +1311,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "SoFi Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/1 - 4:05 PM EST",
       "live": false,
       "final": false,
@@ -1395,7 +1395,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "SoFi Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/22 - 4:05 PM EST",
       "live": false,
       "final": false,
@@ -1535,7 +1535,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Hard Rock Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/27 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1769,7 +1769,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Highmark Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1868,7 +1868,7 @@
     {
       "name": "Rashawn Slater",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

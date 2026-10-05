@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1271,7 +1271,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Lucas Oil Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "10/18 - 1:00 PM EDT",
       "live": false,
       "final": false,
@@ -1355,7 +1355,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Lucas Oil Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/8 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1439,7 +1439,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Lucas Oil Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/29 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1479,7 +1479,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Lincoln Financial Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/13 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1563,7 +1563,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Huntington Bank Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "1/3 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1826,36 +1826,6 @@
     {
       "name": "Keenan Allen",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "DJ Giddens",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Riley Leonard",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Darius Slayton",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dalton Tucker",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "George Gumbs Jr.",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1271,7 +1271,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Huntington Bank Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "10/18 - 1:00 PM EDT",
       "live": false,
       "final": false,
@@ -1411,7 +1411,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Bank of America Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/22 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1479,7 +1479,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "M&T Bank Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/13 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1824,12 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Joe Fagnano",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Lamar Jackson",
       "position": "QB",
       "status": "Questionable",
@@ -1869,12 +1863,6 @@
       "name": "Marlon Humphrey",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Aeneas Peebles",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {

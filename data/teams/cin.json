@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1243,7 +1243,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Hard Rock Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "10/11 - 1:00 PM EDT",
       "live": false,
       "final": false,
@@ -1479,7 +1479,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Paycor Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/13 - 4:25 PM EST",
       "live": false,
       "final": false,
@@ -1507,7 +1507,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Bank of America Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/20 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1711,7 +1711,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Paycor Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1836,12 +1836,6 @@
       "detail": ""
     },
     {
-      "name": "Myles Hinton",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Colbie Young",
       "position": "WR",
       "status": "Out",
@@ -1867,12 +1861,6 @@
     },
     {
       "name": "B.J. Hill",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Landon Robinson",
       "position": "DT",
       "status": "Out",
       "detail": ""

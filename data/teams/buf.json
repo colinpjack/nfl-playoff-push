@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1395,7 +1395,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "Highmark Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/22 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1769,7 +1769,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Highmark Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1824,27 +1824,9 @@
   },
   "injuries": [
     {
-      "name": "Skyler Bell",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jude Bowry",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "DJ Moore",
       "position": "WR",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Ar'maj Reed-Adams",
-      "position": "G",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1863,18 +1845,6 @@
       "name": "Te'Cory Couch",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mike Danna",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalon Kilgore",
-      "position": "S",
-      "status": "Out",
       "detail": ""
     },
     {

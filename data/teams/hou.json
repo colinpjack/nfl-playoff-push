@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1299,7 +1299,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Reliant Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "10/25 - 1:00 PM EDT",
       "live": false,
       "final": false,
@@ -1367,7 +1367,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Huntington Bank Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/15 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1798,7 +1798,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Reliant Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1824,32 +1824,8 @@
   },
   "injuries": [
     {
-      "name": "Marlin Klein",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Febechi Nwaiwu",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nate Thomas",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Azeez Al-Shaair",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Chris Braswell",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

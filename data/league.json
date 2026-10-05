@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "week": 4,
   "weekLabel": "Week 4 \u00b7 2026",
@@ -3260,7 +3260,7 @@
       "live": false,
       "completed": true,
       "venue": "Reliant Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "HOU",
         "name": "Houston Texans",
@@ -3288,7 +3288,7 @@
       "live": false,
       "completed": true,
       "venue": "Raymond James Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "TB",
         "name": "Tampa Bay Buccaneers",
@@ -3344,7 +3344,7 @@
       "live": false,
       "completed": true,
       "venue": "Lincoln Financial Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "PHI",
         "name": "Philadelphia Eagles",
@@ -3400,7 +3400,7 @@
       "live": false,
       "completed": true,
       "venue": "Soldier Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "CHI",
         "name": "Chicago Bears",
@@ -3456,7 +3456,7 @@
       "live": false,
       "completed": true,
       "venue": "U.S. Bank Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "MIN",
         "name": "Minnesota Vikings",
@@ -3652,7 +3652,7 @@
       "live": false,
       "completed": true,
       "venue": "Huntington Bank Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "CLE",
         "name": "Cleveland Browns",
@@ -3764,7 +3764,7 @@
       "live": false,
       "completed": true,
       "venue": "Highmark Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "BUF",
         "name": "Buffalo Bills",
@@ -3792,7 +3792,7 @@
       "live": false,
       "completed": true,
       "venue": "Ford Field",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "DET",
         "name": "Detroit Lions",
@@ -3820,7 +3820,7 @@
       "live": false,
       "completed": true,
       "venue": "Northwest Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "WSH",
         "name": "Washington Commanders",
@@ -3904,7 +3904,7 @@
       "live": false,
       "completed": true,
       "venue": "Levi's Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "SF",
         "name": "San Francisco 49ers",
@@ -3932,7 +3932,7 @@
       "live": false,
       "completed": true,
       "venue": "Raymond James Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "home": {
         "abbr": "TB",
         "name": "Tampa Bay Buccaneers",

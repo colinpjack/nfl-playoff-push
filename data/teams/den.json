@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1451,7 +1451,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Empower Field at Mile High",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/6 - 4:05 PM EST",
       "live": false,
       "final": false,
@@ -1824,27 +1824,9 @@
   },
   "injuries": [
     {
-      "name": "Dallen Bentley",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Pat Bryant",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kage Casey",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sam Ehlinger",
-      "position": "QB",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1860,15 +1842,9 @@
       "detail": ""
     },
     {
-      "name": "Tyler Onyedim",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Pat Surtain II",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1467,7 +1467,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "Paycor Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "12/13 - 4:25 PM EST",
       "live": false,
       "final": false,
@@ -1812,18 +1812,6 @@
   },
   "injuries": [
     {
-      "name": "Garrett Nussmeier",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Diego Pounds",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Rashee Rice",
       "position": "WR",
       "status": "Questionable",
@@ -1844,12 +1832,6 @@
     {
       "name": "Jared Wiley",
       "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jadon Canady",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

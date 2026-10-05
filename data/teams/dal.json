@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:35:18.090366-04:00",
+  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1327,7 +1327,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "AT&T Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/1 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1355,7 +1355,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Lucas Oil Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/8 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1383,7 +1383,7 @@
       "divisionGame": false,
       "conferenceGame": true,
       "venue": "AT&T Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/15 - 4:25 PM EST",
       "live": false,
       "final": false,
@@ -1411,7 +1411,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "AT&T Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/22 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1439,7 +1439,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "AT&T Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "11/26 - 4:30 PM EST",
       "live": false,
       "final": false,
@@ -1563,7 +1563,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "AT&T Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "1/3 - 1:00 PM EST",
       "live": false,
       "final": false,
@@ -1740,7 +1740,7 @@
       "divisionGame": true,
       "conferenceGame": true,
       "venue": "AT&T Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1798,7 +1798,7 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Reliant Stadium",
-      "broadcast": "FOX",
+      "broadcast": "Fox",
       "detail": "Final",
       "live": false,
       "final": true,
@@ -1824,44 +1824,14 @@
   },
   "injuries": [
     {
-      "name": "Camden Brown",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ajani Cornelius",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Emari Demercado",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Tyler Smith",
       "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Caelen Carson",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Cobie Durant",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "James Houston",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },
