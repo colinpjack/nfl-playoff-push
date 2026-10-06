@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1602,7 +1602,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Falcons loss helps the South race. A Saints loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-09T00:15Z",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1824,15 +1824,9 @@
   },
   "injuries": [
     {
-      "name": "CJ Daniels",
+      "name": "Konata Mumpfield",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Bill Murray",
-      "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1842,20 +1836,8 @@
       "detail": ""
     },
     {
-      "name": "Ty Simpson",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Aaron Donald",
       "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Cam Lampkin",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1824,24 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Montorie Foster Jr.",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nick Kallerup",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Milroe",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jadarian Price",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1856,18 +1838,6 @@
     {
       "name": "Ty Okada",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Brandon Pili",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Avery Smith",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

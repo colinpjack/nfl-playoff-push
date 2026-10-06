@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1832,12 +1832,18 @@
     {
       "name": "Paris Johnson Jr.",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Hunter Long",
       "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jeremiyah Love",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },

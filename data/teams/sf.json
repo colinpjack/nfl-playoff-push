@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1830,33 +1830,9 @@
       "detail": ""
     },
     {
-      "name": "Enrique Cruz Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jordan James",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kyle Juszczyk",
       "position": "FB",
       "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Kurtis Rourke",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tatum Bethune",
-      "position": "LB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1866,15 +1842,9 @@
       "detail": ""
     },
     {
-      "name": "Ephesians Prysock",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Marques Sigle",
       "position": "S",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1826,25 +1826,7 @@
     {
       "name": "Braxton Berrios",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "J.C. Davis",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Thomas Fidone II",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Devin Singletary",
-      "position": "RB",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1854,33 +1836,9 @@
       "detail": ""
     },
     {
-      "name": "Bobby Jamison-Travis",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jason Pinnock",
       "position": "S",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nikko Reed",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jihad Ward",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ar'Darius Washington",
-      "position": "S",
-      "status": "Out",
       "detail": ""
     },
     {

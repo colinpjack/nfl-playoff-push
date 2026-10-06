@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1614,7 +1614,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Falcons loss helps the South race. A Saints loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-09T00:15Z",
@@ -1824,12 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Luke Haggard",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Ko Kieft",
       "position": "TE",
       "status": "Out",
@@ -1838,24 +1832,6 @@
     {
       "name": "Baker Mayfield",
       "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Billy Schrauth",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Rueben Bain Jr.",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "DeMonte Capehart",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },
@@ -1869,6 +1845,12 @@
       "name": "Benjamin Morrison",
       "position": "CB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Josiah Trotter",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

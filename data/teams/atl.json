@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Caesars Superdome",
       "broadcast": "ESPN",
-      "detail": "10/5 - 8:15 PM EDT",
-      "live": false,
+      "detail": "9:40 - 1st",
+      "live": true,
       "final": false,
       "winPct": 42,
       "homeAbbr": "NO",
@@ -1642,7 +1642,7 @@
       "interest": "Falcons game",
       "tagClass": "jays",
       "note": "The Falcons are on the road against the Saints.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-09T00:15Z",
@@ -1823,21 +1823,39 @@
   },
   "injuries": [
     {
-      "name": "Yasir Abdullah",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Ethan Onianwa",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Divine Deablo",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Cooper Rush",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Samson Ebukam",
-      "position": "DE",
-      "status": "Questionable",
+      "name": "Jack Strand",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Malcolm DeWalt IV",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jared Ivey",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Robert Longerbeam",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:49:42.170967-04:00",
+  "generatedAt": "2026-10-05T20:45:56.541635-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Caesars Superdome",
       "broadcast": "ESPN",
-      "detail": "10/5 - 8:15 PM EDT",
-      "live": false,
+      "detail": "9:40 - 1st",
+      "live": true,
       "final": false,
       "winPct": 58,
       "homeAbbr": "NO",
@@ -1642,7 +1642,7 @@
       "interest": "Saints game",
       "tagClass": "jays",
       "note": "The Saints are at home against the Falcons.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-09T00:15Z",
@@ -1825,13 +1825,19 @@
     {
       "name": "Noah Fant",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Brock Rechsteiner",
       "position": "WR",
       "status": "Suspension",
+      "detail": ""
+    },
+    {
+      "name": "Zach Wilson",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1853,9 +1859,15 @@
       "detail": ""
     },
     {
-      "name": "Pete Werner",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Christen Miller",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Decamerion Richardson",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
