@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:45:47.794972-04:00",
+  "generatedAt": "2026-10-07T01:49:26.543944-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1824,12 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Christian Braswell",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Montaric Brown",
       "position": "CB",
       "status": "Questionable",
@@ -1839,12 +1833,6 @@
       "name": "Eric Murray",
       "position": "S",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Caleb Ransaw",
-      "position": "S",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1892,6 +1880,12 @@
     {
       "name": "Sam Mustipher",
       "position": "C",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Caleb Ransaw",
+      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     }
