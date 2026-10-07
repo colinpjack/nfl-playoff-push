@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1824,14 +1824,38 @@
   },
   "injuries": [
     {
+      "name": "Nate Thomas",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Azeez Al-Shaair",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jaden Crumedy",
-      "position": "DT",
+      "name": "Will Anderson Jr.",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jadeveon Clowney",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Logan Hall",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jamal Hill",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

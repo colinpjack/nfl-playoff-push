@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1824,8 +1824,20 @@
   },
   "injuries": [
     {
+      "name": "Barion Brown",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Noah Fant",
       "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Alvin Kamara",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1836,14 +1848,20 @@
       "detail": ""
     },
     {
-      "name": "Kaden Elliss",
-      "position": "LB",
+      "name": "Tyler Shough",
+      "position": "QB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Davon Godchaux",
-      "position": "DT",
+      "name": "Julian Blackmon",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kaden Elliss",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1856,6 +1874,12 @@
     {
       "name": "Anfernee Jennings",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Mike Reid",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

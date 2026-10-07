@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1830,8 +1830,20 @@
       "detail": ""
     },
     {
+      "name": "Anthony Belton",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Chris Brooks",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jager Burton",
+      "position": "C",
       "status": "Questionable",
       "detail": ""
     },
@@ -1854,8 +1866,14 @@
       "detail": ""
     },
     {
-      "name": "Brandon Cisse",
-      "position": "CB",
+      "name": "Lukas Van Ness",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Devonte Wyatt",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

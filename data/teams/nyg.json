@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1824,9 +1824,33 @@
   },
   "injuries": [
     {
-      "name": "Braxton Berrios",
+      "name": "Isaiah Likely",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Chris Manhertz",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Malik Nabers",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cam Skattebo",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Andrew Thomas",
+      "position": "OT",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1856,6 +1880,12 @@
     {
       "name": "Jarrick Bernard-Converse",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Braxton Berrios",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },

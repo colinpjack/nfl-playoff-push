@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1827,6 +1827,12 @@
       "name": "Pat Bryant",
       "position": "WR",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Adam Trautman",
+      "position": "TE",
+      "status": "Questionable",
       "detail": ""
     },
     {

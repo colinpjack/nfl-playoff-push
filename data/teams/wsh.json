@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1824,14 +1824,20 @@
   },
   "injuries": [
     {
+      "name": "Nick Allegretti",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Sam Cosmi",
       "position": "G",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jayden Daniels",
-      "position": "QB",
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1860,14 +1866,32 @@
       "detail": ""
     },
     {
+      "name": "Chig Okonkwo",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ben Sinnott",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Rachaad White",
       "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Nick Cross",
+      "name": "Percy Butler",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Frankie Luvu",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1884,8 +1908,8 @@
       "detail": ""
     },
     {
-      "name": "Jeremy Reaves",
-      "position": "S",
+      "name": "Sonny Styles",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

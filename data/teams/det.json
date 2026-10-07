@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1826,6 +1826,18 @@
     {
       "name": "Ben Bartch",
       "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyleik Williams",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DJ Wonnum",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

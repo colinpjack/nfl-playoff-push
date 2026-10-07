@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1824,14 +1824,20 @@
   },
   "injuries": [
     {
+      "name": "Reggie Gilliam",
+      "position": "FB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Mack Hollins",
       "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Eli Raridon",
-      "position": "TE",
+      "name": "Morgan Moses",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1854,7 +1860,31 @@
       "detail": ""
     },
     {
+      "name": "Carlton Davis III",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Christian Elliss",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Christian Gonzalez",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dre'Mont Jones",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Karon Prunty",
       "position": "CB",
       "status": "Questionable",
       "detail": ""
@@ -1862,6 +1892,12 @@
     {
       "name": "Charles Woods",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Craig Woodson",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

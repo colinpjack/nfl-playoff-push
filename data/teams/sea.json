@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1824,9 +1824,21 @@
   },
   "injuries": [
     {
+      "name": "George Holani",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jadarian Price",
       "position": "RB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Beau Stephens",
+      "position": "G",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1836,8 +1848,14 @@
       "detail": ""
     },
     {
-      "name": "Ty Okada",
-      "position": "S",
+      "name": "Tyrice Knight",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Nehemiah Pritchett",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

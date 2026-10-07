@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1838,13 +1838,7 @@
     {
       "name": "Dylan Parham",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mason Taylor",
-      "position": "TE",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1862,13 +1856,7 @@
     {
       "name": "Kiko Mauigoa",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Braiden McGregor",
-      "position": "DE",
-      "status": "Injured Reserve",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1910,6 +1898,12 @@
     {
       "name": "Marcelino McCrary-Ball",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Braiden McGregor",
+      "position": "DE",
       "status": "Injured Reserve",
       "detail": ""
     },

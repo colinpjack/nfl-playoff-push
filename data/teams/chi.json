@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1824,8 +1824,26 @@
   },
   "injuries": [
     {
+      "name": "Jonah Jackson",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Kyle Monangai",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "D'Andre Swift",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joe Thuney",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1836,8 +1854,14 @@
       "detail": ""
     },
     {
-      "name": "Cam Lewis",
-      "position": "CB",
+      "name": "Darnell Wright",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Keyshaun Elliott",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

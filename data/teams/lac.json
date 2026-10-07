@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
+  "generatedAt": "2026-10-07T19:47:01.835905-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1842,8 +1842,26 @@
       "detail": ""
     },
     {
+      "name": "Alec Ingold",
+      "position": "FB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Quentin Johnston",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Charlie Kolar",
       "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Trey Lance",
+      "position": "QB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1868,6 +1886,12 @@
     {
       "name": "Brenen Thompson",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cam Hart",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
