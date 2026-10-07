@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:49:26.543944-04:00",
+  "generatedAt": "2026-10-07T15:30:29.939413-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1844,7 +1844,7 @@
     {
       "name": "Mason Taylor",
       "position": "TE",
-      "status": "Doubtful",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1868,7 +1868,7 @@
     {
       "name": "Braiden McGregor",
       "position": "DE",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
