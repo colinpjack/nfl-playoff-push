@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:54:36.356797-04:00",
+  "generatedAt": "2026-10-08T09:20:16.635286-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -2052,16 +2052,6 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4241921",
-        "name": "Markquese Bell",
-        "position": "S",
-        "jersey": "14",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241921.png",
-        "line": "18",
-        "value": "18",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4248911",
         "name": "DaRon Bland",
         "position": "CB",
@@ -2069,6 +2059,16 @@
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248911.png",
         "line": "18",
         "value": "18",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4043089",
+        "name": "Jalen Thompson",
+        "position": "S",
+        "jersey": "34",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4043089.png",
+        "line": "17",
+        "value": "17",
         "statLabel": "TKL"
       },
       {

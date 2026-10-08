@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:54:36.356797-04:00",
+  "generatedAt": "2026-10-08T09:20:16.635286-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -2088,22 +2088,22 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4688930",
-        "name": "Javon Bullard",
-        "position": "S",
-        "jersey": "7",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688930.png",
-        "line": "23",
-        "value": "23",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4686906",
         "name": "Lukas Van Ness",
         "position": "DE",
         "jersey": "90",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686906.png",
         "line": "22 \u00b7 2.5 SACK",
+        "value": "22",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4688930",
+        "name": "Javon Bullard",
+        "position": "S",
+        "jersey": "7",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688930.png",
+        "line": "22",
         "value": "22",
         "statLabel": "TKL"
       },
