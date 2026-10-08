@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Adam Trautman",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jonathon Cooper",
       "position": "LB",
       "status": "Out",
@@ -1851,12 +1845,6 @@
       "name": "Pat Surtain II",
       "position": "CB",
       "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Dondrea Tillman",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {

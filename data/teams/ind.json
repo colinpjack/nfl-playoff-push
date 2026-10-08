@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1848,15 +1848,15 @@
       "detail": ""
     },
     {
-      "name": "Akeem Davis-Gaither",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Arden Key",
       "position": "DE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Charvarius Ward",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {

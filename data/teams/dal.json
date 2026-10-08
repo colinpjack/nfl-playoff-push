@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1824,9 +1824,15 @@
   },
   "injuries": [
     {
-      "name": "Jonathan Mingo",
+      "name": "Camden Brown",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ajani Cornelius",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1836,20 +1842,26 @@
       "detail": ""
     },
     {
-      "name": "Tyler Smith",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Cobie Durant",
       "position": "CB",
       "status": "Out",
       "detail": ""
     },
     {
+      "name": "James Houston",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "DeMarvion Overshown",
       "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Joey Porter Jr.",
+      "position": "CB",
       "status": "Out",
       "detail": ""
     },

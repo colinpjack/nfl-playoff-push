@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1824,8 +1824,20 @@
   },
   "injuries": [
     {
-      "name": "Nate Thomas",
+      "name": "Aireontae Ersery",
       "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Blake Fisher",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ed Ingram",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1837,18 +1849,6 @@
     },
     {
       "name": "Will Anderson Jr.",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jadeveon Clowney",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Logan Hall",
       "position": "DE",
       "status": "Questionable",
       "detail": ""

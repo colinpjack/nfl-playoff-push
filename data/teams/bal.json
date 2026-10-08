@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1824,12 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Rashod Bateman",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Zay Flowers",
       "position": "WR",
       "status": "Questionable",
@@ -1848,32 +1842,14 @@
       "detail": ""
     },
     {
-      "name": "Chris Moore",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "John Simpson",
       "position": "G",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Ronnie Stanley",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Andrew Vorhees",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kyle Hamilton",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

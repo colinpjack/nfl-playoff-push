@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1872,12 +1872,6 @@
       "detail": ""
     },
     {
-      "name": "Ben Sinnott",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Rachaad White",
       "position": "RB",
       "status": "Questionable",
@@ -1885,6 +1879,12 @@
     },
     {
       "name": "Percy Butler",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Nick Cross",
       "position": "S",
       "status": "Questionable",
       "detail": ""
@@ -1904,12 +1904,6 @@
     {
       "name": "Tyler Owens",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Sonny Styles",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

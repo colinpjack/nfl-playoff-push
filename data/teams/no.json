@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:25:21.185567-04:00",
+  "generatedAt": "2026-10-08T19:56:08.991829-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1842,14 +1842,20 @@
       "detail": ""
     },
     {
+      "name": "Chris Olave",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Brock Rechsteiner",
       "position": "WR",
       "status": "Suspension",
       "detail": ""
     },
     {
-      "name": "Tyler Shough",
-      "position": "QB",
+      "name": "Jeremiah Wright",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1874,12 +1880,6 @@
     {
       "name": "Anfernee Jennings",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mike Reid",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
