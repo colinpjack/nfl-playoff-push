@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:08:44.311325-04:00",
+  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1830,20 +1830,8 @@
       "detail": ""
     },
     {
-      "name": "Noah Fant",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Alvin Kamara",
       "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Chris Olave",
-      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
@@ -1856,7 +1844,7 @@
     {
       "name": "Jeremiah Wright",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1868,19 +1856,13 @@
     {
       "name": "Kaden Elliss",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Carl Granderson",
-      "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Anfernee Jennings",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

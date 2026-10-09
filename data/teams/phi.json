@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:08:44.311325-04:00",
+  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1898,12 +1898,6 @@
     {
       "name": "Jonathan Greenard",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Quinyon Mitchell",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

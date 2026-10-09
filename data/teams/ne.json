@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:08:44.311325-04:00",
+  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1826,13 +1826,13 @@
     {
       "name": "Reggie Gilliam",
       "position": "FB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Mack Hollins",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1856,13 +1856,13 @@
     {
       "name": "Channing Canada",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Carlton Davis III",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1874,7 +1874,7 @@
     {
       "name": "Christian Gonzalez",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1886,7 +1886,7 @@
     {
       "name": "Karon Prunty",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
