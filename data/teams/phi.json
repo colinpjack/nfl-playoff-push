@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1826,7 +1826,7 @@
     {
       "name": "Saquon Barkley",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1838,43 +1838,19 @@
     {
       "name": "Hollywood Brown",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dallas Goedert",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Fred Johnson",
-      "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Drew Kendall",
       "position": "C",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "DeVonta Smith",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dontayvion Wicks",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Zack Baun",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1884,15 +1860,9 @@
       "detail": ""
     },
     {
-      "name": "Jihaad Campbell",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Marcus Epps",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1947,6 +1917,12 @@
       "name": "Johnny Wilson",
       "position": "WR",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Uar Bernard",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     }
   ],

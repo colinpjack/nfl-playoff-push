@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1826,13 +1826,13 @@
     {
       "name": "Joe Alt",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Kayode Awosika",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1842,15 +1842,9 @@
       "detail": ""
     },
     {
-      "name": "Alec Ingold",
-      "position": "FB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Quentin Johnston",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1862,7 +1856,7 @@
     {
       "name": "Trey Lance",
       "position": "QB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1874,48 +1868,30 @@
     {
       "name": "Trevor Penning",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Rashawn Slater",
-      "position": "OT",
       "status": "Out",
       "detail": ""
     },
     {
       "name": "Brenen Thompson",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cam Hart",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Donte Jackson",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Derwin James Jr.",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Deane Leonard",
+      "name": "Rodney Shelley",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dalvin Tomlinson",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1947,6 +1923,12 @@
       "name": "Trey Pipkins III",
       "position": "OT",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Rashawn Slater",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1838,13 +1838,7 @@
     {
       "name": "Cam Jurgens",
       "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "John Simpson",
-      "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1856,7 +1850,7 @@
     {
       "name": "Trey Hendrickson",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1824,12 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Pat Bryant",
-      "position": "WR",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
       "name": "Jonathon Cooper",
       "position": "LB",
       "status": "Out",
@@ -1838,18 +1832,24 @@
     {
       "name": "Riley Moss",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Pat Surtain II",
       "position": "CB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Levelle Bailey",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Pat Bryant",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },

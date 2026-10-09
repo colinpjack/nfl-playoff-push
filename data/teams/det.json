@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1826,7 +1826,7 @@
     {
       "name": "Ben Bartch",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1836,15 +1836,9 @@
       "detail": ""
     },
     {
-      "name": "DJ Wonnum",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Rock Ya-Sin",
       "position": "CB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {

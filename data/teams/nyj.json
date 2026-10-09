@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1842,12 +1842,6 @@
       "detail": ""
     },
     {
-      "name": "Jarvis Brownlee Jr.",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kingsley Enagbare",
       "position": "LB",
       "status": "Questionable",
@@ -1857,6 +1851,12 @@
       "name": "Kiko Mauigoa",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Will McDonald IV",
+      "position": "DE",
+      "status": "Questionable",
       "detail": ""
     },
     {

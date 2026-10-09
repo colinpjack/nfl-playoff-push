@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1824,36 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Isaiah Likely",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Chris Manhertz",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Malik Nabers",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cam Skattebo",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Andrew Thomas",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Chauncey Golston",
       "position": "DE",
       "status": "Out",
@@ -1862,7 +1832,7 @@
     {
       "name": "Jason Pinnock",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

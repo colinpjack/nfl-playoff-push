@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1844,25 +1844,13 @@
     {
       "name": "Julian Neal",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nehemiah Pritchett",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Chazz Surratt",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Leonard Williams",
-      "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

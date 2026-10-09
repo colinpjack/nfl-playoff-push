@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1830,13 +1830,13 @@
       "detail": ""
     },
     {
-      "name": "Tanor Bortolini",
-      "position": "C",
-      "status": "Questionable",
+      "name": "Ashton Dulin",
+      "position": "WR",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Ashton Dulin",
+      "name": "Darius Slayton",
       "position": "WR",
       "status": "Questionable",
       "detail": ""
@@ -1844,7 +1844,7 @@
     {
       "name": "Jaylon Carlies",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

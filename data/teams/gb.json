@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1826,19 +1826,13 @@
     {
       "name": "Aaron Banks",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Anthony Belton",
-      "position": "OT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Chris Brooks",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1856,7 +1850,7 @@
     {
       "name": "Jacob Monk",
       "position": "C",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1866,13 +1860,7 @@
       "detail": ""
     },
     {
-      "name": "Lukas Van Ness",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Devonte Wyatt",
+      "name": "Javon Hargrave",
       "position": "DT",
       "status": "Questionable",
       "detail": ""

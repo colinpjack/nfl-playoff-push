@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1832,13 +1832,13 @@
     {
       "name": "Jalen Nailor",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Trey Zuhn III",
       "position": "C",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1955,7 +1955,7 @@
         "id": "4686658",
         "name": "Mike Washington Jr.",
         "position": "RB",
-        "jersey": "30",
+        "jersey": "4",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686658.png",
         "line": "24 CAR, 120 YDS, 1 TD",
         "value": "120",

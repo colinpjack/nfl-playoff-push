@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1836,8 +1836,8 @@
       "detail": ""
     },
     {
-      "name": "Dalton Risner",
-      "position": "G",
+      "name": "Colbie Young",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
@@ -1856,19 +1856,7 @@
     {
       "name": "Kyle Dugger",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "B.J. Hill",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dexter Lawrence II",
-      "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

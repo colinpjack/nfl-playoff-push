@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Mike Evans",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kyle Juszczyk",
       "position": "FB",
       "status": "Out",
@@ -1844,7 +1838,7 @@
     {
       "name": "Nick Bosa",
       "position": "DE",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1862,7 +1856,7 @@
     {
       "name": "James Thompson Jr.",
       "position": "DT",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -2143,10 +2137,10 @@
       },
       {
         "id": "3052667",
-        "name": "Ogbo Okoronkwo",
-        "position": "LB",
-        "jersey": "59",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3052667.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "1",
         "value": "1",
         "statLabel": "SACK"

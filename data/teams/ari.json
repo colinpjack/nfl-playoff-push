@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Jeremiyah Love",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Walter Nolen III",
       "position": "DT",
       "status": "Questionable",
@@ -1844,12 +1838,6 @@
     {
       "name": "Karson Sharar",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dadrion Taylor-Demerson",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

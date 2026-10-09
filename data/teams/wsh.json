@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:58:28.718781-04:00",
+  "generatedAt": "2026-10-09T19:11:52.602464-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1824,27 +1824,9 @@
   },
   "injuries": [
     {
-      "name": "Nick Allegretti",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Sam Cosmi",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Stefon Diggs",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1856,7 +1838,7 @@
     {
       "name": "Marcus Mariota",
       "position": "QB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1866,45 +1848,27 @@
       "detail": ""
     },
     {
-      "name": "Chig Okonkwo",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Rachaad White",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Percy Butler",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Nick Cross",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Frankie Luvu",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Charles Omenihu",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Tyler Owens",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
