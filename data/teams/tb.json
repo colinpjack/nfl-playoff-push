@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:00:52.098329-04:00",
+  "generatedAt": "2026-10-09T09:08:44.311325-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -48,7 +48,7 @@
     "1.5 GB OF THE CUT LINE",
     "NEXT SUN VS PIT",
     "BYE WEEK 10",
-    "PASSER RATING 71.6"
+    "PASSER RATING 78.0"
   ],
   "narrative": {
     "kicker": "NFC playoff race",
@@ -124,49 +124,49 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "19.0",
+      "value": "20.0",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "24.0",
+      "value": "22.4",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "296.8",
+      "value": "323.4",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "292.8",
+      "value": "307.4",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "-5",
+      "value": "-2",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "35%",
-      "hint": "19-55 \u00b7 around 40% is average"
+      "value": "38%",
+      "hint": "26-68 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "42%",
+      "value": "47%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-10",
+      "value": "-11",
       "hint": "Sacks recorded minus sacks allowed"
     },
     {
@@ -193,35 +193,35 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "-5",
-      "detail": "19.0 scored, 24.0 allowed.",
+      "value": "-2.4",
+      "detail": "20.0 scored, 22.4 allowed.",
       "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "35%",
-      "detail": "19-55",
+      "value": "38%",
+      "detail": "26-68",
       "direction": "flat"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "42%",
+      "value": "47%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "flat"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-10",
+      "value": "-11",
       "detail": "Pass rush minus pass protection.",
       "direction": "down"
     },
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "30:00",
+      "value": "31:52",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "up"
     }
@@ -666,9 +666,9 @@
       "home": "1-2",
       "road": "1-1",
       "gr": 12,
-      "ypg": 355.8,
-      "yapg": 392.8,
-      "to": 0,
+      "ypg": 357.8,
+      "yapg": 400.2,
+      "to": -3,
       "playoffPct": 34.3,
       "powerRank": 17,
       "gb": "0.5",
@@ -810,9 +810,9 @@
       "home": "0-3",
       "road": "1-1",
       "gr": 12,
-      "ypg": 296.8,
-      "yapg": 292.8,
-      "to": -5,
+      "ypg": 323.4,
+      "yapg": 307.4,
+      "to": -2,
       "playoffPct": 14.14,
       "powerRank": 18,
       "gb": "1.5",
@@ -959,9 +959,9 @@
       "home": "0-3",
       "road": "1-1",
       "gr": 12,
-      "ypg": 296.8,
-      "yapg": 292.8,
-      "to": -5,
+      "ypg": 323.4,
+      "yapg": 307.4,
+      "to": -2,
       "playoffPct": 14.14,
       "powerRank": 18,
       "gb": "1.5",
@@ -1211,9 +1211,9 @@
       "home": "0-3",
       "road": "1-1",
       "gr": 12,
-      "ypg": 296.8,
-      "yapg": 292.8,
-      "to": -5,
+      "ypg": 323.4,
+      "yapg": 307.4,
+      "to": -2,
       "playoffPct": 14.14,
       "powerRank": 18
     }
@@ -1912,18 +1912,8 @@
         "position": "RB",
         "jersey": "7",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596448.png",
-        "line": "56 CAR, 241 YDS, 1 TD",
-        "value": "241",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "4243331",
-        "name": "Cade Otton",
-        "position": "TE",
-        "jersey": "88",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243331.png",
-        "line": "15 REC, 157 YDS",
-        "value": "157",
+        "line": "77 CAR, 406 YDS, 2 TD",
+        "value": "406",
         "statLabel": "YDS"
       },
       {
@@ -1932,8 +1922,38 @@
         "position": "WR",
         "jersey": "2",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567750.png",
-        "line": "15 REC, 154 YDS, 1 TD",
-        "value": "154",
+        "line": "21 REC, 192 YDS, 1 TD",
+        "value": "192",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4243331",
+        "name": "Cade Otton",
+        "position": "TE",
+        "jersey": "88",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243331.png",
+        "line": "18 REC, 182 YDS",
+        "value": "182",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "3116165",
+        "name": "Chris Godwin Jr.",
+        "position": "WR",
+        "jersey": "14",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116165.png",
+        "line": "19 REC, 179 YDS",
+        "value": "179",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4608810",
+        "name": "Tez Johnson",
+        "position": "WR",
+        "jersey": "15",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4608810.png",
+        "line": "5 REC, 138 YDS",
+        "value": "138",
         "statLabel": "YDS"
       },
       {
@@ -1947,23 +1967,13 @@
         "statLabel": "YDS"
       },
       {
-        "id": "4608810",
-        "name": "Tez Johnson",
-        "position": "WR",
-        "jersey": "15",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4608810.png",
-        "line": "4 REC, 74 YDS",
-        "value": "74",
-        "statLabel": "YDS"
-      },
-      {
         "id": "4596472",
         "name": "Jalon Daniels",
         "position": "QB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596472.png",
-        "line": "9 CAR, 64 YDS",
-        "value": "64",
+        "line": "16 CAR, 87 YDS",
+        "value": "87",
         "statLabel": "YDS"
       },
       {
@@ -1972,18 +1982,8 @@
         "position": "RB",
         "jersey": "1",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4371733.png",
-        "line": "13 CAR, 26 YDS",
-        "value": "26",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "3116165",
-        "name": "Chris Godwin Jr.",
-        "position": "WR",
-        "jersey": "14",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116165.png",
-        "line": "2 CAR, 15 YDS",
-        "value": "15",
+        "line": "17 CAR, 44 YDS",
+        "value": "44",
         "statLabel": "YDS"
       }
     ],
@@ -1994,8 +1994,28 @@
         "position": "LB",
         "jersey": "45",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870998.png",
-        "line": "34 \u00b7 1 INT",
-        "value": "34",
+        "line": "41 \u00b7 1 INT",
+        "value": "41",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "3043107",
+        "name": "Alex Anzalone",
+        "position": "LB",
+        "jersey": "34",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043107.png",
+        "line": "27 \u00b7 1 SACK \u00b7 1 INT",
+        "value": "27",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "5093694",
+        "name": "Keionte Scott",
+        "position": "CB",
+        "jersey": "22",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5093694.png",
+        "line": "25",
+        "value": "25",
         "statLabel": "TKL"
       },
       {
@@ -2009,43 +2029,23 @@
         "statLabel": "TKL"
       },
       {
-        "id": "3043107",
-        "name": "Alex Anzalone",
-        "position": "LB",
-        "jersey": "34",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043107.png",
-        "line": "22 \u00b7 1 SACK",
-        "value": "22",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4428522",
         "name": "Tykee Smith",
         "position": "S",
         "jersey": "23",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428522.png",
-        "line": "20",
-        "value": "20",
+        "line": "24",
+        "value": "24",
         "statLabel": "TKL"
       },
       {
-        "id": "5093694",
-        "name": "Keionte Scott",
+        "id": "4912847",
+        "name": "Jacob Parrish",
         "position": "CB",
-        "jersey": "22",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5093694.png",
-        "line": "18",
-        "value": "18",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4250392",
-        "name": "Zyon McCollum",
-        "position": "CB",
-        "jersey": "27",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4250392.png",
-        "line": "16",
-        "value": "16",
+        "jersey": "25",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4912847.png",
+        "line": "21",
+        "value": "21",
         "statLabel": "TKL"
       },
       {
@@ -2070,5 +2070,5 @@
       }
     ]
   },
-  "qbRating": 71.6
+  "qbRating": 78.0
 }
