@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:42:26.033459-04:00",
+  "generatedAt": "2026-10-10T11:51:01.989823-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1830,6 +1830,12 @@
       "detail": ""
     },
     {
+      "name": "Joshua Palmer",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Dee Alford",
       "position": "CB",
       "status": "Questionable",
@@ -1844,12 +1850,6 @@
     {
       "name": "Te'Cory Couch",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Landon Jackson",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
