@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1854,9 +1854,21 @@
       "detail": ""
     },
     {
+      "name": "Vernon Broughton",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Kaden Elliss",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jaylan Ford",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1868,6 +1880,18 @@
     {
       "name": "Christen Miller",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Nathan Shepherd",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Lorenzo Styles Jr.",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1896,12 +1920,6 @@
       "detail": ""
     },
     {
-      "name": "Jaylan Ford",
-      "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "David Long Jr.",
       "position": "CB",
       "status": "Injured Reserve",
@@ -1923,12 +1941,6 @@
       "name": "Nick Saldiveri",
       "position": "OT",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Lorenzo Styles Jr.",
-      "position": "S",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {

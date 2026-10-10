@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Chris Brooks",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jager Burton",
       "position": "C",
       "status": "Questionable",
@@ -1880,6 +1874,12 @@
     {
       "name": "Warren Brinson",
       "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Chris Brooks",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

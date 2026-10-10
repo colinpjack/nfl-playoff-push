@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1824,18 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Reggie Gilliam",
-      "position": "FB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mack Hollins",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Morgan Moses",
       "position": "OT",
       "status": "Questionable",
@@ -1890,12 +1878,6 @@
       "detail": ""
     },
     {
-      "name": "Brenden Schooler",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Charles Woods",
       "position": "CB",
       "status": "Questionable",
@@ -1926,8 +1908,20 @@
       "detail": ""
     },
     {
+      "name": "Reggie Gilliam",
+      "position": "FB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Julian Hill",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Mack Hollins",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },

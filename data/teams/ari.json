@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1824,12 +1824,6 @@
   },
   "injuries": [
     {
-      "name": "Isaiah Adams",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "status": "Out",
@@ -1851,6 +1845,12 @@
       "name": "Andrew Wingard",
       "position": "S",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Isaiah Adams",
+      "position": "G",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

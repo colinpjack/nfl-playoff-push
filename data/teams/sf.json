@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1956,12 +1956,6 @@
       "detail": ""
     },
     {
-      "name": "Mykel Williams",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Nick Zakelj",
       "position": "OT",
       "status": "Injured Reserve",
@@ -2137,10 +2131,10 @@
       },
       {
         "id": "3052667",
-        "name": "Player",
-        "position": "",
-        "jersey": "",
-        "headshot": "",
+        "name": "Ogbo Okoronkwo",
+        "position": "LB",
+        "jersey": "59",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3052667.png",
         "line": "1",
         "value": "1",
         "statLabel": "SACK"

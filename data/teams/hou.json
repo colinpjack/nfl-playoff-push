@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1842,9 +1842,21 @@
       "detail": ""
     },
     {
+      "name": "Kayden McDonald",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "M.J. Stewart",
+      "position": "S",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1908,12 +1920,6 @@
       "detail": ""
     },
     {
-      "name": "Kayden McDonald",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Graham Mertz",
       "position": "QB",
       "status": "Injured Reserve",
@@ -1935,12 +1941,6 @@
       "name": "E.J. Speed",
       "position": "LB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "M.J. Stewart",
-      "position": "S",
-      "status": "Questionable",
       "detail": ""
     },
     {

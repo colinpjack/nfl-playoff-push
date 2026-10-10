@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1854,9 +1854,9 @@
       "detail": ""
     },
     {
-      "name": "Trey Lance",
-      "position": "QB",
-      "status": "Doubtful",
+      "name": "Scott Matlock",
+      "position": "FB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1866,9 +1866,9 @@
       "detail": ""
     },
     {
-      "name": "Trevor Penning",
+      "name": "Branson Taylor",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1902,14 +1902,20 @@
       "detail": ""
     },
     {
-      "name": "Scott Matlock",
-      "position": "FB",
+      "name": "Trey Lance",
+      "position": "QB",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
       "name": "David Njoku",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Trevor Penning",
+      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1928,12 +1934,6 @@
     {
       "name": "Rashawn Slater",
       "position": "OT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Branson Taylor",
-      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },

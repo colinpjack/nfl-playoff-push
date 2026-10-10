@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
+  "generatedAt": "2026-10-10T19:30:02.349272-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1842,8 +1842,20 @@
       "detail": ""
     },
     {
+      "name": "Michael Jurgens",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Brian O'Neill",
       "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ben Yurosek",
+      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1872,12 +1884,6 @@
       "detail": ""
     },
     {
-      "name": "Michael Jurgens",
-      "position": "C",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jordan Mason",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1898,12 +1904,6 @@
     {
       "name": "Nick Samac",
       "position": "C",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Ben Yurosek",
-      "position": "TE",
       "status": "Injured Reserve",
       "detail": ""
     }
