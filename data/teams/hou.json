@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:51:01.989823-04:00",
+  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1842,12 +1842,6 @@
       "detail": ""
     },
     {
-      "name": "Kenneth Murray Jr.",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
@@ -1916,7 +1910,7 @@
     {
       "name": "Kayden McDonald",
       "position": "DT",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1946,7 +1940,7 @@
     {
       "name": "M.J. Stewart",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

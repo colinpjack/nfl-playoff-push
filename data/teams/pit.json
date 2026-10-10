@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:51:01.989823-04:00",
+  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Michael Pittman Jr.",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jamel Dean",
       "position": "CB",
       "status": "Out",
@@ -1898,6 +1892,12 @@
     {
       "name": "Logan Lee",
       "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Michael Pittman Jr.",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:51:01.989823-04:00",
+  "generatedAt": "2026-10-10T16:01:27.956735-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1838,18 +1838,12 @@
     {
       "name": "Darius Slayton",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaylon Carlies",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Arden Key",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },
@@ -1861,6 +1855,12 @@
     },
     {
       "name": "Micheal Clemons",
+      "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Arden Key",
       "position": "DE",
       "status": "Injured Reserve",
       "detail": ""
