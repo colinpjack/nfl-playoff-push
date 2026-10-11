@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1614,7 +1614,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-11T17:00Z",
@@ -1824,8 +1824,26 @@
   },
   "injuries": [
     {
+      "name": "Kaytron Allen",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "DJ Campbell",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Caleb Douglas",
       "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Chukwuebuka Godrick",
+      "position": "OT",
       "status": "Out",
       "detail": ""
     },
@@ -1833,12 +1851,6 @@
       "name": "Justin Joly",
       "position": "TE",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jaylen Wright",
-      "position": "RB",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1851,12 +1863,6 @@
       "name": "Reese Taylor",
       "position": "CB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jackson Woodard",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {

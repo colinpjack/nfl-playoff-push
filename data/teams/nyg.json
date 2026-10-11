@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1614,7 +1614,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Eagles loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-11T17:00Z",
@@ -1824,8 +1824,38 @@
   },
   "injuries": [
     {
+      "name": "J.C. Davis",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jake Haener",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Devin Singletary",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Bobby Jamison-Travis",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Jason Pinnock",
       "position": "S",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Nikko Reed",
+      "position": "CB",
       "status": "Out",
       "detail": ""
     },

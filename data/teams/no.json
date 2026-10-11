@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Alvin Kamara",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Brock Rechsteiner",
       "position": "WR",
       "status": "Suspension",
@@ -1866,12 +1860,6 @@
       "detail": ""
     },
     {
-      "name": "Jaylan Ford",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Anfernee Jennings",
       "position": "LB",
       "status": "Out",
@@ -1886,12 +1874,6 @@
     {
       "name": "Nathan Shepherd",
       "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Lorenzo Styles Jr.",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "Tottenham Hotspur Stadium",
       "broadcast": "NFL Net",
-      "detail": "10/11 - 9:30 AM EDT",
-      "live": false,
+      "detail": "6:45 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 71,
       "homeAbbr": "JAX",
@@ -1614,7 +1614,7 @@
       "interest": "Jaguars game",
       "tagClass": "jays",
       "note": "The Jaguars are at home against the Eagles.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-11T17:00Z",
@@ -1824,9 +1824,45 @@
   },
   "injuries": [
     {
+      "name": "Daniel Faalele",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "CJ Williams",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Alijah Huzzie",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Eric Murray",
       "position": "S",
-      "status": "Doubtful",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Albert Regis",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Wesley Williams",
+      "position": "DE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ross Matiscik",
+      "position": "LS",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1614,7 +1614,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-11T17:00Z",
@@ -1824,9 +1824,27 @@
   },
   "injuries": [
     {
+      "name": "Drew Allar",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Rico Dowdle",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Eli Heidenreich",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Will Howard",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1836,9 +1854,15 @@
       "detail": ""
     },
     {
-      "name": "Jalen Ramsey",
+      "name": "Kevin Jobity Jr.",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Terell Smith",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "Tottenham Hotspur Stadium",
       "broadcast": "NFL Net",
-      "detail": "10/11 - 9:30 AM EDT",
-      "live": false,
+      "detail": "6:04 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 29,
       "homeAbbr": "JAX",
@@ -1614,7 +1614,7 @@
       "interest": "Eagles game",
       "tagClass": "jays",
       "note": "The Eagles are on the road against the Jaguars.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-11T17:00Z",
@@ -1848,6 +1848,12 @@
       "detail": ""
     },
     {
+      "name": "Will Shipley",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "DeVonta Smith",
       "position": "WR",
       "status": "Out",
@@ -1867,6 +1873,12 @@
     },
     {
       "name": "Jonathan Greenard",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jalyx Hunt",
       "position": "LB",
       "status": "Questionable",
       "detail": ""

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:16:45.846946-04:00",
+  "generatedAt": "2026-10-11T11:56:51.447406-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1614,7 +1614,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Jaguars loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-11T17:00Z",
@@ -1824,27 +1824,39 @@
   },
   "injuries": [
     {
-      "name": "Aireontae Ersery",
-      "position": "OT",
-      "status": "Questionable",
+      "name": "Marlin Klein",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Blake Fisher",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Ed Ingram",
+      "name": "Febechi Nwaiwu",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Kayden McDonald",
-      "position": "DT",
-      "status": "Questionable",
+      "name": "Nate Thomas",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Chris Braswell",
+      "position": "DE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Aiden Fisher",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Sabastian Harsh",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1854,9 +1866,9 @@
       "detail": ""
     },
     {
-      "name": "M.J. Stewart",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Collin Wright",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
