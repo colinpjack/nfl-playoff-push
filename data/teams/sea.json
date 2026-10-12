@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1825,33 +1825,27 @@
   },
   "injuries": [
     {
-      "name": "Montorie Foster Jr.",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Robert Henry Jr.",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nick Kallerup",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Milroe",
+      "name": "Drew Lock",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jadarian Price",
       "position": "RB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Beau Stephens",
+      "position": "G",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1869,6 +1863,12 @@
     {
       "name": "Drake Thomas",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Leonard Williams",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

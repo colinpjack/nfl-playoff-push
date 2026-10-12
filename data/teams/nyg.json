@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1825,39 +1825,15 @@
   },
   "injuries": [
     {
-      "name": "J.C. Davis",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jermaine Eluemunor",
       "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jake Haener",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Devin Singletary",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Colton Hood",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Bobby Jamison-Travis",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1869,12 +1845,6 @@
     {
       "name": "Jason Pinnock",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nikko Reed",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

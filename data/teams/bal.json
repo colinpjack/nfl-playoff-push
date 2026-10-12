@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1849,12 +1849,6 @@
       "detail": ""
     },
     {
-      "name": "Elijah Sarratt",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Andrew Vorhees",
       "position": "G",
       "status": "Out",
@@ -1863,12 +1857,6 @@
     {
       "name": "Trey Hendrickson",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Aeneas Peebles",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

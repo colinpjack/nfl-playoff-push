@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1825,55 +1825,25 @@
   },
   "injuries": [
     {
-      "name": "Drew Allar",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Rico Dowdle",
       "position": "RB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Eli Heidenreich",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Will Howard",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Ben Skowronek",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Roman Wilson",
       "position": "WR",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jamel Dean",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kevin Jobity Jr.",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Terell Smith",
       "position": "CB",
       "status": "Out",
       "detail": ""

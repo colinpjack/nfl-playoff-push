@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1831,12 +1831,6 @@
       "detail": ""
     },
     {
-      "name": "Ozzy Trapilo",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Caleb Williams",
       "position": "QB",
       "status": "Out",
@@ -1851,18 +1845,6 @@
     {
       "name": "Keyshaun Elliott",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jamree Kromah",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jayden Loving",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },
@@ -1905,7 +1887,7 @@
     {
       "name": "Jonathan Garvin",
       "position": "DE",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {

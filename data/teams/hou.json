@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1825,69 +1825,21 @@
   },
   "injuries": [
     {
-      "name": "Marvin Harrison Jr.",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Marlin Klein",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "David Montgomery",
       "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Febechi Nwaiwu",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nate Thomas",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Chris Braswell",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Aiden Fisher",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sabastian Harsh",
-      "position": "DE",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Jalen Pitre",
       "position": "S",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Collin Wright",
-      "position": "CB",
-      "status": "Out",
       "detail": ""
     },
     {

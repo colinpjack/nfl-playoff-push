@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1819,18 +1819,6 @@
       "detail": ""
     },
     {
-      "name": "Odell Beckham Jr.",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Max Brosmer",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Christian Darrisaw",
       "position": "OT",
       "status": "Out",
@@ -1845,18 +1833,6 @@
     {
       "name": "Charles Demmings",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jakobe Thomas",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Elijah Williams",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

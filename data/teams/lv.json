@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1825,20 +1825,8 @@
   },
   "injuries": [
     {
-      "name": "Roman Hemby",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jalen Nailor",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Aidan O'Connell",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },
@@ -1855,27 +1843,9 @@
       "detail": ""
     },
     {
-      "name": "Dalton Johnson",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Patrick Johnson",
       "position": "DE",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tristin McCollum",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "JJ Pegues",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1930,6 +1900,12 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Tyler Scott",
+      "position": "WR",
+      "status": "Out",
       "detail": ""
     }
   ],

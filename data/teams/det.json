@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1821,37 +1821,13 @@
     {
       "name": "Tom Kennedy",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jackson Meeks",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Bishop Fitzgerald",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ahmed Hassanein",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },
     {
       "name": "Devin White",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mekhi Wingo",
-      "position": "DT",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {

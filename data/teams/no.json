@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1831,12 +1831,6 @@
       "detail": ""
     },
     {
-      "name": "Zach Wilson",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jeremiah Wright",
       "position": "G",
       "status": "Out",
@@ -1857,12 +1851,6 @@
     {
       "name": "Anfernee Jennings",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mike Reid",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

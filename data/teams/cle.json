@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1825,21 +1825,9 @@
   },
   "injuries": [
     {
-      "name": "Parker Brailsford",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "KC Concepcion",
       "position": "WR",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Taylen Green",
-      "position": "QB",
-      "status": "Out",
       "detail": ""
     },
     {

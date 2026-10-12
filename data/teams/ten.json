@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1825,26 +1825,8 @@
   },
   "injuries": [
     {
-      "name": "Michael Carter",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Brandon Crenshaw-Dickson",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "David Martin-Robinson",
       "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nicholas Singleton",
-      "position": "RB",
       "status": "Out",
       "detail": ""
     },
@@ -1857,18 +1839,6 @@
     {
       "name": "Amani Hooker",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jaylon Jones",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jackie Marshall",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

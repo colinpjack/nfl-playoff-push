@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1825,21 +1825,9 @@
   },
   "injuries": [
     {
-      "name": "Daniel Faalele",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Anton Harrison",
       "position": "OT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "CJ Williams",
-      "position": "WR",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1849,26 +1837,8 @@
       "detail": ""
     },
     {
-      "name": "Alijah Huzzie",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Eric Murray",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Albert Regis",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Wesley Williams",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

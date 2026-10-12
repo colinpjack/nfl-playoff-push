@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1824,24 +1824,6 @@
     "elimRival": "SF"
   },
   "injuries": [
-    {
-      "name": "Carson Beck",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Andrew Billings",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Starling Thomas V",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
     {
       "name": "Wydett Williams Jr.",
       "position": "S",

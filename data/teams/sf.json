@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:37.056887-04:00",
+  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1831,32 +1831,14 @@
       "detail": ""
     },
     {
-      "name": "Enrique Cruz Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kyle Juszczyk",
       "position": "FB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Kurtis Rourke",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tatum Bethune",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },
@@ -1864,6 +1846,12 @@
       "name": "Nick Bosa",
       "position": "DE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Dre Greenlaw",
+      "position": "LB",
+      "status": "Suspension",
       "detail": ""
     },
     {
@@ -1875,6 +1863,12 @@
     {
       "name": "James Thompson Jr.",
       "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Garret Wallow",
+      "position": "LB",
       "status": "Out",
       "detail": ""
     },
