@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
+  "generatedAt": "2026-10-13T19:06:13.136923-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1855,12 +1855,6 @@
       "detail": ""
     },
     {
-      "name": "Raheim Sanders",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Tylan Wallace",
       "position": "WR",
       "status": "Questionable",
@@ -1922,6 +1916,12 @@
     },
     {
       "name": "Dylan Sampson",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Raheim Sanders",
       "position": "RB",
       "status": "Injured Reserve",
       "detail": ""

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
+  "generatedAt": "2026-10-13T19:06:13.136923-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Cam Jackson",
-      "position": "DT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jaelan Phillips",
       "position": "LB",
       "status": "Questionable",
@@ -1874,6 +1868,12 @@
     {
       "name": "Jaycee Horn",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Cam Jackson",
+      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },

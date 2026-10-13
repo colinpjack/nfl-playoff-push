@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
+  "generatedAt": "2026-10-13T19:06:13.136923-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1824,12 +1824,6 @@
       "detail": ""
     },
     {
-      "name": "Tyquan Thornton",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jeff Caldwell",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1863,6 +1857,12 @@
       "name": "Omarr Norman-Lott",
       "position": "DT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyquan Thornton",
+      "position": "WR",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
