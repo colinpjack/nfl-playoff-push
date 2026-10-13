@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
+  "generatedAt": "2026-10-12T23:10:52.571335-04:00",
   "season": 2026,
   "week": 5,
   "weekLabel": "Week 5 \u00b7 2026",
@@ -3564,8 +3564,8 @@
       "id": "401872994",
       "date": "2026-10-13T00:15Z",
       "week": 5,
-      "status": "Mon, Oct 12 \u00b7 8:15 PM",
-      "live": false,
+      "status": "2:00 - 4th",
+      "live": true,
       "completed": false,
       "venue": "SoFi Stadium",
       "broadcast": "ESPN, ABC",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
+  "generatedAt": "2026-10-12T23:10:52.571335-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1586,7 +1586,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-16T00:15Z",

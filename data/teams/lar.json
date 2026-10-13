@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
+  "generatedAt": "2026-10-12T23:10:52.571335-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "SoFi Stadium",
       "broadcast": "ESPN, ABC",
-      "detail": "10/12 - 8:15 PM EDT",
-      "live": false,
+      "detail": "2:00 - 4th",
+      "live": true,
       "final": false,
       "winPct": 48,
       "homeAbbr": "LAR",
@@ -1614,7 +1614,7 @@
       "interest": "Rams game",
       "tagClass": "jays",
       "note": "The Rams are at home against the Bills.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-16T00:15Z",
@@ -1824,9 +1824,33 @@
   },
   "injuries": [
     {
-      "name": "Quentin Lake",
-      "position": "S",
-      "status": "Questionable",
+      "name": "CJ Daniels",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Max Klare",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Bill Murray",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ty Simpson",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Larrell Murchison",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {

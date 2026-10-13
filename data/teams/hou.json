@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:35:09.553415-04:00",
+  "generatedAt": "2026-10-12T23:10:52.571335-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1586,7 +1586,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-16T00:15Z",
@@ -2022,10 +2022,10 @@
       },
       {
         "id": "4430681",
-        "name": "Jared Wayne",
-        "position": "WR",
-        "jersey": "17",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430681.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "4 REC, 65 YDS",
         "value": "65",
         "statLabel": "YDS"
