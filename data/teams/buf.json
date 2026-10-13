@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:10:52.571335-04:00",
+  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -39,26 +39,26 @@
     "rootingBlurb": "Who needs to lose for the division or the cut line to get closer. Not a betting line, and not a live in-game number."
   },
   "ticker": [
-    "BUF 3-1",
+    "BUF 4-1",
     "AFC NO. 4",
-    "POWER NO. 9",
-    "L1",
-    "POINT DIFF +20",
+    "POWER NO. 11",
+    "W1",
+    "POINT DIFF +23",
     "\u2014 GB OF BUF IN THE EAST",
-    "+0.5 GB OF THE CUT LINE",
-    "NEXT MON @ LAR",
+    "+1 GB OF THE CUT LINE",
+    "NEXT SUN @ LV",
     "BYE WEEK 5",
-    "PASSER RATING 100.1"
+    "PASSER RATING 99.6"
   ],
   "narrative": {
     "kicker": "Inside the AFC field",
     "headline": "Holding the No. 4 seed",
-    "blurb": "The Bills are 3-1 and currently in. The cushion on the cut line is a half-game."
+    "blurb": "The Bills are 4-1 and currently in. The cushion on the cut line is one game."
   },
   "chips": [
     {
       "label": "Record",
-      "value": "3-1"
+      "value": "4-1"
     },
     {
       "label": "AFC seed",
@@ -66,23 +66,23 @@
     },
     {
       "label": "Power rank",
-      "value": "No. 9"
+      "value": "No. 11"
     },
     {
       "label": "Streak",
-      "value": "L1"
+      "value": "W1"
     },
     {
       "label": "Next",
-      "value": "Mon @ LAR"
+      "value": "Sun @ LV"
     },
     {
       "label": "Point diff",
-      "value": "+20"
+      "value": "+23"
     },
     {
       "label": "Projected wins",
-      "value": "10.2"
+      "value": "10.7"
     }
   ],
   "meters": {
@@ -91,76 +91,76 @@
       "value": "#4",
       "sub": "Inside the field of seven",
       "heatLabel": "Season left",
-      "heat": 76,
-      "heatText": "13 left"
+      "heat": 71,
+      "heatText": "12 left"
     },
     "third": {
       "label": "Magic number to win the East",
-      "value": "13",
+      "value": "12",
       "sub": "BUF wins + NE losses",
       "note": "The Patriots are the team to catch. Elimination number vs the Patriots is 14."
     }
   },
   "playoffOdds": {
-    "percent": 68.84,
+    "percent": 75.54,
     "sims": 5000,
-    "note": "Division title in 43.8% of sims, wild card in 25.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
-    "divisionPercent": 43.84,
-    "wildcardPercent": 25.0
+    "note": "Division title in 50.2% of sims, wild card in 25.4%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "divisionPercent": 50.18,
+    "wildcardPercent": 25.36
   },
   "kpis": [
     {
       "stat": "W-L",
       "label": "Record",
-      "value": "3-1",
-      "hint": "L1"
+      "value": "4-1",
+      "hint": "W1"
     },
     {
       "stat": "DIFF",
       "label": "Point diff",
-      "value": "+20",
+      "value": "+23",
       "hint": "Points scored minus points allowed"
     },
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "31.8",
+      "value": "32.8",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "26.8",
+      "value": "28.2",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "398.8",
+      "value": "407.8",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "390.0",
+      "value": "404.0",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "-2",
+      "value": "-4",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "53%",
-      "hint": "24-45 \u00b7 around 40% is average"
+      "value": "50%",
+      "hint": "26-52 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "69%",
+      "value": "71%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -186,28 +186,28 @@
     {
       "stat": "DIFF",
       "label": "Point differential",
-      "value": "+20",
+      "value": "+23",
       "detail": "The cleanest 'are they actually this good?' check.",
       "direction": "up"
     },
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "+5",
-      "detail": "31.8 scored, 26.8 allowed.",
+      "value": "+4.6",
+      "detail": "32.8 scored, 28.2 allowed.",
       "direction": "up"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "53%",
-      "detail": "24-45",
+      "value": "50%",
+      "detail": "26-52",
       "direction": "up"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "69%",
+      "value": "71%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "up"
     },
@@ -221,7 +221,7 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "28:06",
+      "value": "28:31",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "flat"
     }
@@ -230,7 +230,7 @@
     "division": {
       "title": "AFC East",
       "value": "IN",
-      "detail": "The Bills lead at 3-1. The Bills are 0-1 inside the division. Win the East and the seed is automatic.",
+      "detail": "The Bills lead at 4-1. The Bills are 0-1 inside the division. Win the East and the seed is automatic.",
       "in": true
     },
     "wildcard": {
@@ -273,7 +273,7 @@
       "ypg": 421.5,
       "yapg": 321.8,
       "to": 5,
-      "playoffPct": 95.8,
+      "playoffPct": 95.72,
       "powerRank": 4,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -309,7 +309,7 @@
       "ypg": 410.6,
       "yapg": 340.0,
       "to": 3,
-      "playoffPct": 79.34,
+      "playoffPct": 78.36,
       "powerRank": 8,
       "gb": "+1",
       "gbValue": -1.0,
@@ -345,7 +345,7 @@
       "ypg": 349.0,
       "yapg": 341.0,
       "to": 5,
-      "playoffPct": 96.0,
+      "playoffPct": 95.86,
       "powerRank": 1,
       "gb": "+1",
       "gbValue": -1.0,
@@ -362,29 +362,29 @@
       "conference": "AFC",
       "division": "AFC East",
       "seed": 4,
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0,
-      "record": "3-1",
-      "pct": 0.75,
-      "pf": 127,
-      "pa": 107,
-      "diff": 20,
-      "ppg": 31.8,
-      "papg": 26.8,
-      "streak": "L1",
+      "record": "4-1",
+      "pct": 0.8,
+      "pf": 164,
+      "pa": 141,
+      "diff": 23,
+      "ppg": 32.8,
+      "papg": 28.2,
+      "streak": "W1",
       "divisionRecord": "0-1",
       "conferenceRecord": "2-1",
       "home": "2-1",
-      "road": "1-0",
-      "gr": 13,
-      "ypg": 398.8,
-      "yapg": 390.0,
-      "to": -2,
-      "playoffPct": 68.84,
-      "powerRank": 9,
-      "gb": "+0.5",
-      "gbValue": -0.5,
+      "road": "2-0",
+      "gr": 12,
+      "ypg": 407.8,
+      "yapg": 404.0,
+      "to": -4,
+      "playoffPct": 75.54,
+      "powerRank": 11,
+      "gb": "+1",
+      "gbValue": -1.0,
       "path": "East champ",
       "inField": true,
       "isFocus": true,
@@ -417,8 +417,8 @@
       "ypg": 382.0,
       "yapg": 313.4,
       "to": -5,
-      "playoffPct": 69.04,
-      "powerRank": 16,
+      "playoffPct": 67.9,
+      "powerRank": 15,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Wild card",
@@ -453,7 +453,7 @@
       "ypg": 274.6,
       "yapg": 365.6,
       "to": 1,
-      "playoffPct": 38.02,
+      "playoffPct": 37.3,
       "powerRank": 21,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -489,7 +489,7 @@
       "ypg": 345.4,
       "yapg": 393.8,
       "to": 3,
-      "playoffPct": 51.4,
+      "playoffPct": 50.68,
       "powerRank": 25,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -525,7 +525,7 @@
       "ypg": 296.2,
       "yapg": 357.2,
       "to": -1,
-      "playoffPct": 31.9,
+      "playoffPct": 30.44,
       "powerRank": 23,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -561,8 +561,8 @@
       "ypg": 348.0,
       "yapg": 337.0,
       "to": 2,
-      "playoffPct": 44.36,
-      "powerRank": 15,
+      "playoffPct": 45.36,
+      "powerRank": 14,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -597,8 +597,8 @@
       "ypg": 355.0,
       "yapg": 368.0,
       "to": 2,
-      "playoffPct": 60.14,
-      "powerRank": 17,
+      "playoffPct": 59.58,
+      "powerRank": 16,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -633,7 +633,7 @@
       "ypg": 310.8,
       "yapg": 313.4,
       "to": 3,
-      "playoffPct": 31.68,
+      "playoffPct": 30.68,
       "powerRank": 24,
       "gb": "1",
       "gbValue": 1.0,
@@ -669,8 +669,8 @@
       "ypg": 305.0,
       "yapg": 398.2,
       "to": -6,
-      "playoffPct": 19.84,
-      "powerRank": 19,
+      "playoffPct": 19.16,
+      "powerRank": 18,
       "gb": "1",
       "gbValue": 1.0,
       "path": "Outside",
@@ -705,8 +705,8 @@
       "ypg": 359.4,
       "yapg": 334.6,
       "to": 3,
-      "playoffPct": 12.64,
-      "powerRank": 13,
+      "playoffPct": 12.58,
+      "powerRank": 12,
       "gb": "2",
       "gbValue": 2.0,
       "path": "Outside",
@@ -741,7 +741,7 @@
       "ypg": 296.4,
       "yapg": 336.6,
       "to": -4,
-      "playoffPct": 0.46,
+      "playoffPct": 0.26,
       "powerRank": 30,
       "gb": "3",
       "gbValue": 3.0,
@@ -777,7 +777,7 @@
       "ypg": 315.6,
       "yapg": 323.6,
       "to": -5,
-      "playoffPct": 0.34,
+      "playoffPct": 0.4,
       "powerRank": 28,
       "gb": "3",
       "gbValue": 3.0,
@@ -813,7 +813,7 @@
       "ypg": 261.8,
       "yapg": 342.6,
       "to": -5,
-      "playoffPct": 0.2,
+      "playoffPct": 0.18,
       "powerRank": 31,
       "gb": "3",
       "gbValue": 3.0,
@@ -832,27 +832,27 @@
       "conference": "AFC",
       "division": "AFC East",
       "seed": 4,
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0,
-      "record": "3-1",
-      "pct": 0.75,
-      "pf": 127,
-      "pa": 107,
-      "diff": 20,
-      "ppg": 31.8,
-      "papg": 26.8,
-      "streak": "L1",
+      "record": "4-1",
+      "pct": 0.8,
+      "pf": 164,
+      "pa": 141,
+      "diff": 23,
+      "ppg": 32.8,
+      "papg": 28.2,
+      "streak": "W1",
       "divisionRecord": "0-1",
       "conferenceRecord": "2-1",
       "home": "2-1",
-      "road": "1-0",
-      "gr": 13,
-      "ypg": 398.8,
-      "yapg": 390.0,
-      "to": -2,
-      "playoffPct": 68.84,
-      "powerRank": 9,
+      "road": "2-0",
+      "gr": 12,
+      "ypg": 407.8,
+      "yapg": 404.0,
+      "to": -4,
+      "playoffPct": 75.54,
+      "powerRank": 11,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "East champ",
@@ -888,10 +888,10 @@
       "ypg": 382.0,
       "yapg": 313.4,
       "to": -5,
-      "playoffPct": 69.04,
-      "powerRank": 16,
-      "gb": "0.5",
-      "gbValue": 0.5,
+      "playoffPct": 67.9,
+      "powerRank": 15,
+      "gb": "1",
+      "gbValue": 1.0,
       "path": "Wild card",
       "inField": true,
       "isFocus": false,
@@ -925,10 +925,10 @@
       "ypg": 310.8,
       "yapg": 313.4,
       "to": 3,
-      "playoffPct": 31.68,
+      "playoffPct": 30.68,
       "powerRank": 24,
-      "gb": "1.5",
-      "gbValue": 1.5,
+      "gb": "2",
+      "gbValue": 2.0,
       "path": "Outside",
       "inField": false,
       "isFocus": false,
@@ -962,10 +962,10 @@
       "ypg": 296.4,
       "yapg": 336.6,
       "to": -4,
-      "playoffPct": 0.46,
+      "playoffPct": 0.26,
       "powerRank": 30,
-      "gb": "3.5",
-      "gbValue": 3.5,
+      "gb": "4",
+      "gbValue": 4.0,
       "path": "Outside",
       "inField": false,
       "isFocus": false,
@@ -982,27 +982,27 @@
       "conference": "AFC",
       "division": "AFC East",
       "seed": 4,
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0,
-      "record": "3-1",
-      "pct": 0.75,
-      "pf": 127,
-      "pa": 107,
-      "diff": 20,
-      "ppg": 31.8,
-      "papg": 26.8,
-      "streak": "L1",
+      "record": "4-1",
+      "pct": 0.8,
+      "pf": 164,
+      "pa": 141,
+      "diff": 23,
+      "ppg": 32.8,
+      "papg": 28.2,
+      "streak": "W1",
       "divisionRecord": "0-1",
       "conferenceRecord": "2-1",
       "home": "2-1",
-      "road": "1-0",
-      "gr": 13,
-      "ypg": 398.8,
-      "yapg": 390.0,
-      "to": -2,
-      "playoffPct": 68.84,
-      "powerRank": 9
+      "road": "2-0",
+      "gr": 12,
+      "ypg": 407.8,
+      "yapg": 404.0,
+      "to": -4,
+      "playoffPct": 75.54,
+      "powerRank": 11
     },
     {
       "abbr": "BAL",
@@ -1031,7 +1031,7 @@
       "ypg": 410.6,
       "yapg": 340.0,
       "to": 3,
-      "playoffPct": 79.34,
+      "playoffPct": 78.36,
       "powerRank": 8
     },
     {
@@ -1061,7 +1061,7 @@
       "ypg": 349.0,
       "yapg": 341.0,
       "to": 5,
-      "playoffPct": 96.0,
+      "playoffPct": 95.86,
       "powerRank": 1
     },
     {
@@ -1091,7 +1091,7 @@
       "ypg": 421.5,
       "yapg": 321.8,
       "to": 5,
-      "playoffPct": 95.8,
+      "playoffPct": 95.72,
       "powerRank": 4
     }
   ],
@@ -1105,27 +1105,27 @@
       "conference": "AFC",
       "division": "AFC East",
       "seed": 4,
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0,
-      "record": "3-1",
-      "pct": 0.75,
-      "pf": 127,
-      "pa": 107,
-      "diff": 20,
-      "ppg": 31.8,
-      "papg": 26.8,
-      "streak": "L1",
+      "record": "4-1",
+      "pct": 0.8,
+      "pf": 164,
+      "pa": 141,
+      "diff": 23,
+      "ppg": 32.8,
+      "papg": 28.2,
+      "streak": "W1",
       "divisionRecord": "0-1",
       "conferenceRecord": "2-1",
       "home": "2-1",
-      "road": "1-0",
-      "gr": 13,
-      "ypg": 398.8,
-      "yapg": 390.0,
-      "to": -2,
-      "playoffPct": 68.84,
-      "powerRank": 9
+      "road": "2-0",
+      "gr": 12,
+      "ypg": 407.8,
+      "yapg": 404.0,
+      "to": -4,
+      "playoffPct": 75.54,
+      "powerRank": 11
     },
     {
       "abbr": "NE",
@@ -1154,8 +1154,8 @@
       "ypg": 382.0,
       "yapg": 313.4,
       "to": -5,
-      "playoffPct": 69.04,
-      "powerRank": 16
+      "playoffPct": 67.9,
+      "powerRank": 15
     },
     {
       "abbr": "NYJ",
@@ -1184,7 +1184,7 @@
       "ypg": 310.8,
       "yapg": 313.4,
       "to": 3,
-      "playoffPct": 31.68,
+      "playoffPct": 30.68,
       "powerRank": 24
     },
     {
@@ -1214,59 +1214,19 @@
       "ypg": 296.4,
       "yapg": 336.6,
       "to": -4,
-      "playoffPct": 0.46,
+      "playoffPct": 0.26,
       "powerRank": 30
     }
   ],
   "remaining": {
-    "games": 13,
+    "games": 12,
     "home": 5,
-    "away": 8,
+    "away": 7,
     "division": 5,
     "bye": 5,
-    "sos": 0.546
+    "sos": 0.55
   },
   "schedule": [
-    {
-      "bye": true,
-      "week": 5,
-      "date": "",
-      "isHome": true,
-      "opponent": {},
-      "venue": "Open date",
-      "broadcast": "",
-      "winPct": null,
-      "final": false,
-      "live": false
-    },
-    {
-      "id": "401872994",
-      "date": "2026-10-13T00:15Z",
-      "week": 5,
-      "isHome": false,
-      "opponent": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams",
-        "nickname": "Rams",
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-        "record": "2-2",
-        "pct": 0.5
-      },
-      "divisionGame": false,
-      "conferenceGame": false,
-      "venue": "SoFi Stadium",
-      "broadcast": "ESPN, ABC",
-      "detail": "2:00 - 4th",
-      "live": true,
-      "final": false,
-      "winPct": 52,
-      "homeAbbr": "LAR",
-      "awayAbbr": "BUF",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null
-    },
     {
       "id": "401873005",
       "date": "2026-10-18T20:25Z",
@@ -1606,17 +1566,6 @@
   ],
   "rooting": [
     {
-      "date": "2026-10-13T00:15Z",
-      "homeAbbr": "LAR",
-      "awayAbbr": "BUF",
-      "homeWinPct": 48,
-      "awayWinPct": 52,
-      "interest": "Bills game",
-      "tagClass": "jays",
-      "note": "The Bills are on the road against the Rams.",
-      "live": true
-    },
-    {
       "date": "2026-10-16T00:15Z",
       "homeAbbr": "DEN",
       "awayAbbr": "SEA",
@@ -1691,6 +1640,17 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line.",
+      "live": false
+    },
+    {
+      "date": "2026-10-23T00:15Z",
+      "homeAbbr": "CHI",
+      "awayAbbr": "NE",
+      "homeWinPct": 55,
+      "awayWinPct": 45,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Patriots loss helps the East race.",
       "live": false
     }
   ],
@@ -1810,13 +1770,42 @@
       "usScore": "26",
       "themScore": "29",
       "result": "L"
+    },
+    {
+      "id": "401872994",
+      "date": "2026-10-13T00:15Z",
+      "week": 5,
+      "isHome": false,
+      "opponent": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
+        "nickname": "Rams",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+        "record": "2-3",
+        "pct": 0.4
+      },
+      "divisionGame": false,
+      "conferenceGame": false,
+      "venue": "SoFi Stadium",
+      "broadcast": "ESPN, ABC",
+      "detail": "Final/OT",
+      "live": false,
+      "final": true,
+      "winPct": null,
+      "homeAbbr": "LAR",
+      "awayAbbr": "BUF",
+      "homeScore": "34",
+      "awayScore": "37",
+      "usScore": "37",
+      "themScore": "34",
+      "result": "W"
     }
   ],
   "recentBlurb": "The games already in the book.",
   "tiebreak": {
     "division": "0-1",
     "conference": "2-1",
-    "diff": "+20",
+    "diff": "+23",
     "headToHead": "Head-to-head inside the East: L 26\u201329 vs NE.",
     "detail": "If the East finishes level, the NFL starts with head-to-head, then division record, then common games, then conference record. Point differential is the eye test. It is not the first tiebreaker.",
     "elimination": 14,
@@ -1911,8 +1900,8 @@
         "position": "QB",
         "jersey": "17",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
-        "line": "79/119, 1039 YDS, 6 TD, 3 INT",
-        "value": "100.1",
+        "line": "91/138, 1249 YDS, 7 TD, 4 INT",
+        "value": "99.6",
         "statLabel": "RTG"
       }
     ],
@@ -1923,8 +1912,8 @@
         "position": "RB",
         "jersey": "4",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png",
-        "line": "70 CAR, 421 YDS, 3 TD",
-        "value": "421",
+        "line": "95 CAR, 532 YDS, 5 TD",
+        "value": "532",
         "statLabel": "YDS"
       },
       {
@@ -1933,18 +1922,8 @@
         "position": "TE",
         "jersey": "86",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png",
-        "line": "15 REC, 270 YDS, 1 TD",
-        "value": "270",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "4635008",
-        "name": "Keon Coleman",
-        "position": "WR",
-        "jersey": "0",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png",
-        "line": "14 REC, 217 YDS, 1 TD",
-        "value": "217",
+        "line": "16 REC, 277 YDS, 1 TD",
+        "value": "277",
         "statLabel": "YDS"
       },
       {
@@ -1953,8 +1932,18 @@
         "position": "WR",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png",
-        "line": "15 REC, 176 YDS",
-        "value": "176",
+        "line": "18 REC, 256 YDS",
+        "value": "256",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4635008",
+        "name": "Keon Coleman",
+        "position": "WR",
+        "jersey": "0",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png",
+        "line": "15 REC, 224 YDS, 2 TD",
+        "value": "224",
         "statLabel": "YDS"
       },
       {
@@ -1973,8 +1962,8 @@
         "position": "TE",
         "jersey": "88",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png",
-        "line": "6 REC, 30 YDS, 1 TD",
-        "value": "30",
+        "line": "7 REC, 36 YDS, 1 TD",
+        "value": "36",
         "statLabel": "YDS"
       },
       {
@@ -1983,8 +1972,8 @@
         "position": "RB",
         "jersey": "7",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png",
-        "line": "2 CAR, 6 YDS",
-        "value": "6",
+        "line": "4 CAR, 8 YDS",
+        "value": "8",
         "statLabel": "YDS"
       },
       {
@@ -2005,8 +1994,8 @@
         "position": "LB",
         "jersey": "42",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png",
-        "line": "32",
-        "value": "32",
+        "line": "41",
+        "value": "41",
         "statLabel": "TKL"
       },
       {
@@ -2015,8 +2004,8 @@
         "position": "LB",
         "jersey": "8",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png",
-        "line": "29",
-        "value": "29",
+        "line": "36",
+        "value": "36",
         "statLabel": "TKL"
       },
       {
@@ -2025,8 +2014,8 @@
         "position": "S",
         "jersey": "24",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png",
-        "line": "25",
-        "value": "25",
+        "line": "36",
+        "value": "36",
         "statLabel": "TKL"
       },
       {
@@ -2035,18 +2024,18 @@
         "position": "CB",
         "jersey": "21",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png",
-        "line": "21",
-        "value": "21",
+        "line": "28",
+        "value": "28",
         "statLabel": "TKL"
       },
       {
-        "id": "4362506",
-        "name": "Greg Rousseau",
-        "position": "LB",
-        "jersey": "15",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png",
-        "line": "19 \u00b7 6 SACK",
-        "value": "19",
+        "id": "4379778",
+        "name": "Christian Benford",
+        "position": "CB",
+        "jersey": "47",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png",
+        "line": "26",
+        "value": "26",
         "statLabel": "TKL"
       },
       {
@@ -2055,9 +2044,19 @@
         "position": "S",
         "jersey": "22",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png",
-        "line": "18 \u00b7 1 INT",
-        "value": "18",
+        "line": "25 \u00b7 1 INT",
+        "value": "25",
         "statLabel": "TKL"
+      },
+      {
+        "id": "4362506",
+        "name": "Greg Rousseau",
+        "position": "LB",
+        "jersey": "15",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png",
+        "line": "6",
+        "value": "6",
+        "statLabel": "SACK"
       },
       {
         "id": "3116733",
@@ -2068,18 +2067,8 @@
         "line": "1.5",
         "value": "1.5",
         "statLabel": "SACK"
-      },
-      {
-        "id": "4831989",
-        "name": "Deone Walker",
-        "position": "DT",
-        "jersey": "96",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png",
-        "line": "1",
-        "value": "1",
-        "statLabel": "SACK"
       }
     ]
   },
-  "qbRating": 100.1
+  "qbRating": 99.6
 }
