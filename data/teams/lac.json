@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
+  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1827,13 +1827,13 @@
     {
       "name": "Joe Alt",
       "position": "OT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Kayode Awosika",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1851,7 +1851,7 @@
     {
       "name": "Quentin Johnston",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1863,7 +1863,7 @@
     {
       "name": "Brenen Thompson",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1875,19 +1875,19 @@
     {
       "name": "Donte Jackson",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Derwin James Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Rodney Shelley",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

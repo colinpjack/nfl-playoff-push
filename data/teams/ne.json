@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
+  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1827,31 +1827,31 @@
     {
       "name": "Will Campbell",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "TreVeyon Henderson",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Channing Canada",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Carlton Davis III",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Christian Gonzalez",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1863,7 +1863,7 @@
     {
       "name": "Karon Prunty",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

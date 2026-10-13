@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
+  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1839,7 +1839,7 @@
     {
       "name": "Teven Jenkins",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1851,7 +1851,7 @@
     {
       "name": "Carsen Ryan",
       "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1863,19 +1863,19 @@
     {
       "name": "Tylan Wallace",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Mason Graham",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Mike Hall Jr.",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

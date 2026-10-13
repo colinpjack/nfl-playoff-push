@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
+  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1827,7 +1827,7 @@
     {
       "name": "Stefon Diggs",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1839,31 +1839,31 @@
     {
       "name": "Marcus Mariota",
       "position": "QB",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Percy Butler",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Nick Cross",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Charles Omenihu",
       "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Tyler Owens",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

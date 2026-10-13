@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
+  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1827,7 +1827,7 @@
     {
       "name": "Saquon Barkley",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1839,7 +1839,7 @@
     {
       "name": "Hollywood Brown",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1851,7 +1851,7 @@
     {
       "name": "Drew Kendall",
       "position": "C",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1863,7 +1863,7 @@
     {
       "name": "DeVonta Smith",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1881,19 +1881,19 @@
     {
       "name": "Marcus Epps",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jonathan Greenard",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jalyx Hunt",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

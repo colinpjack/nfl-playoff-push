@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:03:00.913140-04:00",
+  "generatedAt": "2026-10-13T14:12:54.740579-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1833,7 +1833,7 @@
     {
       "name": "Kyle Juszczyk",
       "position": "FB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1845,7 +1845,7 @@
     {
       "name": "Nick Bosa",
       "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1857,13 +1857,13 @@
     {
       "name": "Marques Sigle",
       "position": "S",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "James Thompson Jr.",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
