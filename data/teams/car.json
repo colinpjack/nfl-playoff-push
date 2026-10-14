@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T13:58:33.051848-04:00",
+  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1812,8 +1812,8 @@
   },
   "injuries": [
     {
-      "name": "Jalen Coker",
-      "position": "WR",
+      "name": "AJ Dillon",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1826,6 +1826,18 @@
     {
       "name": "Damien Lewis",
       "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tommy Tremble",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Darren Waller",
+      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },

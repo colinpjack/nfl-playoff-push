@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T13:58:33.051848-04:00",
+  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1831,8 +1831,20 @@
       "detail": ""
     },
     {
+      "name": "Sean Tucker",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "SirVocea Dennis",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ayden Garnes",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
