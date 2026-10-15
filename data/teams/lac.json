@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1867,7 +1867,31 @@
       "detail": ""
     },
     {
+      "name": "Marquez Valdes-Scantling",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jamaree Caldwell",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Bud Dupree",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Justin Eboigbe",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Daiyan Henley",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
@@ -1885,8 +1909,26 @@
       "detail": ""
     },
     {
+      "name": "Elijah Molden",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Rodney Shelley",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dalvin Tomlinson",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kendall Williamson",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

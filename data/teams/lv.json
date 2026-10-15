@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1825,6 +1825,12 @@
   },
   "injuries": [
     {
+      "name": "Brock Bowers",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jalen Nailor",
       "position": "WR",
       "status": "Questionable",
@@ -1837,14 +1843,14 @@
       "detail": ""
     },
     {
-      "name": "Tonka Hemingway",
+      "name": "Folorunso Fatukasi",
       "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Patrick Johnson",
-      "position": "DE",
+      "name": "Tonka Hemingway",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

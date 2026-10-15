@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1825,21 +1825,9 @@
   },
   "injuries": [
     {
-      "name": "Drew Lock",
-      "position": "QB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jadarian Price",
       "position": "RB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Jaxon Smith-Njigba",
-      "position": "WR",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1851,19 +1839,13 @@
     {
       "name": "Chazz Surratt",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Drake Thomas",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Leonard Williams",
-      "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

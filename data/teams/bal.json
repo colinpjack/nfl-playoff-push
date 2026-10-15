@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1825,14 +1825,32 @@
   },
   "injuries": [
     {
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jovaughn Gwyn",
       "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
+      "name": "Matt Hibner",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Lamar Jackson",
       "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Emery Jones Jr.",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1849,13 +1867,43 @@
       "detail": ""
     },
     {
+      "name": "Roger Rosengarten",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Simpson",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Nick Vannett",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Andrew Vorhees",
       "position": "G",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Trey Hendrickson",
+      "name": "Teddye Buchanan",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Marlon Humphrey",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Trenton Simpson",
       "position": "LB",
       "status": "Questionable",
       "detail": ""

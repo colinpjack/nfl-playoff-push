@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1825,6 +1825,12 @@
   },
   "injuries": [
     {
+      "name": "Denzel Boston",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "KC Concepcion",
       "position": "WR",
       "status": "Questionable",
@@ -1833,6 +1839,12 @@
     {
       "name": "Tytus Howard",
       "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Elgton Jenkins",
+      "position": "C",
       "status": "Questionable",
       "detail": ""
     },
@@ -1861,9 +1873,27 @@
       "detail": ""
     },
     {
-      "name": "Mason Graham",
+      "name": "Derek Barnett",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Maliek Collins",
       "position": "DT",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Grant Delpit",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Mason Graham",
+      "position": "DT",
+      "status": "Doubtful",
       "detail": ""
     },
     {

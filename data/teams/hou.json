@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1825,9 +1825,27 @@
   },
   "injuries": [
     {
+      "name": "Trent Brown",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "David Montgomery",
       "position": "RB",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Azeez Al-Shaair",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jadeveon Clowney",
+      "position": "DE",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1912,12 +1930,6 @@
       "name": "K.C. Ossai",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Braden Smith",
-      "position": "OT",
-      "status": "IR",
       "detail": ""
     },
     {

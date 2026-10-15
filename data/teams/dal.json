@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:36:32.909129-04:00",
+  "generatedAt": "2026-10-14T20:06:23.002166-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1825,20 +1825,8 @@
   },
   "injuries": [
     {
-      "name": "Tyler Guyton",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Drew Shelton",
       "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Alijah Clark",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1856,6 +1844,12 @@
     },
     {
       "name": "Joey Porter Jr.",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ameer Speed",
       "position": "CB",
       "status": "Questionable",
       "detail": ""
