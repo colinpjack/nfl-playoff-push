@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:37:07.238630-04:00",
+  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1825,20 +1825,8 @@
   },
   "injuries": [
     {
-      "name": "Josh Downs",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ashton Dulin",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Matt Goncalves",
-      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1851,12 +1839,6 @@
     {
       "name": "Jaylon Carlies",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaylahn Tuimoloau",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:37:07.238630-04:00",
+  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1819,7 +1819,7 @@
       "detail": ""
     },
     {
-      "name": "Divine Deablo",
+      "name": "Kendal Daniels",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
@@ -1838,6 +1838,12 @@
     },
     {
       "name": "Za'Darius Smith",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cameron Thomas",
       "position": "DE",
       "status": "Questionable",
       "detail": ""
