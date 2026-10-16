@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1825,15 +1825,21 @@
   },
   "injuries": [
     {
-      "name": "Devin Duvernay",
-      "position": "WR",
+      "name": "Jeremiyah Love",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Budda Baker",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jeremiyah Love",
-      "position": "RB",
-      "status": "Out",
+      "name": "Zaven Collins",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1845,6 +1851,12 @@
     {
       "name": "Andrew Wingard",
       "position": "S",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Blake Gillikin",
+      "position": "P",
       "status": "Questionable",
       "detail": ""
     },

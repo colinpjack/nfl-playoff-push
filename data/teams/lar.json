@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1825,21 +1825,9 @@
   },
   "injuries": [
     {
-      "name": "Davis Allen",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Alaric Jackson",
       "position": "OT",
       "status": "Suspension",
-      "detail": ""
-    },
-    {
-      "name": "Colby Parkinson",
-      "position": "TE",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1855,13 +1843,7 @@
       "detail": ""
     },
     {
-      "name": "Nate Landman",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Josh Wallace",
+      "name": "Trent McDuffie",
       "position": "CB",
       "status": "Questionable",
       "detail": ""

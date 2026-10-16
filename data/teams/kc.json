@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1820,18 +1820,12 @@
     {
       "name": "Josh Simmons",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "L'Jarius Sneed",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Peter Woods",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

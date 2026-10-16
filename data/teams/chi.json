@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1827,7 +1827,7 @@
     {
       "name": "Kyle Monangai",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1839,19 +1839,19 @@
     {
       "name": "T.J. Edwards",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Keyshaun Elliott",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Dayo Odeyingbo",
       "position": "DE",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1929,7 +1929,7 @@
     {
       "name": "Anthony Johnson Jr.",
       "position": "S",
-      "status": "Injured Reserve",
+      "status": "Out",
       "detail": ""
     },
     {

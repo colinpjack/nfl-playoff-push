@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1827,18 +1827,30 @@
     {
       "name": "Drew Shelton",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Cobie Durant",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "DeMarvion Overshown",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "LT Overton",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joey Porter Jr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

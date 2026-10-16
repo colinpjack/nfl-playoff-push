@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1818,6 +1818,12 @@
       "detail": ""
     },
     {
+      "name": "Trevor Etienne",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Monroe Freeling",
       "position": "OT",
       "status": "Doubtful",
@@ -1857,12 +1863,6 @@
       "name": "Ikem Ekwonu",
       "position": "OT",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Trevor Etienne",
-      "position": "RB",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {

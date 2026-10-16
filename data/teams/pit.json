@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1824,6 +1824,18 @@
     "elimRival": "BAL"
   },
   "injuries": [
+    {
+      "name": "Rico Dowdle",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DK Metcalf",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
     {
       "name": "Ben Skowronek",
       "position": "WR",

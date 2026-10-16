@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1827,7 +1827,7 @@
     {
       "name": "Saquon Barkley",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1837,21 +1837,9 @@
       "detail": ""
     },
     {
-      "name": "Hollywood Brown",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jalen Hurts",
       "position": "QB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "E.J. Jenkins",
-      "position": "TE",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1867,30 +1855,6 @@
       "detail": ""
     },
     {
-      "name": "Will Shipley",
-      "position": "RB",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "DeVonta Smith",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tyler Steen",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dontayvion Wicks",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Chance Campbell",
       "position": "LB",
       "status": "Questionable",
@@ -1899,25 +1863,19 @@
     {
       "name": "Michael Carter II",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "AJ Epenesa",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jonathan Greenard",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Jalyx Hunt",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1953,6 +1911,12 @@
     {
       "name": "Andre' Sam",
       "position": "S",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Will Shipley",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

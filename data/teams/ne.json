@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1837,18 +1837,6 @@
       "detail": ""
     },
     {
-      "name": "Morgan Moses",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kevin Byard",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Channing Canada",
       "position": "CB",
       "status": "Questionable",
@@ -1857,13 +1845,7 @@
     {
       "name": "Carlton Davis III",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cory Durden",
-      "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1873,27 +1855,9 @@
       "detail": ""
     },
     {
-      "name": "Dre'Mont Jones",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marcus Jones",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Karon Prunty",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Charles Woods",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

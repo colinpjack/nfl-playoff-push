@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
+  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1813,27 +1813,15 @@
   },
   "injuries": [
     {
-      "name": "Ben Bartch",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tom Kennedy",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Devin White",
-      "position": "LB",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
       "name": "Rock Ya-Sin",
       "position": "CB",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ben Bartch",
+      "position": "G",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1858,6 +1846,12 @@
       "name": "Kerby Joseph",
       "position": "S",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tom Kennedy",
+      "position": "WR",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1893,6 +1887,12 @@
     {
       "name": "Payton Turner",
       "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Devin White",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },
