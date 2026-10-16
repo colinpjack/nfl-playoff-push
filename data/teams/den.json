@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:57:41.449885-04:00",
+  "generatedAt": "2026-10-16T05:42:18.229229-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -48,7 +48,7 @@
     "+0.5 GB OF THE CUT LINE",
     "NEXT SUN @ ARI",
     "BYE WEEK 10",
-    "PASSER RATING 80.8"
+    "PASSER RATING 79.4"
   ],
   "narrative": {
     "kicker": "Inside the AFC field",
@@ -124,49 +124,49 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "19.4",
+      "value": "19.0",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "22.2",
+      "value": "20.8",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "274.6",
+      "value": "259.0",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "365.6",
+      "value": "369.8",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "+1",
+      "value": "+4",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "34%",
-      "hint": "22-65 \u00b7 around 40% is average"
+      "value": "32%",
+      "hint": "25-79 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "56%",
+      "value": "61%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "+7",
+      "value": "+10",
       "hint": "Sacks recorded minus sacks allowed"
     },
     {
@@ -193,35 +193,35 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "-2.8",
-      "detail": "19.4 scored, 22.2 allowed.",
+      "value": "-1.8",
+      "detail": "19.0 scored, 20.8 allowed.",
       "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "34%",
-      "detail": "22-65",
+      "value": "32%",
+      "detail": "25-79",
       "direction": "down"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "56%",
+      "value": "61%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "up"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "+7",
+      "value": "+10",
       "detail": "Pass rush minus pass protection.",
       "direction": "up"
     },
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "28:37",
+      "value": "28:46",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "flat"
     }
@@ -450,9 +450,9 @@
       "home": "3-0",
       "road": "1-2",
       "gr": 11,
-      "ypg": 274.6,
-      "yapg": 365.6,
-      "to": 1,
+      "ypg": 259.0,
+      "yapg": 369.8,
+      "to": 4,
       "playoffPct": 47.96,
       "powerRank": 20,
       "gb": "+0.5",
@@ -885,9 +885,9 @@
       "home": "3-0",
       "road": "1-2",
       "gr": 11,
-      "ypg": 274.6,
-      "yapg": 365.6,
-      "to": 1,
+      "ypg": 259.0,
+      "yapg": 369.8,
+      "to": 4,
       "playoffPct": 47.96,
       "powerRank": 20,
       "gb": "1",
@@ -1151,9 +1151,9 @@
       "home": "3-0",
       "road": "1-2",
       "gr": 11,
-      "ypg": 274.6,
-      "yapg": 365.6,
-      "to": 1,
+      "ypg": 259.0,
+      "yapg": 369.8,
+      "to": 4,
       "playoffPct": 47.96,
       "powerRank": 20
     },
@@ -1937,8 +1937,8 @@
         "position": "QB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
-        "line": "97/162, 942 YDS, 6 TD, 3 INT",
-        "value": "80.8",
+        "line": "114/189, 1049 YDS, 6 TD, 3 INT",
+        "value": "79.4",
         "statLabel": "RTG"
       }
     ],
@@ -1949,8 +1949,18 @@
         "position": "RB",
         "jersey": "27",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241985.png",
-        "line": "64 CAR, 229 YDS, 1 TD",
-        "value": "229",
+        "line": "81 CAR, 270 YDS, 2 TD",
+        "value": "270",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "3051876",
+        "name": "Evan Engram",
+        "position": "TE",
+        "jersey": "1",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051876.png",
+        "line": "12 REC, 134 YDS, 1 TD",
+        "value": "134",
         "statLabel": "YDS"
       },
       {
@@ -1964,23 +1974,23 @@
         "statLabel": "YDS"
       },
       {
-        "id": "3051876",
-        "name": "Evan Engram",
-        "position": "TE",
-        "jersey": "1",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051876.png",
-        "line": "10 REC, 121 YDS, 1 TD",
-        "value": "121",
-        "statLabel": "YDS"
-      },
-      {
         "id": "3128429",
         "name": "Courtland Sutton",
         "position": "WR",
         "jersey": "14",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3128429.png",
-        "line": "11 REC, 104 YDS, 1 TD",
-        "value": "104",
+        "line": "13 REC, 123 YDS, 1 TD",
+        "value": "123",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4568490",
+        "name": "RJ Harvey",
+        "position": "RB",
+        "jersey": "12",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568490.png",
+        "line": "21 CAR, 81 YDS, 1 TD",
+        "value": "81",
         "statLabel": "YDS"
       },
       {
@@ -1999,18 +2009,8 @@
         "position": "WR",
         "jersey": "11",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431280.png",
-        "line": "4 REC, 64 YDS",
-        "value": "64",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "4568490",
-        "name": "RJ Harvey",
-        "position": "RB",
-        "jersey": "12",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568490.png",
-        "line": "15 CAR, 56 YDS",
-        "value": "56",
+        "line": "5 REC, 66 YDS",
+        "value": "66",
         "statLabel": "YDS"
       },
       {
@@ -2031,8 +2031,8 @@
         "position": "LB",
         "jersey": "49",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2612151.png",
-        "line": "55",
-        "value": "55",
+        "line": "68",
+        "value": "68",
         "statLabel": "TKL"
       },
       {
@@ -2041,8 +2041,8 @@
         "position": "S",
         "jersey": "22",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039059.png",
-        "line": "35 \u00b7 2 INT",
-        "value": "35",
+        "line": "43 \u00b7 2 INT",
+        "value": "43",
         "statLabel": "TKL"
       },
       {
@@ -2051,8 +2051,18 @@
         "position": "LB",
         "jersey": "40",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3919548.png",
-        "line": "27",
-        "value": "27",
+        "line": "31",
+        "value": "31",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4692048",
+        "name": "Que Robinson",
+        "position": "LB",
+        "jersey": "51",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692048.png",
+        "line": "26 \u00b7 2 SACK",
+        "value": "26",
         "statLabel": "TKL"
       },
       {
@@ -2066,34 +2076,14 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4372012",
-        "name": "Pat Surtain II",
-        "position": "CB",
-        "jersey": "2",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372012.png",
-        "line": "21",
-        "value": "21",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4692048",
-        "name": "Que Robinson",
-        "position": "LB",
-        "jersey": "51",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692048.png",
-        "line": "21",
-        "value": "21",
-        "statLabel": "TKL"
-      },
-      {
         "id": "3915282",
         "name": "Zach Allen",
         "position": "DE",
         "jersey": "99",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915282.png",
-        "line": "4",
-        "value": "4",
-        "statLabel": "SACK"
+        "line": "21 \u00b7 4.5 SACK",
+        "value": "21",
+        "statLabel": "TKL"
       },
       {
         "id": "4360259",
@@ -2101,11 +2091,21 @@
         "position": "LB",
         "jersey": "15",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360259.png",
-        "line": "3",
-        "value": "3",
+        "line": "3.5",
+        "value": "3.5",
+        "statLabel": "SACK"
+      },
+      {
+        "id": "4567462",
+        "name": "Ja'Quan McMillian",
+        "position": "CB",
+        "jersey": "29",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567462.png",
+        "line": "2",
+        "value": "2",
         "statLabel": "SACK"
       }
     ]
   },
-  "qbRating": 80.8
+  "qbRating": 79.4
 }
