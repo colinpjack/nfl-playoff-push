@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1586,7 +1586,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Seahawks loss helps the West race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1843,9 +1843,21 @@
       "detail": ""
     },
     {
+      "name": "Colton McKivitz",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Carver Willis",
+      "position": "OT",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1861,9 +1873,27 @@
       "detail": ""
     },
     {
+      "name": "Gracen Halton",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Siran Neal",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Marques Sigle",
       "position": "S",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Upton Stout",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1876,6 +1906,12 @@
       "name": "Garret Wallow",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Mykel Williams",
+      "position": "DE",
+      "status": "Questionable",
       "detail": ""
     },
     {

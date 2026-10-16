@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "week": 6,
   "weekLabel": "Week 6 \u00b7 2026",
@@ -3172,8 +3172,8 @@
       "id": "401872995",
       "date": "2026-10-16T00:15Z",
       "week": 6,
-      "status": "Thu, Oct 15 \u00b7 8:15 PM",
-      "live": false,
+      "status": "12:03 - 1st",
+      "live": true,
       "completed": false,
       "venue": "Empower Field at Mile High",
       "broadcast": "Prime Video",

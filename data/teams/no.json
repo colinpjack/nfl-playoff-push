@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1586,7 +1586,7 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1867,14 +1867,8 @@
       "detail": ""
     },
     {
-      "name": "Tyree Wilson",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Colby Wooden",
-      "position": "DT",
+      "name": "Lorenzo Styles Jr.",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

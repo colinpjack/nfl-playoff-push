@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "Empower Field at Mile High",
       "broadcast": "Prime Video",
-      "detail": "10/15 - 8:15 PM EDT",
-      "live": false,
+      "detail": "12:03 - 1st",
+      "live": true,
       "final": false,
       "winPct": 58,
       "homeAbbr": "DEN",
@@ -1586,7 +1586,7 @@
       "interest": "Seahawks game",
       "tagClass": "jays",
       "note": "The Seahawks are on the road against the Broncos.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1825,6 +1825,24 @@
   },
   "injuries": [
     {
+      "name": "Montorie Foster Jr.",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Robert Henry Jr.",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jalen Milroe",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Jadarian Price",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1832,6 +1850,18 @@
     },
     {
       "name": "Terrion Arnold",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Brandon Pili",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Avery Smith",
       "position": "CB",
       "status": "Out",
       "detail": ""

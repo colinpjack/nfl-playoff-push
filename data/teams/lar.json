@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1586,7 +1586,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Seahawks loss helps the West race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1839,6 +1839,12 @@
     {
       "name": "Colby Parkinson",
       "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kam Curl",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

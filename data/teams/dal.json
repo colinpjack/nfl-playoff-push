@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1586,7 +1586,7 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1839,12 +1839,6 @@
     {
       "name": "DeMarvion Overshown",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Joey Porter Jr.",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1586,7 +1586,7 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1825,8 +1825,26 @@
   },
   "injuries": [
     {
+      "name": "Treylon Burks",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Stefon Diggs",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Austin Ekeler",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1843,8 +1861,32 @@
       "detail": ""
     },
     {
+      "name": "Terry McLaurin",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Percy Butler",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Javontae Jean-Baptiste",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Quan Martin",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Fabian Moreau",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1856,6 +1898,12 @@
     },
     {
       "name": "Tyler Owens",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jeremy Reaves",
       "position": "S",
       "status": "Questionable",
       "detail": ""

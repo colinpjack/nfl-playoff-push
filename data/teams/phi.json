@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:46:44.467175-04:00",
+  "generatedAt": "2026-10-15T20:20:24.256051-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1586,7 +1586,7 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1905,12 +1905,6 @@
     {
       "name": "AJ Epenesa",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marcus Epps",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
