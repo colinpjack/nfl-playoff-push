@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:42:18.229229-04:00",
+  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1814,30 +1814,18 @@
     {
       "name": "AJ Dillon",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Monroe Freeling",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Damien Lewis",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tommy Tremble",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Darren Waller",
-      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:42:18.229229-04:00",
+  "generatedAt": "2026-10-16T14:46:17.772752-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1827,19 +1827,19 @@
     {
       "name": "Breece Hall",
       "position": "RB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Adonai Mitchell",
       "position": "WR",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Dylan Parham",
       "position": "G",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1857,7 +1857,7 @@
     {
       "name": "Joseph Ossai",
       "position": "DE",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
