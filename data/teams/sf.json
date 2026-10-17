@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
+  "generatedAt": "2026-10-16T20:23:53.547040-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1837,12 +1837,6 @@
       "detail": ""
     },
     {
-      "name": "Kyle Juszczyk",
-      "position": "FB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Christian Kirk",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1861,12 +1855,6 @@
       "detail": ""
     },
     {
-      "name": "Carver Willis",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Nick Bosa",
       "position": "DE",
       "status": "Questionable",
@@ -1881,6 +1869,12 @@
     {
       "name": "Gracen Halton",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Romello Height",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

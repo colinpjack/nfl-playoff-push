@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:02:43.880952-04:00",
+  "generatedAt": "2026-10-16T20:23:53.547040-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1867,6 +1867,18 @@
       "detail": ""
     },
     {
+      "name": "Lucas Patrick",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Rachaad White",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Percy Butler",
       "position": "S",
       "status": "Questionable",
@@ -1879,15 +1891,15 @@
       "detail": ""
     },
     {
-      "name": "Jordan Magee",
-      "position": "LB",
-      "status": "Injured Reserve",
+      "name": "Javon Kinlaw",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Quan Martin",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Jordan Magee",
+      "position": "LB",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
