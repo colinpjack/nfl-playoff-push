@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
+  "generatedAt": "2026-10-17T17:43:08.235232-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1825,6 +1825,12 @@
   },
   "injuries": [
     {
+      "name": "A.J. Brown",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Will Campbell",
       "position": "OT",
       "status": "Questionable",
@@ -1869,12 +1875,6 @@
     {
       "name": "Bryce Baringer",
       "position": "P",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "A.J. Brown",
-      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },

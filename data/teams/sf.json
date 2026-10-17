@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
+  "generatedAt": "2026-10-17T17:43:08.235232-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1843,12 +1843,6 @@
       "detail": ""
     },
     {
-      "name": "Colton McKivitz",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
       "status": "Out",
@@ -1857,7 +1851,7 @@
     {
       "name": "Nick Bosa",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1887,18 +1881,12 @@
     {
       "name": "Marques Sigle",
       "position": "S",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Upton Stout",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "James Thompson Jr.",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

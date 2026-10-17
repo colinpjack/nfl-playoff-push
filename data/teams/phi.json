@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
+  "generatedAt": "2026-10-17T17:43:08.235232-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1839,7 +1839,7 @@
     {
       "name": "Jalen Hurts",
       "position": "QB",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

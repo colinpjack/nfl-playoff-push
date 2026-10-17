@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
+  "generatedAt": "2026-10-17T17:43:08.235232-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1843,9 +1843,9 @@
       "detail": ""
     },
     {
-      "name": "Skyy Moore",
+      "name": "Savion Williams",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1858,18 +1858,6 @@
       "name": "Brandon Cisse",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jonathan Ford",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Javon Hargrave",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1909,6 +1897,24 @@
       "detail": ""
     },
     {
+      "name": "Jonathan Ford",
+      "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Javon Hargrave",
+      "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Skyy Moore",
+      "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Luke Musgrave",
       "position": "TE",
       "status": "Out",
@@ -1936,12 +1942,6 @@
       "name": "Jordon Riley",
       "position": "DT",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Savion Williams",
-      "position": "WR",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {

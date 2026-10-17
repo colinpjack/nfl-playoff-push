@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
+  "generatedAt": "2026-10-17T17:43:08.235232-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1843,6 +1843,12 @@
       "detail": ""
     },
     {
+      "name": "Kitan Crawford",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Wydett Williams Jr.",
       "position": "S",
       "status": "Out",
@@ -1893,12 +1899,6 @@
     {
       "name": "James Conner",
       "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Kitan Crawford",
-      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },
