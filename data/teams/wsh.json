@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:38:13.076332-04:00",
+  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1825,26 +1825,14 @@
   },
   "injuries": [
     {
-      "name": "Treylon Burks",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Stefon Diggs",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Austin Ekeler",
-      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1857,24 +1845,12 @@
     {
       "name": "Marcus Mariota",
       "position": "QB",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Terry McLaurin",
-      "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Lucas Patrick",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Rachaad White",
-      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1885,9 +1861,15 @@
       "detail": ""
     },
     {
+      "name": "Nick Cross",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Javontae Jean-Baptiste",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1903,25 +1885,13 @@
       "detail": ""
     },
     {
-      "name": "Fabian Moreau",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Charles Omenihu",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Tyler Owens",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jeremy Reaves",
       "position": "S",
       "status": "Questionable",
       "detail": ""

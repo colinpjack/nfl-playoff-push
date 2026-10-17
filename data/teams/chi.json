@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:38:13.076332-04:00",
+  "generatedAt": "2026-10-17T15:18:20.066586-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1851,7 +1851,7 @@
     {
       "name": "Dayo Odeyingbo",
       "position": "DE",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1893,7 +1893,7 @@
     {
       "name": "Kyler Gordon",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
