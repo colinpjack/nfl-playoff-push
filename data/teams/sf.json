@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:43:08.235232-04:00",
+  "generatedAt": "2026-10-17T19:59:23.056097-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1863,12 +1863,6 @@
     {
       "name": "Gracen Halton",
       "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Romello Height",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
