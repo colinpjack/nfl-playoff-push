@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -2030,8 +2030,8 @@
         "position": "LB",
         "jersey": "41",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361652.png",
-        "line": "46",
-        "value": "46",
+        "line": "44",
+        "value": "44",
         "statLabel": "TKL"
       },
       {
@@ -2065,16 +2065,6 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4820584",
-        "name": "Robert Spears-Jennings",
-        "position": "S",
-        "jersey": "28",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4820584.png",
-        "line": "20 \u00b7 1 INT",
-        "value": "20",
-        "statLabel": "TKL"
-      },
-      {
         "id": "13977",
         "name": "Cameron Heyward",
         "position": "DT",
@@ -2082,6 +2072,16 @@
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/13977.png",
         "line": "17 \u00b7 1 SACK",
         "value": "17",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "2969961",
+        "name": "Rayshawn Jenkins",
+        "position": "S",
+        "jersey": "20",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2969961.png",
+        "line": "16",
+        "value": "16",
         "statLabel": "TKL"
       },
       {

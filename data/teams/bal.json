@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -2039,22 +2039,22 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4685530",
-        "name": "Malaki Starks",
-        "position": "S",
-        "jersey": "24",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685530.png",
-        "line": "35",
-        "value": "35",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4430831",
         "name": "Trenton Simpson",
         "position": "LB",
         "jersey": "32",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430831.png",
         "line": "33 \u00b7 1 INT",
+        "value": "33",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4685530",
+        "name": "Malaki Starks",
+        "position": "S",
+        "jersey": "24",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685530.png",
+        "line": "33",
         "value": "33",
         "statLabel": "TKL"
       },

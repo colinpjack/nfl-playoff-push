@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -2034,8 +2034,8 @@
         "position": "S",
         "jersey": "13",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870706.png",
-        "line": "33 \u00b7 1 SACK",
-        "value": "33",
+        "line": "31 \u00b7 1 SACK",
+        "value": "31",
         "statLabel": "TKL"
       },
       {
@@ -2074,8 +2074,8 @@
         "position": "S",
         "jersey": "14",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241921.png",
-        "line": "19",
-        "value": "19",
+        "line": "18",
+        "value": "18",
         "statLabel": "TKL"
       },
       {

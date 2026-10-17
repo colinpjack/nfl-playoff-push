@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -2079,16 +2079,6 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4688432",
-        "name": "Elijah Ponder",
-        "position": "LB",
-        "jersey": "91",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688432.png",
-        "line": "21 \u00b7 4.5 SACK",
-        "value": "21",
-        "statLabel": "TKL"
-      },
-      {
         "id": "2574056",
         "name": "Kevin Byard",
         "position": "S",
@@ -2105,6 +2095,16 @@
         "jersey": "25",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241720.png",
         "line": "19 \u00b7 1 INT",
+        "value": "19",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4688432",
+        "name": "Elijah Ponder",
+        "position": "LB",
+        "jersey": "91",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688432.png",
+        "line": "19 \u00b7 4.5 SACK",
         "value": "19",
         "statLabel": "TKL"
       },

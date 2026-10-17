@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -2029,21 +2029,21 @@
         "statLabel": "TKL"
       },
       {
-        "id": "5088571",
-        "name": "Bryce Boettcher",
-        "position": "LB",
-        "jersey": "50",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5088571.png",
-        "line": "22",
-        "value": "22",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4905664",
         "name": "A.J. Haulcy",
         "position": "S",
         "jersey": "25",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4905664.png",
+        "line": "21",
+        "value": "21",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "5088571",
+        "name": "Bryce Boettcher",
+        "position": "LB",
+        "jersey": "50",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5088571.png",
         "line": "21",
         "value": "21",
         "statLabel": "TKL"

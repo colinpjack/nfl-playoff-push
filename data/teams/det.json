@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -2036,8 +2036,8 @@
         "position": "LB",
         "jersey": "55",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4260409.png",
-        "line": "28 \u00b7 3 SACK \u00b7 1 INT",
-        "value": "28",
+        "line": "27 \u00b7 3 SACK \u00b7 1 INT",
+        "value": "27",
         "statLabel": "TKL"
       },
       {
@@ -2046,18 +2046,18 @@
         "position": "S",
         "jersey": "5",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372459.png",
-        "line": "27",
-        "value": "27",
+        "line": "26",
+        "value": "26",
         "statLabel": "TKL"
       },
       {
-        "id": "5144894",
-        "name": "Trevor Nowaske",
-        "position": "LB",
-        "jersey": "53",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5144894.png",
-        "line": "20",
-        "value": "20",
+        "id": "4371973",
+        "name": "Roger McCreary",
+        "position": "CB",
+        "jersey": "21",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4371973.png",
+        "line": "18",
+        "value": "18",
         "statLabel": "TKL"
       },
       {

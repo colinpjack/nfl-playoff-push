@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -2134,8 +2134,8 @@
         "position": "S",
         "jersey": "27",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4693644.png",
-        "line": "35",
-        "value": "35",
+        "line": "34",
+        "value": "34",
         "statLabel": "TKL"
       },
       {
@@ -2144,8 +2144,8 @@
         "position": "S",
         "jersey": "36",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4693337.png",
-        "line": "27",
-        "value": "27",
+        "line": "26",
+        "value": "26",
         "statLabel": "TKL"
       },
       {

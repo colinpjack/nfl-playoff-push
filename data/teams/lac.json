@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -2070,8 +2070,8 @@
         "position": "LB",
         "jersey": "53",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240528.png",
-        "line": "30",
-        "value": "30",
+        "line": "29",
+        "value": "29",
         "statLabel": "TKL"
       },
       {

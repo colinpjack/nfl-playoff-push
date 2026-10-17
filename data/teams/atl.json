@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -2044,8 +2044,8 @@
         "position": "LB",
         "jersey": "53",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4595343.png",
-        "line": "23 \u00b7 1 SACK",
-        "value": "23",
+        "line": "22 \u00b7 1 SACK",
+        "value": "22",
         "statLabel": "TKL"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -2050,22 +2050,22 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4692048",
-        "name": "Que Robinson",
-        "position": "LB",
-        "jersey": "51",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692048.png",
-        "line": "26 \u00b7 2 SACK",
-        "value": "26",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4360853",
         "name": "Talanoa Hufanga",
         "position": "S",
         "jersey": "9",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360853.png",
         "line": "23 \u00b7 2 INT",
+        "value": "23",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4692048",
+        "name": "Que Robinson",
+        "position": "LB",
+        "jersey": "51",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692048.png",
+        "line": "23 \u00b7 2 SACK",
         "value": "23",
         "statLabel": "TKL"
       },

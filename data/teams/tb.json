@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:56:55.677662-04:00",
+  "generatedAt": "2026-10-17T05:15:35.542906-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1994,8 +1994,8 @@
         "position": "LB",
         "jersey": "45",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870998.png",
-        "line": "41 \u00b7 1 INT",
-        "value": "41",
+        "line": "40 \u00b7 1 INT",
+        "value": "40",
         "statLabel": "TKL"
       },
       {
@@ -2006,16 +2006,6 @@
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043107.png",
         "line": "27 \u00b7 1 SACK \u00b7 1 INT",
         "value": "27",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "5093694",
-        "name": "Keionte Scott",
-        "position": "CB",
-        "jersey": "22",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5093694.png",
-        "line": "25",
-        "value": "25",
         "statLabel": "TKL"
       },
       {
@@ -2034,6 +2024,16 @@
         "position": "S",
         "jersey": "23",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428522.png",
+        "line": "24",
+        "value": "24",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "5093694",
+        "name": "Keionte Scott",
+        "position": "CB",
+        "jersey": "22",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5093694.png",
         "line": "24",
         "value": "24",
         "statLabel": "TKL"
