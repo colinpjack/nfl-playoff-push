@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:02:46.403690-04:00",
+  "generatedAt": "2026-10-18T09:12:51.679326-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1825,8 +1825,32 @@
   },
   "injuries": [
     {
+      "name": "CJ Williams",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Montaric Brown",
       "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jalen Huskey",
+      "position": "S",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Albert Regis",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Wesley Williams",
+      "position": "DE",
       "status": "Out",
       "detail": ""
     },

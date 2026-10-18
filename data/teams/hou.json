@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:02:46.403690-04:00",
+  "generatedAt": "2026-10-18T09:12:51.679326-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1825,15 +1825,39 @@
   },
   "injuries": [
     {
+      "name": "Marlin Klein",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "David Montgomery",
       "position": "RB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Ja'Marcus Ingram",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Febechi Nwaiwu",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Braden Smith",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Nate Thomas",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Sabastian Harsh",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1846,12 +1870,6 @@
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Henry To'oTo'o",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {
