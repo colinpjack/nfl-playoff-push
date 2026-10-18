@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:59:23.056097-04:00",
+  "generatedAt": "2026-10-18T00:21:49.946016-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1849,9 +1849,9 @@
       "detail": ""
     },
     {
-      "name": "Dayo Odeyingbo",
-      "position": "DE",
-      "status": "Injured Reserve",
+      "name": "Kyler Gordon",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1891,12 +1891,6 @@
       "detail": ""
     },
     {
-      "name": "Kyler Gordon",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ruben Hyppolite II",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1921,6 +1915,12 @@
       "detail": ""
     },
     {
+      "name": "Dayo Odeyingbo",
+      "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Nephi Sewell",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1929,7 +1929,7 @@
     {
       "name": "Anthony Johnson Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

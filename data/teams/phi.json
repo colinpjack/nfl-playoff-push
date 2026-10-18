@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:59:23.056097-04:00",
+  "generatedAt": "2026-10-18T00:21:49.946016-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1837,12 +1837,6 @@
       "detail": ""
     },
     {
-      "name": "Jalen Hurts",
-      "position": "QB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Lane Johnson",
       "position": "OT",
       "status": "Out",
@@ -1899,6 +1893,12 @@
     {
       "name": "Landon Dickerson",
       "position": "G",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jalen Hurts",
+      "position": "QB",
       "status": "Injured Reserve",
       "detail": ""
     },

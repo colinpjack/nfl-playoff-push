@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:59:23.056097-04:00",
+  "generatedAt": "2026-10-18T00:21:49.946016-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1831,6 +1831,12 @@
       "detail": ""
     },
     {
+      "name": "Ja'Marcus Ingram",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jalen Pitre",
       "position": "S",
       "status": "Out",
@@ -1840,6 +1846,12 @@
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Henry To'oTo'o",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1897,12 +1909,6 @@
       "detail": ""
     },
     {
-      "name": "Ja'Marcus Ingram",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Graham Mertz",
       "position": "QB",
       "status": "Injured Reserve",
@@ -1918,12 +1924,6 @@
       "name": "E.J. Speed",
       "position": "LB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Henry To'oTo'o",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {

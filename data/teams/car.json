@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:59:23.056097-04:00",
+  "generatedAt": "2026-10-18T00:21:49.946016-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1836,8 +1836,20 @@
       "detail": ""
     },
     {
+      "name": "Taylor Moton",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jaelan Phillips",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tershawn Wharton",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1896,21 +1908,9 @@
       "detail": ""
     },
     {
-      "name": "Taylor Moton",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Nic Scourton",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Tershawn Wharton",
-      "position": "DT",
-      "status": "Questionable",
       "detail": ""
     }
   ],
