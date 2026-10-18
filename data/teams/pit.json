@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "Raymond James Stadium",
       "broadcast": "CBS",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "15:00 - 4th",
+      "live": true,
       "final": false,
       "winPct": 51,
       "homeAbbr": "TB",
@@ -1586,7 +1586,7 @@
       "interest": "Steelers game",
       "tagClass": "jays",
       "note": "The Steelers are on the road against the Buccaneers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Ravens loss helps the North race. A Browns loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 5 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:25Z",
@@ -1846,6 +1846,12 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Brandin Echols",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {

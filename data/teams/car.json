@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Lincoln Financial Field",
       "broadcast": "CBS",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "7:48 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 56,
       "homeAbbr": "PHI",
@@ -1602,7 +1602,7 @@
       "interest": "Panthers game",
       "tagClass": "jays",
       "note": "The Panthers are on the road against the Eagles.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1613,7 +1613,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bears hold the No. 7 seed. A loss helps the cut line. A Falcons loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1624,7 +1624,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Saints loss helps the South race. The Giants hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1635,7 +1635,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Buccaneers loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:05Z",
@@ -1851,6 +1851,12 @@
       "name": "TeRah Edwards",
       "position": "DT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Thomas Incoom",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

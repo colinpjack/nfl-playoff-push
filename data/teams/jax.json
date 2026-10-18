@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1546,7 +1546,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Titans loss helps the South race. A Colts loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1557,7 +1557,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Ravens hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1568,7 +1568,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 5 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1579,7 +1579,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:25Z",

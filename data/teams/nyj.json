@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Gillette Stadium",
       "broadcast": "CBS",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "14:10 - 4th",
+      "live": true,
       "final": false,
       "winPct": 42,
       "homeAbbr": "NE",
@@ -1586,7 +1586,7 @@
       "interest": "Jets game",
       "tagClass": "jays",
       "note": "The Jets are on the road against the Patriots.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Ravens hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:25Z",
@@ -1846,6 +1846,12 @@
       "name": "Jack Heflin",
       "position": "DT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kiko Mauigoa",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

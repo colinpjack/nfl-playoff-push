@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Huntington Bank Field",
       "broadcast": "Fox",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "9:17 - 4th",
+      "live": true,
       "final": false,
       "winPct": 59,
       "homeAbbr": "CLE",
@@ -1586,7 +1586,7 @@
       "interest": "Ravens game",
       "tagClass": "jays",
       "note": "The Ravens are on the road against the Browns.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Steelers loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 5 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:25Z",
@@ -1824,6 +1824,12 @@
     "elimRival": "CLE"
   },
   "injuries": [
+    {
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
     {
       "name": "Jovaughn Gwyn",
       "position": "G",

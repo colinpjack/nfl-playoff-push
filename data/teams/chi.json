@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Mercedes-Benz Stadium",
       "broadcast": "Fox",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "1:59 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 54,
       "homeAbbr": "ATL",
@@ -1586,7 +1586,7 @@
       "interest": "Bears game",
       "tagClass": "jays",
       "note": "The Bears are on the road against the Falcons.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Panthers hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Giants hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:05Z",
@@ -1825,6 +1825,12 @@
   },
   "injuries": [
     {
+      "name": "Jonah Jackson",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Case Keenum",
       "position": "QB",
       "status": "Out",
@@ -1935,7 +1941,7 @@
     {
       "name": "Anthony Johnson Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

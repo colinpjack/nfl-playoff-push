@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Lincoln Financial Field",
       "broadcast": "CBS",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "7:14 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 44,
       "homeAbbr": "PHI",
@@ -1586,7 +1586,7 @@
       "interest": "Eagles game",
       "tagClass": "jays",
       "note": "The Eagles are at home against the Panthers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Giants loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bears hold the No. 7 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:05Z",
@@ -1849,9 +1849,15 @@
       "detail": ""
     },
     {
-      "name": "Joe Milton III",
+      "name": "Joe Milton",
       "position": "QB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Carson Steele",
+      "position": "RB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1876,6 +1882,12 @@
       "name": "Jalyx Hunt",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Nolan Smith Jr.",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

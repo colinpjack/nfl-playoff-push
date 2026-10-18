@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1574,7 +1574,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Jets loss helps the East race. A Patriots loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1585,7 +1585,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Ravens hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1596,7 +1596,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:25Z",
@@ -1813,21 +1813,21 @@
   },
   "injuries": [
     {
+      "name": "Jude Bowry",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "DJ Moore",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Joshua Palmer",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dee Alford",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Ar'maj Reed-Adams",
+      "position": "G",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1837,15 +1837,15 @@
       "detail": ""
     },
     {
-      "name": "Ed Oliver",
-      "position": "DT",
-      "status": "Questionable",
+      "name": "Mike Danna",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "T.J. Sanders",
+      "name": "Ed Oliver",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

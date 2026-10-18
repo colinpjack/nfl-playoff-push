@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1586,7 +1586,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bears hold the No. 7 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Panthers hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Giants hold the No. 3 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:05Z",
@@ -1825,27 +1825,33 @@
   },
   "injuries": [
     {
+      "name": "Carson Beck",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Jeremiyah Love",
       "position": "RB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Budda Baker",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Andrew Billings",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Zaven Collins",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Jerrick Reed II",
+      "position": "S",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Kitan Crawford",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Starling Thomas V",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1858,12 +1864,6 @@
       "name": "Andrew Wingard",
       "position": "S",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Blake Gillikin",
-      "position": "P",
-      "status": "Questionable",
       "detail": ""
     },
     {

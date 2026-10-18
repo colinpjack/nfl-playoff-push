@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:29.660707-04:00",
+  "generatedAt": "2026-10-18T15:23:56.342965-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "MetLife Stadium",
       "broadcast": "Fox",
-      "detail": "10/18 - 1:00 PM EDT",
-      "live": false,
+      "detail": "1:12 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 38,
       "homeAbbr": "NYG",
@@ -1586,7 +1586,7 @@
       "interest": "Saints game",
       "tagClass": "jays",
       "note": "The Saints are on the road against the Giants.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1597,7 +1597,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Panthers loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1608,7 +1608,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bears hold the No. 7 seed. A loss helps the cut line. A Falcons loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T17:00Z",
@@ -1619,7 +1619,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Buccaneers loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-18T20:05Z",
@@ -1825,6 +1825,12 @@
   },
   "injuries": [
     {
+      "name": "Cesar Ruiz",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Zach Wilson",
       "position": "QB",
       "status": "Out",
@@ -1840,6 +1846,12 @@
       "name": "Anfernee Jennings",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kool-Aid McKinstry",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
