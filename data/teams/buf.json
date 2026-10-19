@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1814,12 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "Jude Bowry",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Dalton Kincaid",
       "position": "TE",
       "status": "Questionable",
@@ -1832,21 +1826,9 @@
       "detail": ""
     },
     {
-      "name": "Ar'maj Reed-Adams",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Te'Cory Couch",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mike Danna",
-      "position": "DE",
-      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1838,18 +1838,6 @@
       "detail": ""
     },
     {
-      "name": "Riley Leonard",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dalton Tucker",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Tyler Warren",
       "position": "TE",
       "status": "Out",
@@ -1864,7 +1852,7 @@
     {
       "name": "Sauce Gardner",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1826,33 +1826,15 @@
   },
   "injuries": [
     {
-      "name": "Tanner Arkin",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Ben Brown",
       "position": "C",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Dametrious Crownover",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Romeo Doubs",
       "position": "WR",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Behren Morton",
-      "position": "QB",
-      "status": "Out",
       "detail": ""
     },
     {

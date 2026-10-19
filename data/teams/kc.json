@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1808,18 +1808,6 @@
       "detail": ""
     },
     {
-      "name": "Garrett Nussmeier",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Diego Pounds",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Rashee Rice",
       "position": "WR",
       "status": "Out",
@@ -1828,24 +1816,6 @@
     {
       "name": "Josh Simmons",
       "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jared Wiley",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jadon Canady",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Pyburn",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },

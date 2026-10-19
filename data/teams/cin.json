@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1802,12 +1802,6 @@
   },
   "injuries": [
     {
-      "name": "Tanner Hudson",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Colbie Young",
       "position": "WR",
       "status": "Questionable",
@@ -1828,6 +1822,12 @@
     {
       "name": "Jalen Davis",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Tanner Hudson",
+      "position": "TE",
       "status": "Injured Reserve",
       "detail": ""
     },

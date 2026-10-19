@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1844,12 +1844,6 @@
       "detail": ""
     },
     {
-      "name": "Jack Heflin",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kiko Mauigoa",
       "position": "LB",
       "status": "Questionable",
@@ -1858,12 +1852,6 @@
     {
       "name": "Joseph Ossai",
       "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nahshon Wright",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

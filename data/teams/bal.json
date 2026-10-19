@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:13:17.079687-04:00",
+  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1851,20 +1851,8 @@
       "detail": ""
     },
     {
-      "name": "Elijah Sarratt",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Andrew Vorhees",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "K'Von Wallace",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },
