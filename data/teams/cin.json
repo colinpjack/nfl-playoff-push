@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:10:38.485343-04:00",
+  "generatedAt": "2026-10-19T01:16:00.876294-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -41,7 +41,7 @@
   "ticker": [
     "CIN 3-2",
     "AFC NO. 9",
-    "POWER NO. 14",
+    "POWER NO. 15",
     "W1",
     "POINT DIFF +19",
     "0.5 GB OF CLE IN THE NORTH",
@@ -66,7 +66,7 @@
     },
     {
       "label": "Power rank",
-      "value": "No. 14"
+      "value": "No. 15"
     },
     {
       "label": "Streak",
@@ -102,11 +102,11 @@
     }
   },
   "playoffOdds": {
-    "percent": 54.88,
+    "percent": 56.16,
     "sims": 5000,
-    "note": "Division title in 24.5% of sims, wild card in 30.4%. Point differential, shrunk toward average, plus home field. Not a betting line.",
-    "divisionPercent": 24.48,
-    "wildcardPercent": 30.4
+    "note": "Division title in 25.1% of sims, wild card in 31.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "divisionPercent": 25.14,
+    "wildcardPercent": 31.02
   },
   "kpis": [
     {
@@ -273,7 +273,7 @@
       "ypg": 421.5,
       "yapg": 321.8,
       "to": 5,
-      "playoffPct": 98.24,
+      "playoffPct": 98.92,
       "powerRank": 1,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -309,8 +309,8 @@
       "ypg": 407.8,
       "yapg": 404.0,
       "to": -4,
-      "playoffPct": 82.92,
-      "powerRank": 11,
+      "playoffPct": 82.22,
+      "powerRank": 12,
       "gb": "+1",
       "gbValue": -1.0,
       "path": "East champ",
@@ -345,8 +345,8 @@
       "ypg": 349.0,
       "yapg": 341.0,
       "to": 5,
-      "playoffPct": 88.72,
-      "powerRank": 6,
+      "playoffPct": 90.5,
+      "powerRank": 7,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "South champ",
@@ -381,8 +381,8 @@
       "ypg": 296.2,
       "yapg": 357.2,
       "to": -1,
-      "playoffPct": 44.32,
-      "powerRank": 21,
+      "playoffPct": 44.68,
+      "powerRank": 20,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "North champ",
@@ -417,7 +417,7 @@
       "ypg": 382.0,
       "yapg": 313.4,
       "to": -5,
-      "playoffPct": 79.72,
+      "playoffPct": 78.44,
       "powerRank": 2,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -453,7 +453,7 @@
       "ypg": 259.0,
       "yapg": 369.8,
       "to": 4,
-      "playoffPct": 48.18,
+      "playoffPct": 47.5,
       "powerRank": 19,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -489,8 +489,8 @@
       "ypg": 348.0,
       "yapg": 337.0,
       "to": 2,
-      "playoffPct": 56.02,
-      "powerRank": 9,
+      "playoffPct": 56.14,
+      "powerRank": 10,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Wild card",
@@ -525,8 +525,8 @@
       "ypg": 410.6,
       "yapg": 340.0,
       "to": 3,
-      "playoffPct": 62.04,
-      "powerRank": 10,
+      "playoffPct": 62.14,
+      "powerRank": 11,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -561,8 +561,8 @@
       "ypg": 355.0,
       "yapg": 368.0,
       "to": 2,
-      "playoffPct": 54.88,
-      "powerRank": 14,
+      "playoffPct": 56.16,
+      "powerRank": 15,
       "gb": "0.5",
       "gbValue": 0.5,
       "path": "Outside",
@@ -597,7 +597,7 @@
       "ypg": 345.4,
       "yapg": 393.8,
       "to": 3,
-      "playoffPct": 33.4,
+      "playoffPct": 33.22,
       "powerRank": 28,
       "gb": "1",
       "gbValue": 1.0,
@@ -633,7 +633,7 @@
       "ypg": 310.8,
       "yapg": 313.4,
       "to": 3,
-      "playoffPct": 14.96,
+      "playoffPct": 15.22,
       "powerRank": 24,
       "gb": "2",
       "gbValue": 2.0,
@@ -669,8 +669,8 @@
       "ypg": 305.0,
       "yapg": 398.2,
       "to": -6,
-      "playoffPct": 9.6,
-      "powerRank": 22,
+      "playoffPct": 8.98,
+      "powerRank": 21,
       "gb": "2",
       "gbValue": 2.0,
       "path": "Outside",
@@ -705,8 +705,8 @@
       "ypg": 359.4,
       "yapg": 334.6,
       "to": 3,
-      "playoffPct": 26.0,
-      "powerRank": 8,
+      "playoffPct": 24.7,
+      "powerRank": 9,
       "gb": "2",
       "gbValue": 2.0,
       "path": "Outside",
@@ -741,7 +741,7 @@
       "ypg": 261.8,
       "yapg": 342.6,
       "to": -5,
-      "playoffPct": 0.74,
+      "playoffPct": 0.78,
       "powerRank": 29,
       "gb": "3",
       "gbValue": 3.0,
@@ -777,7 +777,7 @@
       "ypg": 296.4,
       "yapg": 336.6,
       "to": -4,
-      "playoffPct": 0.22,
+      "playoffPct": 0.36,
       "powerRank": 32,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -851,8 +851,8 @@
       "ypg": 296.2,
       "yapg": 357.2,
       "to": -1,
-      "playoffPct": 44.32,
-      "powerRank": 21,
+      "playoffPct": 44.68,
+      "powerRank": 20,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "North champ",
@@ -888,8 +888,8 @@
       "ypg": 348.0,
       "yapg": 337.0,
       "to": 2,
-      "playoffPct": 56.02,
-      "powerRank": 9,
+      "playoffPct": 56.14,
+      "powerRank": 10,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Wild card",
@@ -925,8 +925,8 @@
       "ypg": 410.6,
       "yapg": 340.0,
       "to": 3,
-      "playoffPct": 62.04,
-      "powerRank": 10,
+      "playoffPct": 62.14,
+      "powerRank": 11,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Outside",
@@ -962,8 +962,8 @@
       "ypg": 355.0,
       "yapg": 368.0,
       "to": 2,
-      "playoffPct": 54.88,
-      "powerRank": 14,
+      "playoffPct": 56.16,
+      "powerRank": 15,
       "gb": "0.5",
       "gbValue": 0.5,
       "path": "Outside",
@@ -1001,8 +1001,8 @@
       "ypg": 407.8,
       "yapg": 404.0,
       "to": -4,
-      "playoffPct": 82.92,
-      "powerRank": 11
+      "playoffPct": 82.22,
+      "powerRank": 12
     },
     {
       "abbr": "CLE",
@@ -1031,8 +1031,8 @@
       "ypg": 296.2,
       "yapg": 357.2,
       "to": -1,
-      "playoffPct": 44.32,
-      "powerRank": 21
+      "playoffPct": 44.68,
+      "powerRank": 20
     },
     {
       "abbr": "JAX",
@@ -1061,8 +1061,8 @@
       "ypg": 349.0,
       "yapg": 341.0,
       "to": 5,
-      "playoffPct": 88.72,
-      "powerRank": 6
+      "playoffPct": 90.5,
+      "powerRank": 7
     },
     {
       "abbr": "KC",
@@ -1091,7 +1091,7 @@
       "ypg": 421.5,
       "yapg": 321.8,
       "to": 5,
-      "playoffPct": 98.24,
+      "playoffPct": 98.92,
       "powerRank": 1
     }
   ],
@@ -1124,8 +1124,8 @@
       "ypg": 296.2,
       "yapg": 357.2,
       "to": -1,
-      "playoffPct": 44.32,
-      "powerRank": 21
+      "playoffPct": 44.68,
+      "powerRank": 20
     },
     {
       "abbr": "PIT",
@@ -1154,8 +1154,8 @@
       "ypg": 348.0,
       "yapg": 337.0,
       "to": 2,
-      "playoffPct": 56.02,
-      "powerRank": 9
+      "playoffPct": 56.14,
+      "powerRank": 10
     },
     {
       "abbr": "BAL",
@@ -1184,8 +1184,8 @@
       "ypg": 410.6,
       "yapg": 340.0,
       "to": 3,
-      "playoffPct": 62.04,
-      "powerRank": 10
+      "playoffPct": 62.14,
+      "powerRank": 11
     },
     {
       "abbr": "CIN",
@@ -1214,8 +1214,8 @@
       "ypg": 355.0,
       "yapg": 368.0,
       "to": 2,
-      "playoffPct": 54.88,
-      "powerRank": 14
+      "playoffPct": 56.16,
+      "powerRank": 15
     }
   ],
   "remaining": {
