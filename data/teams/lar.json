@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
+  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1826,9 +1826,21 @@
   },
   "injuries": [
     {
+      "name": "Davante Adams",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Alaric Jackson",
       "position": "OT",
       "status": "Suspension",
+      "detail": ""
+    },
+    {
+      "name": "Poona Ford",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1838,9 +1850,9 @@
       "detail": ""
     },
     {
-      "name": "Blake Grupe",
-      "position": "PK",
-      "status": "Questionable",
+      "name": "Kobie Turner",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1864,6 +1876,12 @@
     {
       "name": "Myles Garrett",
       "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Blake Grupe",
+      "position": "PK",
       "status": "Injured Reserve",
       "detail": ""
     },

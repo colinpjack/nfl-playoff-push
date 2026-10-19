@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
+  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1827,7 +1827,7 @@
     {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1869,19 +1869,13 @@
     {
       "name": "Javontae Jean-Baptiste",
       "position": "LB",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
       "name": "Javon Kinlaw",
       "position": "DT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jordan Magee",
-      "position": "LB",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1899,7 +1893,7 @@
     {
       "name": "Trey Amos",
       "position": "CB",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {
@@ -1911,7 +1905,7 @@
     {
       "name": "Jeremy McNichols",
       "position": "RB",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {

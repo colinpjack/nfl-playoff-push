@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:44:49.383792-04:00",
+  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1832,12 +1832,6 @@
       "detail": ""
     },
     {
-      "name": "Romeo Doubs",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Morgan Moses",
       "position": "OT",
       "status": "Questionable",
@@ -1876,6 +1870,12 @@
     {
       "name": "Marcus Bryant",
       "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Romeo Doubs",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },
