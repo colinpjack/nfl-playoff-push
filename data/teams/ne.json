@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
+  "generatedAt": "2026-10-20T16:50:32.207580-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1834,7 +1834,7 @@
     {
       "name": "Ben Brown",
       "position": "C",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1846,7 +1846,7 @@
     {
       "name": "Alijah Vera-Tucker",
       "position": "G",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
