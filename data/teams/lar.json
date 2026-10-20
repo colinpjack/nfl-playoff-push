@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:50:32.207580-04:00",
+  "generatedAt": "2026-10-20T19:49:11.545920-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1828,13 +1828,13 @@
     {
       "name": "Davante Adams",
       "position": "WR",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
       "name": "Poona Ford",
       "position": "DT",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
