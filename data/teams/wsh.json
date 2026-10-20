@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
+  "generatedAt": "2026-10-19T21:14:13.295256-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Levi's Stadium",
       "broadcast": "ESPN, ABC",
-      "detail": "10/19 - 8:15 PM EDT",
-      "live": false,
+      "detail": "9:01 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 24,
       "homeAbbr": "SF",
@@ -1586,7 +1586,7 @@
       "interest": "Commanders game",
       "tagClass": "jays",
       "note": "The Commanders are on the road against the 49ers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-23T00:15Z",
@@ -1831,12 +1831,6 @@
       "detail": ""
     },
     {
-      "name": "Stefon Diggs",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1849,21 +1843,15 @@
       "detail": ""
     },
     {
-      "name": "Lucas Patrick",
+      "name": "Terry McLaurin",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tanoa Togiai",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Percy Butler",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nick Cross",
-      "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1873,9 +1861,9 @@
       "detail": ""
     },
     {
-      "name": "Javon Kinlaw",
-      "position": "DT",
-      "status": "Questionable",
+      "name": "Fabian Moreau",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1885,9 +1873,9 @@
       "detail": ""
     },
     {
-      "name": "Tyler Owens",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Isaac Yiadom",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1918,6 +1906,12 @@
       "name": "Laremy Tunsil",
       "position": "OT",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "T.J. Maguranyanga",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     }
   ],

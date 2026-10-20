@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
+  "generatedAt": "2026-10-19T21:14:13.295256-04:00",
   "season": 2026,
   "week": 6,
   "weekLabel": "Week 6 \u00b7 2026",
@@ -3536,8 +3536,8 @@
       "id": "401873008",
       "date": "2026-10-20T00:15Z",
       "week": 6,
-      "status": "Mon, Oct 19 \u00b7 8:15 PM",
-      "live": false,
+      "status": "9:01 - 2nd",
+      "live": true,
       "completed": false,
       "venue": "Levi's Stadium",
       "broadcast": "ESPN, ABC",

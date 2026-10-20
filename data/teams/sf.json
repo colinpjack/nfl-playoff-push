@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
+  "generatedAt": "2026-10-19T21:14:13.295256-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Levi's Stadium",
       "broadcast": "ESPN, ABC",
-      "detail": "10/19 - 8:15 PM EDT",
-      "live": false,
+      "detail": "9:01 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 76,
       "homeAbbr": "SF",
@@ -1586,7 +1586,7 @@
       "interest": "49ers game",
       "tagClass": "jays",
       "note": "The 49ers are at home against the Commanders.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-23T00:15Z",
@@ -1831,15 +1831,21 @@
       "detail": ""
     },
     {
-      "name": "Mike Evans",
-      "position": "WR",
-      "status": "Questionable",
+      "name": "Enrique Cruz Jr.",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Christian Kirk",
       "position": "WR",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Kurtis Rourke",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1861,15 +1867,9 @@
       "detail": ""
     },
     {
-      "name": "Gracen Halton",
+      "name": "Naquan Jones",
       "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Siran Neal",
-      "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1879,21 +1879,9 @@
       "detail": ""
     },
     {
-      "name": "Upton Stout",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Garret Wallow",
       "position": "LB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mykel Williams",
-      "position": "DE",
-      "status": "Questionable",
       "detail": ""
     },
     {

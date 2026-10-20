@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
+  "generatedAt": "2026-10-19T21:14:13.295256-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1558,7 +1558,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A 49ers loss helps the West race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-23T00:15Z",

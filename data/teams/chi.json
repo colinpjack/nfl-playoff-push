@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:17:47.796550-04:00",
+  "generatedAt": "2026-10-19T21:14:13.295256-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1558,7 +1558,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The 49ers hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-23T00:15Z",
@@ -1844,15 +1844,9 @@
       "detail": ""
     },
     {
-      "name": "Keyshaun Elliott",
+      "name": "Jack Sanborn",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tyrique Stevenson Sr.",
-      "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
