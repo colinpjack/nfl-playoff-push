@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:33:21.620290-04:00",
+  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1613,6 +1613,17 @@
       "tagClass": "need",
       "note": "A Chiefs loss helps the West race.",
       "live": false
+    },
+    {
+      "date": "2026-11-01T18:00Z",
+      "homeAbbr": "NYJ",
+      "awayAbbr": "LV",
+      "homeWinPct": 50,
+      "awayWinPct": 50,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Raiders loss helps the West race.",
+      "live": false
     }
   ],
   "recent": [
@@ -1805,13 +1816,13 @@
     {
       "name": "Joe Alt",
       "position": "OT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Kayode Awosika",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1823,7 +1834,7 @@
     {
       "name": "Tre' Harris",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1835,25 +1846,25 @@
     {
       "name": "Bud Dupree",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Donte Jackson",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Derwin James Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Rodney Shelley",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

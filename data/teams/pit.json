@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:33:21.620290-04:00",
+  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1625,6 +1625,17 @@
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line.",
       "live": false
+    },
+    {
+      "date": "2026-11-01T18:00Z",
+      "homeAbbr": "PIT",
+      "awayAbbr": "CLE",
+      "homeWinPct": 59,
+      "awayWinPct": 41,
+      "interest": "Steelers game",
+      "tagClass": "jays",
+      "note": "The Steelers are at home against the Browns.",
+      "live": false
     }
   ],
   "recent": [
@@ -1817,7 +1828,7 @@
     {
       "name": "Ben Skowronek",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:33:21.620290-04:00",
+  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1832,27 +1832,15 @@
       "detail": ""
     },
     {
-      "name": "Enrique Cruz Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Mike Evans",
       "position": "WR",
-      "status": "Doubtful",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Christian Kirk",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Kurtis Rourke",
-      "position": "QB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1864,7 +1852,7 @@
     {
       "name": "Nick Bosa",
       "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1880,15 +1868,9 @@
       "detail": ""
     },
     {
-      "name": "Naquan Jones",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Marques Sigle",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

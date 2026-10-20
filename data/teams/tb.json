@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:33:21.620290-04:00",
+  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1828,25 +1828,25 @@
     {
       "name": "Baker Mayfield",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Sean Tucker",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Benjamin Morrison",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Antoine Winfield Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:33:21.620290-04:00",
+  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1625,6 +1625,17 @@
       "tagClass": "need",
       "note": "The Chiefs hold the No. 1 seed. A loss helps the cut line.",
       "live": false
+    },
+    {
+      "date": "2026-11-01T18:00Z",
+      "homeAbbr": "BUF",
+      "awayAbbr": "BAL",
+      "homeWinPct": 53,
+      "awayWinPct": 47,
+      "interest": "Ravens game",
+      "tagClass": "jays",
+      "note": "The Ravens are on the road against the Bills.",
+      "live": false
     }
   ],
   "recent": [
@@ -1829,19 +1840,19 @@
     {
       "name": "Matt Hibner",
       "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Lamar Jackson",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Cam Jurgens",
       "position": "C",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1853,13 +1864,13 @@
     {
       "name": "Andrew Vorhees",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Broderick Washington Jr.",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

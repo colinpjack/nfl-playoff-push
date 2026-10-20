@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:33:21.620290-04:00",
+  "generatedAt": "2026-10-20T13:29:47.563133-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1641,6 +1641,17 @@
       "tagClass": "jays",
       "note": "The Chiefs are on the road against the Seahawks.",
       "live": false
+    },
+    {
+      "date": "2026-11-01T18:00Z",
+      "homeAbbr": "NYJ",
+      "awayAbbr": "LV",
+      "homeWinPct": 50,
+      "awayWinPct": 50,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Raiders loss helps the West race.",
+      "live": false
     }
   ],
   "recent": [
@@ -1810,13 +1821,13 @@
     {
       "name": "Rashee Rice",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Josh Simmons",
       "position": "OT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
