@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:49:11.545920-04:00",
+  "generatedAt": "2026-10-21T00:35:37.023085-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1943,12 +1943,6 @@
       "name": "Greg Van Roten",
       "position": "G",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Jeremiah Webb",
-      "position": "WR",
-      "status": "Questionable",
       "detail": ""
     }
   ],

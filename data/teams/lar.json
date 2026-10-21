@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:49:11.545920-04:00",
+  "generatedAt": "2026-10-21T00:35:37.023085-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1826,18 +1826,6 @@
   },
   "injuries": [
     {
-      "name": "Davante Adams",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Poona Ford",
-      "position": "DT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Trent McDuffie",
       "position": "CB",
       "status": "Questionable",
@@ -1847,6 +1835,12 @@
       "name": "Kobie Turner",
       "position": "DE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Davante Adams",
+      "position": "WR",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1864,6 +1858,12 @@
     {
       "name": "Terrance Ferguson",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Poona Ford",
+      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },
