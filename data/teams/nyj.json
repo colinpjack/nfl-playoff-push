@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1838,6 +1838,12 @@
       "detail": ""
     },
     {
+      "name": "Kene Nwangwu",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Dylan Parham",
       "position": "G",
       "status": "Questionable",
@@ -1850,9 +1856,21 @@
       "detail": ""
     },
     {
+      "name": "Will McDonald IV",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Joseph Ossai",
       "position": "DE",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "T'Vondre Sweat",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {

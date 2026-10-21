@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1826,6 +1826,18 @@
   },
   "injuries": [
     {
+      "name": "CJ Donaldson",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Cesar Ruiz",
       "position": "G",
       "status": "Questionable",
@@ -1844,20 +1856,8 @@
       "detail": ""
     },
     {
-      "name": "Kool-Aid McKinstry",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Quincy Riley",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nathan Shepherd",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

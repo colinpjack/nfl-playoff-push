@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1826,6 +1826,18 @@
   },
   "injuries": [
     {
+      "name": "Trent Brown",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Blake Fisher",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jawhar Jordan",
       "position": "RB",
       "status": "Out",
@@ -1838,21 +1850,51 @@
       "detail": ""
     },
     {
+      "name": "Dalton Schultz",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Azeez Al-Shaair",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Reed Blankenship",
       "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
+      "name": "Jadeveon Clowney",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Logan Hall",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jalen Pitre",
       "position": "S",
-      "status": "Doubtful",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Henry To'oTo'o",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

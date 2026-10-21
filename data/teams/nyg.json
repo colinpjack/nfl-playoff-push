@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1838,14 +1838,32 @@
       "detail": ""
     },
     {
-      "name": "Darnell Mooney",
+      "name": "Charlie Jones",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Marcus Mbow",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Andrew Thomas",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Tremaine Edmunds",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jevon Holland",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1864,6 +1882,18 @@
     {
       "name": "Tyler Nubin",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kayvon Thibodeaux",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jordan Stout",
+      "position": "P",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1812,12 +1812,6 @@
     "elimRival": "CLE"
   },
   "injuries": [
-    {
-      "name": "Colbie Young",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
     {
       "name": "Kyle Dugger",
       "position": "S",

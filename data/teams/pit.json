@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1826,6 +1826,12 @@
   },
   "injuries": [
     {
+      "name": "Rico Dowdle",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Ben Skowronek",
       "position": "WR",
       "status": "Questionable",
@@ -1833,6 +1839,24 @@
     },
     {
       "name": "Brandin Echols",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Alex Highsmith",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Sebastian Joseph-Day",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jalen Ramsey",
       "position": "CB",
       "status": "Questionable",
       "detail": ""

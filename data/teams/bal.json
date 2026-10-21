@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
+  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1844,6 +1844,12 @@
       "detail": ""
     },
     {
+      "name": "Olaivavega Ioane",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Lamar Jackson",
       "position": "QB",
       "status": "Questionable",
@@ -1862,8 +1868,26 @@
       "detail": ""
     },
     {
+      "name": "John Simpson",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Andrew Vorhees",
       "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jaylinn Hawkins",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tavius Robinson",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
