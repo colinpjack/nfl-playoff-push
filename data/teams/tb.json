@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:09:43.195893-04:00",
+  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1826,20 +1826,44 @@
   },
   "injuries": [
     {
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Luke Goedeke",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Bucky Irving",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Baker Mayfield",
       "position": "QB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Sean Tucker",
-      "position": "RB",
+      "name": "Calijah Kancey",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Benjamin Morrison",
+      "name": "Zyon McCollum",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Christian Rozeboom",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

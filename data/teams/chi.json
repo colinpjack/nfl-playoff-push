@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:09:43.195893-04:00",
+  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1826,26 +1826,26 @@
   },
   "injuries": [
     {
-      "name": "Jonah Jackson",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kyle Monangai",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "T.J. Edwards",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Jack Sanborn",
       "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyrique Stevenson Sr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

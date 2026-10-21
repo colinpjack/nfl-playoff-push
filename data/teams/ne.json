@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:09:43.195893-04:00",
+  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1826,15 +1826,9 @@
   },
   "injuries": [
     {
-      "name": "A.J. Brown",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ben Brown",
       "position": "C",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1846,24 +1840,42 @@
     {
       "name": "Alijah Vera-Tucker",
       "position": "G",
-      "status": "Doubtful",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kevin Byard",
+      "position": "S",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Channing Canada",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Carlton Davis III",
       "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Christian Elliss",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Karon Prunty",
       "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Craig Woodson",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

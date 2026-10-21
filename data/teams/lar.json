@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:09:43.195893-04:00",
+  "generatedAt": "2026-10-21T15:33:57.143899-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1832,12 +1832,6 @@
       "detail": ""
     },
     {
-      "name": "Kobie Turner",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Davante Adams",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1900,6 +1894,12 @@
     {
       "name": "Keir Thomas II",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Kobie Turner",
+      "position": "DE",
       "status": "Injured Reserve",
       "detail": ""
     },
