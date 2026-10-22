@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:35:57.707303-04:00",
+  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1826,6 +1826,18 @@
   },
   "injuries": [
     {
+      "name": "Tyler Guyton",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "George Pickens",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Drew Shelton",
       "position": "OT",
       "status": "Questionable",
@@ -1840,12 +1852,6 @@
     {
       "name": "Cobie Durant",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "DeMarvion Overshown",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:35:57.707303-04:00",
+  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1838,12 +1838,6 @@
       "detail": ""
     },
     {
-      "name": "Alijah Vera-Tucker",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kevin Byard",
       "position": "S",
       "status": "Questionable",
@@ -1953,6 +1947,12 @@
     },
     {
       "name": "Greg Van Roten",
+      "position": "G",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Alijah Vera-Tucker",
       "position": "G",
       "status": "Injured Reserve",
       "detail": ""

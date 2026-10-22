@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:35:57.707303-04:00",
+  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1826,9 +1826,9 @@
   },
   "injuries": [
     {
-      "name": "Elijah Arroyo",
-      "position": "TE",
-      "status": "Out",
+      "name": "Zach Charbonnet",
+      "position": "RB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1886,6 +1886,12 @@
       "detail": ""
     },
     {
+      "name": "Elijah Arroyo",
+      "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Jake Bobo",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1895,12 +1901,6 @@
       "name": "Anthony Bradford",
       "position": "G",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Zach Charbonnet",
-      "position": "RB",
-      "status": "Out",
       "detail": ""
     },
     {
