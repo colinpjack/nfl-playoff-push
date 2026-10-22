@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
+  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1826,8 +1826,38 @@
   },
   "injuries": [
     {
+      "name": "Brock Bowers",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kolton Miller",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Mike Washington Jr.",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Folorunso Fatukasi",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Tonka Hemingway",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Quay Walker",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

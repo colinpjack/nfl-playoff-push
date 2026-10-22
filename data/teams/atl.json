@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
+  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1814,6 +1814,24 @@
   },
   "injuries": [
     {
+      "name": "Michael Jerrell",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Yasir Abdullah",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1826,14 +1844,14 @@
       "detail": ""
     },
     {
-      "name": "Kendal Daniels",
+      "name": "Divine Deablo",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Divine Deablo",
-      "position": "LB",
+      "name": "Samson Ebukam",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1847,6 +1865,18 @@
       "name": "James Pearce Jr.",
       "position": "LB",
       "status": "Suspension",
+      "detail": ""
+    },
+    {
+      "name": "Za'Darius Smith",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Avieon Terrell",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {

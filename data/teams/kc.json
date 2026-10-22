@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
+  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1813,6 +1813,12 @@
   },
   "injuries": [
     {
+      "name": "Travis Kelce",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jaylon Moore",
       "position": "OT",
       "status": "Questionable",
@@ -1827,6 +1833,12 @@
     {
       "name": "Josh Simmons",
       "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "L'Jarius Sneed",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

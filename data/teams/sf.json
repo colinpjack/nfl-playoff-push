@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
+  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1856,8 +1856,26 @@
       "detail": ""
     },
     {
+      "name": "Ashtyn Davis",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jaden Dugger",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Luke Gifford",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Siran Neal",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1877,6 +1895,12 @@
       "name": "Garret Wallow",
       "position": "LB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Mykel Williams",
+      "position": "DE",
+      "status": "Questionable",
       "detail": ""
     },
     {

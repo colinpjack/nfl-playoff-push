@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
+  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1832,15 +1832,45 @@
       "detail": ""
     },
     {
+      "name": "Drew Lock",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jadarian Price",
       "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
+      "name": "Rashid Shaheed",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Beau Stephens",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyrice Knight",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Connor O'Toole",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

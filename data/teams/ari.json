@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:43:14.729284-04:00",
+  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1826,8 +1826,44 @@
   },
   "injuries": [
     {
+      "name": "Carson Beck",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jeremiyah Love",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jedrick Wills Jr.",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Budda Baker",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Max Melton",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Walter Nolen III",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Garrett Williams",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
