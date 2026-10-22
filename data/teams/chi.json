@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
+  "generatedAt": "2026-10-22T19:57:29.933870-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1826,6 +1826,18 @@
   },
   "injuries": [
     {
+      "name": "Case Keenum",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jordan McFadden",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Kyle Monangai",
       "position": "RB",
       "status": "Out",
@@ -1834,19 +1846,25 @@
     {
       "name": "T.J. Edwards",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jayden Loving",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Nick McCloud",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jack Sanborn",
       "position": "LB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tyrique Stevenson Sr.",
-      "position": "CB",
-      "status": "Questionable",
       "detail": ""
     },
     {

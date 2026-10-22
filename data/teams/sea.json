@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
+  "generatedAt": "2026-10-22T19:57:29.933870-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1844,25 +1844,19 @@
       "detail": ""
     },
     {
-      "name": "Rashid Shaheed",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Beau Stephens",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Tyrice Knight",
+      "name": "DeMarcus Lawrence",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Uchenna Nwosu",
       "position": "LB",
       "status": "Questionable",
       "detail": ""

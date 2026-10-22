@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
+  "generatedAt": "2026-10-22T19:57:29.933870-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1821,24 +1821,6 @@
     {
       "name": "T.J. Hockenson",
       "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Justin Jefferson",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Brian O'Neill",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "James Pierre",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

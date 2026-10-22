@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:48:29.402283-04:00",
+  "generatedAt": "2026-10-22T19:57:29.933870-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1838,9 +1838,45 @@
       "detail": ""
     },
     {
+      "name": "Dallas Goedert",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Lane Johnson",
       "position": "OT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Drew Kendall",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Willie Lampkin",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DeVonta Smith",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyler Steen",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1862,8 +1898,20 @@
       "detail": ""
     },
     {
+      "name": "Jonathan Greenard",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jalyx Hunt",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Moro Ojomo",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
