@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:27:18.774602-04:00",
+  "generatedAt": "2026-10-22T02:33:12.151495-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -2079,8 +2079,8 @@
         "position": "LB",
         "jersey": "31",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685248.png",
-        "line": "30 \u00b7 5 SACK",
-        "value": "30",
+        "line": "31 \u00b7 5 SACK",
+        "value": "31",
         "statLabel": "TKL"
       },
       {
