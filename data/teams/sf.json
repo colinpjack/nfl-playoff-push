@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1834,7 +1834,7 @@
     {
       "name": "Mike Evans",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1852,25 +1852,13 @@
     {
       "name": "Nick Bosa",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Ashtyn Davis",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaden Dugger",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Luke Gifford",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1882,7 +1870,7 @@
     {
       "name": "Marques Sigle",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1895,12 +1883,6 @@
       "name": "Garret Wallow",
       "position": "LB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mykel Williams",
-      "position": "DE",
-      "status": "Questionable",
       "detail": ""
     },
     {

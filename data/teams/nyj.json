@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1832,12 +1832,6 @@
       "detail": ""
     },
     {
-      "name": "Adonai Mitchell",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Max Mitchell",
       "position": "OT",
       "status": "Out",
@@ -1862,21 +1856,9 @@
       "detail": ""
     },
     {
-      "name": "Will McDonald IV",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Joseph Ossai",
       "position": "DE",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "T'Vondre Sweat",
-      "position": "DT",
-      "status": "Questionable",
       "detail": ""
     },
     {

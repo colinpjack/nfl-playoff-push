@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1826,14 +1826,8 @@
   },
   "injuries": [
     {
-      "name": "Tyler Guyton",
+      "name": "Broderick Jones",
       "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "George Pickens",
-      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
@@ -1846,12 +1840,6 @@
     {
       "name": "KaVontae Turpin",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cobie Durant",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

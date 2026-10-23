@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1868,21 +1868,9 @@
       "detail": ""
     },
     {
-      "name": "Garrett Williams",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Wydett Williams Jr.",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Andrew Wingard",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

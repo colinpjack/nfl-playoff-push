@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1826,15 +1826,9 @@
   },
   "injuries": [
     {
-      "name": "Ashton Dulin",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Anthony Gould",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1850,9 +1844,15 @@
       "detail": ""
     },
     {
+      "name": "Bryce Boettcher",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Sauce Gardner",
       "position": "CB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {

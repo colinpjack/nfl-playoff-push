@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1821,12 +1821,6 @@
       "detail": ""
     },
     {
-      "name": "Cole Kmet",
-      "position": "TE",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jordan McFadden",
       "position": "G",
       "status": "Out",
@@ -1869,12 +1863,6 @@
       "detail": ""
     },
     {
-      "name": "Montez Sweat",
-      "position": "DE",
-      "status": "Suspension",
-      "detail": ""
-    },
-    {
       "name": "Brittain Brown",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1912,6 +1900,12 @@
     },
     {
       "name": "Nikola Kalinic",
+      "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Cole Kmet",
       "position": "TE",
       "status": "Injured Reserve",
       "detail": ""

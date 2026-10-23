@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1828,13 +1828,7 @@
     {
       "name": "Blake Fisher",
       "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Brevin Jordan",
-      "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1846,43 +1840,25 @@
     {
       "name": "David Montgomery",
       "position": "RB",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Dalton Schultz",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Azeez Al-Shaair",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Reed Blankenship",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jalen Pitre",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaylin Smith",
       "position": "CB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Henry To'oTo'o",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {

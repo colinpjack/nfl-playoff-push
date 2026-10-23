@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1813,27 +1813,9 @@
   },
   "injuries": [
     {
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Will Kacmarek",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaylen Wright",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Robert Beal Jr.",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1845,13 +1827,7 @@
     {
       "name": "Reese Taylor",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tucker Addington",
-      "position": "LS",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

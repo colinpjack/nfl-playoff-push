@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1828,18 +1828,6 @@
     {
       "name": "Mike Washington Jr.",
       "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tonka Hemingway",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Quay Walker",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

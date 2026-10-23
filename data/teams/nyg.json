@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
+  "generatedAt": "2026-10-23T18:36:13.998506-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1834,19 +1834,7 @@
     {
       "name": "Theo Johnson",
       "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Charlie Jones",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Chris Manhertz",
-      "position": "TE",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1856,15 +1844,9 @@
       "detail": ""
     },
     {
-      "name": "Andrew Thomas",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Tremaine Edmunds",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1874,15 +1856,9 @@
       "detail": ""
     },
     {
-      "name": "Colton Hood",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Greg Newsome II",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
