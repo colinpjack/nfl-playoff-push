@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:59:41.528001-04:00",
+  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1813,15 +1813,21 @@
   },
   "injuries": [
     {
+      "name": "Monroe Freeling",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Thomas Incoom",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaelan Phillips",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:59:41.528001-04:00",
+  "generatedAt": "2026-10-23T15:07:54.757078-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1816,13 +1816,13 @@
     {
       "name": "Michael Jerrell",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Brian Robinson Jr.",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1840,7 +1840,7 @@
     {
       "name": "Billy Bowman Jr.",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1852,7 +1852,7 @@
     {
       "name": "Divine Deablo",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1888,12 +1888,6 @@
     {
       "name": "Avieon Terrell",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cameron Thomas",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
