@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:46:53.818662-04:00",
+  "generatedAt": "2026-10-24T13:33:56.172877-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1828,13 +1828,7 @@
     {
       "name": "Teven Jenkins",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Grant Delpit",
-      "position": "S",
-      "status": "Questionable",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1889,12 +1883,6 @@
       "name": "Joe Royer",
       "position": "TE",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dylan Sampson",
-      "position": "RB",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
