@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:46:04.207332-04:00",
+  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1814,12 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "Michael Jerrell",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "status": "Out",
@@ -1910,6 +1904,12 @@
       "detail": ""
     },
     {
+      "name": "Michael Jerrell",
+      "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "DeAngelo Malone",
       "position": "LB",
       "status": "Out",
@@ -1924,12 +1924,6 @@
     {
       "name": "Trey Sermon",
       "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "A.J. Terrell Jr.",
-      "position": "CB",
       "status": "Injured Reserve",
       "detail": ""
     },

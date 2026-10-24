@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:46:04.207332-04:00",
+  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1826,15 +1826,9 @@
   },
   "injuries": [
     {
-      "name": "Tyler Badie",
+      "name": "Jonah Coleman",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jonah Elliss",
-      "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1850,6 +1844,12 @@
       "detail": ""
     },
     {
+      "name": "Tyler Badie",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Levelle Bailey",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1862,12 +1862,6 @@
       "detail": ""
     },
     {
-      "name": "Jonah Coleman",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Frank Crum",
       "position": "OT",
       "status": "Injured Reserve",
@@ -1876,6 +1870,12 @@
     {
       "name": "Michael Deiter",
       "position": "C",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jonah Elliss",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

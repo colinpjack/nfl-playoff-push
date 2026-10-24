@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:46:04.207332-04:00",
+  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1838,45 +1838,21 @@
       "detail": ""
     },
     {
-      "name": "Dallas Goedert",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Fred Johnson",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Lane Johnson",
       "position": "OT",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Willie Lampkin",
-      "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "DeVonta Smith",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tyler Steen",
-      "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Dontayvion Wicks",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1888,13 +1864,7 @@
     {
       "name": "Michael Carter II",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "AJ Epenesa",
-      "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1910,15 +1880,9 @@
       "detail": ""
     },
     {
-      "name": "Moro Ojomo",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Nolan Smith Jr.",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

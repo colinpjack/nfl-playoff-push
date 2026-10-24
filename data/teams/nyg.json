@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:46:04.207332-04:00",
+  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1846,7 +1846,7 @@
     {
       "name": "Tremaine Edmunds",
       "position": "LB",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1870,7 +1870,7 @@
     {
       "name": "Paulson Adebo",
       "position": "CB",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {

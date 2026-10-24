@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:46:04.207332-04:00",
+  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1844,6 +1844,12 @@
       "detail": ""
     },
     {
+      "name": "Jordon Riley",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Benjamin St-Juste",
       "position": "CB",
       "status": "Questionable",
@@ -1919,12 +1925,6 @@
       "name": "Jayden Reed",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Jordon Riley",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {
