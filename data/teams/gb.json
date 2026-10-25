@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:30:06.475280-04:00",
+  "generatedAt": "2026-10-25T06:06:30.974513-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -48,7 +48,7 @@
     "+0.5 GB OF THE CUT LINE",
     "NEXT SUN @ DET",
     "BYE WEEK 11",
-    "PASSER RATING 91.8"
+    "PASSER RATING 92.2"
   ],
   "narrative": {
     "kicker": "Inside the NFC field",
@@ -160,7 +160,7 @@
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "52%",
+      "value": "50%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -207,7 +207,7 @@
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "52%",
+      "value": "50%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "flat"
     },
@@ -221,9 +221,9 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "27:58",
+      "value": "28:03",
       "detail": "Per game. Thirty minutes is a split clock.",
-      "direction": "down"
+      "direction": "flat"
     }
   ],
   "paths": {
@@ -1943,8 +1943,8 @@
         "position": "QB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
-        "line": "135/226, 1684 YDS, 11 TD, 4 INT",
-        "value": "91.8",
+        "line": "135/225, 1684 YDS, 11 TD, 4 INT",
+        "value": "92.2",
         "statLabel": "RTG"
       }
     ],
@@ -1965,8 +1965,8 @@
         "position": "WR",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4701936.png",
-        "line": "30 REC, 501 YDS, 3 TD",
-        "value": "501",
+        "line": "28 REC, 473 YDS, 3 TD",
+        "value": "473",
         "statLabel": "YDS"
       },
       {
@@ -2113,5 +2113,5 @@
       }
     ]
   },
-  "qbRating": 91.8
+  "qbRating": 92.2
 }
