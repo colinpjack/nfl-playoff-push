@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:45:27.752574-04:00",
+  "generatedAt": "2026-10-25T19:11:34.522008-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1244,7 +1244,7 @@
       "conferenceGame": true,
       "venue": "Ford Field",
       "broadcast": "Fox",
-      "detail": "7:00 - 1st",
+      "detail": "4:50 - 4th",
       "live": true,
       "final": false,
       "winPct": 44,
@@ -1841,6 +1841,12 @@
       "name": "Kaleb Johnson",
       "position": "RB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jacob Monk",
+      "position": "C",
+      "status": "Questionable",
       "detail": ""
     },
     {

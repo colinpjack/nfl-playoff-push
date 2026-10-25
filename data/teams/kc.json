@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:45:27.752574-04:00",
+  "generatedAt": "2026-10-25T19:11:34.522008-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1819,15 +1819,33 @@
       "detail": ""
     },
     {
+      "name": "Garrett Nussmeier",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Rashee Rice",
       "position": "WR",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "L'Jarius Sneed",
+      "name": "Ben VanSumeren",
+      "position": "FB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jadon Canady",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jack Pyburn",
+      "position": "LB",
+      "status": "Out",
       "detail": ""
     },
     {

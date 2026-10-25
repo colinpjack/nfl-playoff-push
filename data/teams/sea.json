@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:45:27.752574-04:00",
+  "generatedAt": "2026-10-25T19:11:34.522008-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1832,9 +1832,15 @@
       "detail": ""
     },
     {
+      "name": "Robert Henry Jr.",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Drew Lock",
       "position": "QB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1844,33 +1850,21 @@
       "detail": ""
     },
     {
+      "name": "Beau Stephens",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Nick Emmanwori",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "DeMarcus Lawrence",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Uchenna Nwosu",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Connor O'Toole",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:45:27.752574-04:00",
+  "generatedAt": "2026-10-25T19:11:34.522008-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1244,7 +1244,7 @@
       "conferenceGame": true,
       "venue": "Ford Field",
       "broadcast": "Fox",
-      "detail": "7:00 - 1st",
+      "detail": "4:50 - 4th",
       "live": true,
       "final": false,
       "winPct": 56,
@@ -1834,6 +1834,12 @@
       "name": "Ahmed Hassanein",
       "position": "DE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ennis Rakestraw Jr.",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
