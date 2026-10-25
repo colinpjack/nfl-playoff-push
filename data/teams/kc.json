@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
+  "generatedAt": "2026-10-24T20:30:06.475280-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1825,12 +1825,6 @@
       "detail": ""
     },
     {
-      "name": "Brashard Smith",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "L'Jarius Sneed",
       "position": "CB",
       "status": "Questionable",
@@ -1875,6 +1869,12 @@
     {
       "name": "Josh Simmons",
       "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Brashard Smith",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

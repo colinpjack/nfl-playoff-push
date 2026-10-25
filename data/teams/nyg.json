@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:25:50.233980-04:00",
+  "generatedAt": "2026-10-24T20:30:06.475280-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1844,12 +1844,6 @@
       "detail": ""
     },
     {
-      "name": "Tremaine Edmunds",
-      "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jevon Holland",
       "position": "S",
       "status": "Out",
@@ -1916,6 +1910,12 @@
       "detail": ""
     },
     {
+      "name": "Tremaine Edmunds",
+      "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Chauncey Golston",
       "position": "DE",
       "status": "Injured Reserve",
@@ -1925,6 +1925,12 @@
       "name": "DJ James",
       "position": "CB",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Francis Mauigoa",
+      "position": "OT",
+      "status": "IR",
       "detail": ""
     },
     {
