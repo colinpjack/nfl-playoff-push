@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:06:30.974513-04:00",
+  "generatedAt": "2026-10-25T10:21:25.376634-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1574,7 +1574,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Steelers hold the No. 6 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-25T17:00Z",

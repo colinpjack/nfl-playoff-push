@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:06:30.974513-04:00",
+  "generatedAt": "2026-10-25T10:21:25.376634-04:00",
   "season": 2026,
   "week": 7,
   "weekLabel": "Week 7 \u00b7 2026",
@@ -3200,8 +3200,8 @@
       "id": "401873011",
       "date": "2026-10-25T13:30Z",
       "week": 7,
-      "status": "Sun, Oct 25 \u00b7 9:30 AM",
-      "live": false,
+      "status": "10:17 - 2nd",
+      "live": true,
       "completed": false,
       "venue": "Stade de France",
       "broadcast": "NFL Net",
