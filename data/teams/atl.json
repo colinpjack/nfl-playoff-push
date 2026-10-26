@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1782,20 +1782,8 @@
   },
   "injuries": [
     {
-      "name": "Andy Dalton",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Brian Robinson Jr.",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Strand",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },

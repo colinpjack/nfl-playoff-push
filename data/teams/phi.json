@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1894,7 +1894,7 @@
     {
       "name": "Grant Calcaterra",
       "position": "TE",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {
@@ -1906,7 +1906,7 @@
     {
       "name": "Landon Dickerson",
       "position": "G",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {
@@ -1936,7 +1936,7 @@
     {
       "name": "Eli Stowers",
       "position": "TE",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {

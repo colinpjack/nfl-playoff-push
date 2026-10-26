@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1815,12 +1815,6 @@
   },
   "injuries": [
     {
-      "name": "Jake Haener",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Theo Johnson",
       "position": "TE",
       "status": "Out",
@@ -1829,12 +1823,6 @@
     {
       "name": "Marcus Mbow",
       "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Josh Sills",
-      "position": "G",
       "status": "Out",
       "detail": ""
     },
@@ -1858,12 +1846,6 @@
     },
     {
       "name": "Greg Newsome II",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nikko Reed",
       "position": "CB",
       "status": "Out",
       "detail": ""

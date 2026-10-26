@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1827,44 +1827,14 @@
   },
   "injuries": [
     {
-      "name": "Brandon Crenshaw-Dickson",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kylen Granson",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Calvin Ridley",
       "position": "WR",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Nicholas Singleton",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Tyjae Spears",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jaylon Jones",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jackie Marshall",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

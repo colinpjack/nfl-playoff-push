@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1781,45 +1781,9 @@
   },
   "injuries": [
     {
-      "name": "AJ Dillon",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Stone Forsythe",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sam Hecht",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Haynes King",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Taylor Moton",
       "position": "OT",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "TeRah Edwards",
-      "position": "DT",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

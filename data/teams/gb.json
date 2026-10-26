@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1794,39 +1794,15 @@
   },
   "injuries": [
     {
-      "name": "Jager Burton",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Donovan Jennings",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kaleb Johnson",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jacob Monk",
       "position": "C",
-      "status": "Doubtful",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
       "name": "Sean Rhyan",
       "position": "G",
       "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Kevin Zeitler",
-      "position": "G",
-      "status": "Out",
       "detail": ""
     },
     {

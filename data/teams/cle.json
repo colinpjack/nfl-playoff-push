@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1827,24 +1827,6 @@
   },
   "injuries": [
     {
-      "name": "Parker Brailsford",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Audric Estime",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Taylen Green",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Tytus Howard",
       "position": "OT",
       "status": "Questionable",
@@ -1863,18 +1845,6 @@
       "detail": ""
     },
     {
-      "name": "Noah Igbinoghene",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Justin Jefferson",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Elijah Chatman",
       "position": "DT",
       "status": "Injured Reserve",
@@ -1889,7 +1859,7 @@
     {
       "name": "Dillon Gabriel",
       "position": "QB",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1847,18 +1847,6 @@
     {
       "name": "Dylan Parham",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jarvis Brownlee Jr.",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Heflin",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

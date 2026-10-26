@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1814,24 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "DJ Campbell",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Chukwuebuka Godrick",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Tolbert",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jaylen Wright",
       "position": "RB",
       "status": "Questionable",
@@ -1840,12 +1822,6 @@
     {
       "name": "Robert Beal Jr.",
       "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Marcellas Dial Jr.",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

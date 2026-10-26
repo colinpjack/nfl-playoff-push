@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1827,12 +1827,6 @@
       "detail": ""
     },
     {
-      "name": "Marlin Klein",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "David Montgomery",
       "position": "RB",
       "status": "Out",
@@ -1842,18 +1836,6 @@
       "name": "Jaylin Noel",
       "position": "WR",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Febechi Nwaiwu",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nate Thomas",
-      "position": "OT",
-      "status": "Out",
       "detail": ""
     },
     {

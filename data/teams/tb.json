@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1802,24 +1802,6 @@
     {
       "name": "Luke Goedeke",
       "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Billy Schrauth",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "DeMonte Capehart",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ayden Garnes",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

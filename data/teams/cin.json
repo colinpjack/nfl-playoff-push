@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:07:50.499872-04:00",
+  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1820,37 +1820,7 @@
       "detail": ""
     },
     {
-      "name": "Myles Hinton",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Connor Lew",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kyle Dugger",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Landon Robinson",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Shemar Stewart",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Russ Yeast",
       "position": "S",
       "status": "Out",
       "detail": ""
