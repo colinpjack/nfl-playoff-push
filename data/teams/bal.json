@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1835,13 +1835,13 @@
     {
       "name": "Olaivavega Ioane",
       "position": "G",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Lamar Jackson",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1853,13 +1853,13 @@
     {
       "name": "Jaylinn Hawkins",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Broderick Washington Jr.",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1829,31 +1829,31 @@
     {
       "name": "Anthony Gould",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Tyler Warren",
       "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "CJ Allen",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Bryce Boettcher",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Sauce Gardner",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

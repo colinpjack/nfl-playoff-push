@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1563,6 +1563,17 @@
       "tagClass": "need",
       "note": "The Bears hold the No. 5 seed. A loss helps the cut line.",
       "live": false
+    },
+    {
+      "date": "2026-11-08T14:30Z",
+      "homeAbbr": "ATL",
+      "awayAbbr": "CIN",
+      "homeWinPct": 40,
+      "awayWinPct": 60,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Falcons loss helps the South race.",
+      "live": false
     }
   ],
   "recent": [
@@ -1790,7 +1801,7 @@
     {
       "name": "Cesar Ruiz",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1802,7 +1813,7 @@
     {
       "name": "Nathan Shepherd",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

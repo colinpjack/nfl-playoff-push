@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1590,6 +1590,17 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Bears loss helps the North race.",
+      "live": false
+    },
+    {
+      "date": "2026-11-08T14:30Z",
+      "homeAbbr": "ATL",
+      "awayAbbr": "CIN",
+      "homeWinPct": 40,
+      "awayWinPct": 60,
+      "interest": "NFC game",
+      "tagClass": "race",
+      "note": "Two clubs still in the NFC picture.",
       "live": false
     }
   ],

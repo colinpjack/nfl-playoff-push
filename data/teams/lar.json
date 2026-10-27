@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1586,6 +1586,17 @@
       "tagClass": "need",
       "note": "The Bears hold the No. 5 seed. A loss helps the cut line. A Seahawks loss helps the West race.",
       "live": false
+    },
+    {
+      "date": "2026-11-08T14:30Z",
+      "homeAbbr": "ATL",
+      "awayAbbr": "CIN",
+      "homeWinPct": 40,
+      "awayWinPct": 60,
+      "interest": "NFC game",
+      "tagClass": "race",
+      "note": "Two clubs still in the NFC picture.",
+      "live": false
     }
   ],
   "recent": [
@@ -1807,13 +1818,13 @@
     {
       "name": "Nate Landman",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Trent McDuffie",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

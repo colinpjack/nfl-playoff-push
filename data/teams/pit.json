@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1829,13 +1829,13 @@
     {
       "name": "Ben Skowronek",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Brandin Echols",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

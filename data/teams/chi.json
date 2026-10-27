@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:56:14.682838-04:00",
+  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1563,6 +1563,17 @@
       "tagClass": "jays",
       "note": "The Bears are on the road against the Seahawks.",
       "live": false
+    },
+    {
+      "date": "2026-11-08T14:30Z",
+      "homeAbbr": "ATL",
+      "awayAbbr": "CIN",
+      "homeWinPct": 40,
+      "awayWinPct": 60,
+      "interest": "NFC game",
+      "tagClass": "race",
+      "note": "Two clubs still in the NFC picture.",
+      "live": false
     }
   ],
   "recent": [
@@ -1784,13 +1795,13 @@
     {
       "name": "Kyle Monangai",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "T.J. Edwards",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1802,7 +1813,7 @@
     {
       "name": "Jack Sanborn",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1874,7 +1885,7 @@
     {
       "name": "Anthony Johnson Jr.",
       "position": "S",
-      "status": "Injured Reserve",
+      "status": "Out",
       "detail": ""
     },
     {
