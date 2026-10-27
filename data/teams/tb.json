@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
+  "generatedAt": "2026-10-27T16:56:22.955935-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1585,6 +1585,28 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Falcons loss helps the South race.",
+      "live": false
+    },
+    {
+      "date": "2026-11-08T18:00Z",
+      "homeAbbr": "NO",
+      "awayAbbr": "CLE",
+      "homeWinPct": 50,
+      "awayWinPct": 50,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Saints loss helps the South race.",
+      "live": false
+    },
+    {
+      "date": "2026-11-08T18:00Z",
+      "homeAbbr": "CAR",
+      "awayAbbr": "DEN",
+      "homeWinPct": 51,
+      "awayWinPct": 49,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Panthers loss helps the South race.",
       "live": false
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
+  "generatedAt": "2026-10-27T16:56:22.955935-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1814,15 +1814,15 @@
   },
   "injuries": [
     {
-      "name": "Erick All Jr.",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kyle Dugger",
       "position": "S",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Erick All Jr.",
+      "position": "TE",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1859,6 +1859,12 @@
       "name": "Ja'Sir Taylor",
       "position": "CB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Josh Kattus",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     }
   ],

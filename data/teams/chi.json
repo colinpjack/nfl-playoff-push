@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:30:42.282555-04:00",
+  "generatedAt": "2026-10-27T16:56:22.955935-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1573,6 +1573,28 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
+      "live": false
+    },
+    {
+      "date": "2026-11-08T18:00Z",
+      "homeAbbr": "MIA",
+      "awayAbbr": "DET",
+      "homeWinPct": 35,
+      "awayWinPct": 65,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Lions loss helps the North race.",
+      "live": false
+    },
+    {
+      "date": "2026-11-08T18:00Z",
+      "homeAbbr": "CAR",
+      "awayAbbr": "DEN",
+      "homeWinPct": 51,
+      "awayWinPct": 49,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "The Panthers hold the No. 4 seed. A loss helps the cut line.",
       "live": false
     }
   ],
