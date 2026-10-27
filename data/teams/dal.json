@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
+  "generatedAt": "2026-10-26T20:22:44.623540-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Lincoln Financial Field",
       "broadcast": "ESPN, ABC",
-      "detail": "10/26 - 8:15 PM EDT",
-      "live": false,
+      "detail": "12:30 - 1st",
+      "live": true,
       "final": false,
       "winPct": 53,
       "homeAbbr": "PHI",
@@ -1558,7 +1558,7 @@
       "interest": "Cowboys game",
       "tagClass": "jays",
       "note": "The Cowboys are on the road against the Eagles.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-30T00:15Z",
@@ -1826,6 +1826,12 @@
   },
   "injuries": [
     {
+      "name": "Emari Demercado",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Drew Shelton",
       "position": "OT",
       "status": "Out",
@@ -1834,6 +1840,12 @@
     {
       "name": "KaVontae Turpin",
       "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyrus Wheat",
+      "position": "LB",
       "status": "Out",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
+  "generatedAt": "2026-10-26T20:22:44.623540-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1229,7 +1229,7 @@
   "schedule": [
     {
       "id": "401873047",
-      "date": "2026-11-08T21:05Z",
+      "date": "2026-11-08T21:25Z",
       "week": 9,
       "isHome": true,
       "opponent": {
@@ -1243,8 +1243,8 @@
       "divisionGame": false,
       "conferenceGame": false,
       "venue": "Levi's Stadium",
-      "broadcast": "CBS",
-      "detail": "11/8 - 4:05 PM EST",
+      "broadcast": "Fox",
+      "detail": "11/8 - 4:25 PM EST",
       "live": false,
       "final": false,
       "winPct": 68,
@@ -1805,6 +1805,12 @@
       "detail": ""
     },
     {
+      "name": "Christian McCaffrey",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
       "status": "Out",
@@ -1826,6 +1832,12 @@
       "name": "Marques Sigle",
       "position": "S",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Upton Stout",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {

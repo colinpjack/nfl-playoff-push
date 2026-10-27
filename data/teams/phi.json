@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
+  "generatedAt": "2026-10-26T20:22:44.623540-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Lincoln Financial Field",
       "broadcast": "ESPN, ABC",
-      "detail": "10/26 - 8:15 PM EDT",
-      "live": false,
+      "detail": "12:30 - 1st",
+      "live": true,
       "final": false,
       "winPct": 47,
       "homeAbbr": "PHI",
@@ -1558,7 +1558,7 @@
       "interest": "Eagles game",
       "tagClass": "jays",
       "note": "The Eagles are at home against the Cowboys.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-10-30T00:15Z",
@@ -1826,12 +1826,6 @@
   },
   "injuries": [
     {
-      "name": "Saquon Barkley",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Tank Bigsby",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1840,6 +1834,18 @@
     {
       "name": "Lane Johnson",
       "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jake Majors",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Cole Payton",
+      "position": "QB",
       "status": "Out",
       "detail": ""
     },
@@ -1868,18 +1874,6 @@
       "detail": ""
     },
     {
-      "name": "Jonathan Greenard",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jalyx Hunt",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Nolan Smith Jr.",
       "position": "LB",
       "status": "Out",
@@ -1892,21 +1886,9 @@
       "detail": ""
     },
     {
-      "name": "Grant Calcaterra",
-      "position": "TE",
-      "status": "IR",
-      "detail": ""
-    },
-    {
       "name": "Tariq Castro-Fields",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Landon Dickerson",
-      "position": "G",
-      "status": "IR",
       "detail": ""
     },
     {
@@ -1931,12 +1913,6 @@
       "name": "Will Shipley",
       "position": "RB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Eli Stowers",
-      "position": "TE",
-      "status": "IR",
       "detail": ""
     },
     {

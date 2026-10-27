@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
+  "generatedAt": "2026-10-26T20:22:44.623540-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1781,9 +1781,33 @@
   },
   "injuries": [
     {
-      "name": "Taylor Moton",
-      "position": "OT",
-      "status": "Injured Reserve",
+      "name": "Jalen Coker",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Damien Lewis",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Torricelli Simpkins III",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Bobby Brown III",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Akayleb Evans",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1850,6 +1874,12 @@
       "name": "Bam Martin-Scott",
       "position": "LB",
       "status": "IR",
+      "detail": ""
+    },
+    {
+      "name": "Taylor Moton",
+      "position": "OT",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
+  "generatedAt": "2026-10-26T20:22:44.623540-04:00",
   "season": 2026,
   "week": 7,
   "weekLabel": "Week 7 \u00b7 2026",
@@ -3536,8 +3536,8 @@
       "id": "401873009",
       "date": "2026-10-27T00:15Z",
       "week": 7,
-      "status": "Mon, Oct 26 \u00b7 8:15 PM",
-      "live": false,
+      "status": "12:30 - 1st",
+      "live": true,
       "completed": false,
       "venue": "Lincoln Financial Field",
       "broadcast": "ESPN, ABC",

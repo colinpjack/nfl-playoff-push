@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:43:57.332452-04:00",
+  "generatedAt": "2026-10-26T20:22:44.623540-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1794,9 +1794,21 @@
   },
   "injuries": [
     {
-      "name": "Jacob Monk",
-      "position": "C",
-      "status": "Injured Reserve",
+      "name": "Aaron Banks",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Travis Glover",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Matthew Golden",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1806,15 +1818,21 @@
       "detail": ""
     },
     {
+      "name": "Anthony Campbell",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Zaire Franklin",
       "position": "LB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Benjamin St-Juste",
-      "position": "CB",
-      "status": "Out",
+      "name": "Devonte Wyatt",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1856,6 +1874,12 @@
     {
       "name": "Javon Hargrave",
       "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jacob Monk",
+      "position": "C",
       "status": "Injured Reserve",
       "detail": ""
     },
