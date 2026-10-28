@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:14:59.112504-04:00",
+  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1827,6 +1827,12 @@
   },
   "injuries": [
     {
+      "name": "Braelon Allen",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Breece Hall",
       "position": "RB",
       "status": "Questionable",
@@ -1851,6 +1857,12 @@
       "detail": ""
     },
     {
+      "name": "David Bailey",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Kiko Mauigoa",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1859,13 +1871,13 @@
     {
       "name": "Joseph Ossai",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "T'Vondre Sweat",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
