@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1827,20 +1827,26 @@
   },
   "injuries": [
     {
+      "name": "Matt Goncalves",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Anthony Gould",
       "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Tyler Warren",
+      "name": "Drew Ogletree",
       "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "CJ Allen",
-      "position": "LB",
+      "name": "Tyler Warren",
+      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1853,6 +1859,12 @@
     {
       "name": "Sauce Gardner",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tim Smith",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

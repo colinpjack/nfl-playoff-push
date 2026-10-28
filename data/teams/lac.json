@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1814,12 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "Joe Alt",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kayode Awosika",
       "position": "G",
       "status": "Questionable",
@@ -1850,12 +1844,6 @@
       "detail": ""
     },
     {
-      "name": "Bud Dupree",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Donte Jackson",
       "position": "CB",
       "status": "Questionable",
@@ -1864,6 +1852,12 @@
     {
       "name": "Derwin James Jr.",
       "position": "S",
+      "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Deane Leonard",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

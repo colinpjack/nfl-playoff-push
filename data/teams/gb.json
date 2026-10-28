@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1827,15 +1827,9 @@
   },
   "injuries": [
     {
-      "name": "Aaron Banks",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Travis Glover",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1865,7 +1859,7 @@
     {
       "name": "Zaire Franklin",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1814,8 +1814,32 @@
   },
   "injuries": [
     {
+      "name": "Spencer Brown",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dalton Kincaid",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "DJ Moore",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dee Alford",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Bradley Chubb",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1833,6 +1857,18 @@
     },
     {
       "name": "Ed Oliver",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "TJ Parker",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "T.J. Sanders",
       "position": "DT",
       "status": "Questionable",
       "detail": ""

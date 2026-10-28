@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1841,6 +1841,12 @@
     {
       "name": "Carnell Tate",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Franklin-Myers",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

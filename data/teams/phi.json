@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1853,7 +1853,7 @@
     {
       "name": "Dameon Pierce",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1875,8 +1875,44 @@
       "detail": ""
     },
     {
+      "name": "Jihaad Campbell",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Michael Carter II",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jonathan Greenard",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jalyx Hunt",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jonathan Jones",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Smael Mondon Jr.",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Moro Ojomo",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

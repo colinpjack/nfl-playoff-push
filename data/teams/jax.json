@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1814,14 +1814,26 @@
   },
   "injuries": [
     {
-      "name": "Montaric Brown",
-      "position": "CB",
+      "name": "Jakobi Meyers",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Antonio Johnson",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ruke Orhorhoro",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jahlani Tavai",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

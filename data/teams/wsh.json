@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1814,25 +1814,31 @@
   },
   "injuries": [
     {
+      "name": "John Bates",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Treylon Burks",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Jaylin Lane",
+      "name": "Stefon Diggs",
       "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Marcus Mariota",
-      "position": "QB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Terry McLaurin",
+      "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
@@ -1864,6 +1870,12 @@
     {
       "name": "Leo Chenal",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Terry McLaurin",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },

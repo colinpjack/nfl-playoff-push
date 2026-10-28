@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1827,6 +1827,18 @@
   },
   "injuries": [
     {
+      "name": "Garett Bolles",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Marvin Mims Jr.",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jaylen Waddle",
       "position": "WR",
       "status": "Questionable",
@@ -1841,12 +1853,6 @@
     {
       "name": "Talanoa Hufanga",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Pat Surtain II",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

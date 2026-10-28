@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:04:55.912969-04:00",
+  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1814,6 +1814,18 @@
   },
   "injuries": [
     {
+      "name": "Jahmyr Gibbs",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jacob Saylors",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Amon-Ra St. Brown",
       "position": "WR",
       "status": "Questionable",
@@ -1822,6 +1834,12 @@
     {
       "name": "Ennis Rakestraw Jr.",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyleik Williams",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
