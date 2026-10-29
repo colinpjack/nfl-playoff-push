@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:48:53.701529-04:00",
+  "generatedAt": "2026-10-29T05:50:48.532622-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -2094,8 +2094,8 @@
         "position": "DE",
         "jersey": "51",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685724.png",
-        "line": "32 \u00b7 7.5 SACK",
-        "value": "32",
+        "line": "33 \u00b7 7.5 SACK",
+        "value": "33",
         "statLabel": "TKL"
       },
       {
