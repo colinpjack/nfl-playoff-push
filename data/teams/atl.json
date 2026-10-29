@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1845,6 +1845,12 @@
       "detail": ""
     },
     {
+      "name": "Kendal Daniels",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Divine Deablo",
       "position": "LB",
       "status": "Questionable",
@@ -1853,6 +1859,12 @@
     {
       "name": "Samson Ebukam",
       "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "C.J. Henderson",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1877,6 +1889,18 @@
     {
       "name": "Avieon Terrell",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "A.J. Terrell Jr.",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cameron Thomas",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

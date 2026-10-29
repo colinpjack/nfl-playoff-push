@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1833,8 +1833,8 @@
       "detail": ""
     },
     {
-      "name": "Marvin Mims Jr.",
-      "position": "WR",
+      "name": "RJ Harvey",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1852,6 +1852,12 @@
     },
     {
       "name": "Talanoa Hufanga",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Brandon Jones",
       "position": "S",
       "status": "Questionable",
       "detail": ""

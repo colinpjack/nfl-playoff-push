@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1835,7 +1835,7 @@
     {
       "name": "Olaivavega Ioane",
       "position": "G",
-      "status": "Doubtful",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1857,12 +1857,6 @@
       "detail": ""
     },
     {
-      "name": "Ronnie Stanley",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kyle Hamilton",
       "position": "S",
       "status": "Questionable",
@@ -1875,20 +1869,8 @@
       "detail": ""
     },
     {
-      "name": "John Jenkins",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Roquan Smith",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Broderick Washington Jr.",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

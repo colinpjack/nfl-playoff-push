@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1827,14 +1827,14 @@
   },
   "injuries": [
     {
-      "name": "Brock Bowers",
-      "position": "TE",
+      "name": "DJ Glaze",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "DJ Glaze",
-      "position": "OT",
+      "name": "Jackson Powers-Johnson",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1853,12 +1853,6 @@
     {
       "name": "Patrick Johnson",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Quay Walker",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

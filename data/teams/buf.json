@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1820,6 +1820,12 @@
       "detail": ""
     },
     {
+      "name": "Ray Davis",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Dalton Kincaid",
       "position": "TE",
       "status": "Questionable",
@@ -1834,6 +1840,12 @@
     {
       "name": "Dee Alford",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joe Andreessen",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1856,20 +1868,8 @@
       "detail": ""
     },
     {
-      "name": "Ed Oliver",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "TJ Parker",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "T.J. Sanders",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

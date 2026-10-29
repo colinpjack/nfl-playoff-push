@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1821,7 +1821,7 @@
       "detail": ""
     },
     {
-      "name": "T.J. Edwards",
+      "name": "D'Marco Jackson",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
@@ -1907,7 +1907,7 @@
     {
       "name": "Anthony Johnson Jr.",
       "position": "S",
-      "status": "Injured Reserve",
+      "status": "Out",
       "detail": ""
     },
     {

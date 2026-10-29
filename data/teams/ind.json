@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
+  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1827,12 +1827,6 @@
   },
   "injuries": [
     {
-      "name": "Matt Goncalves",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Anthony Gould",
       "position": "WR",
       "status": "Questionable",
@@ -1853,18 +1847,6 @@
     {
       "name": "Bryce Boettcher",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Sauce Gardner",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tim Smith",
-      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
