@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:50:48.532622-04:00",
+  "generatedAt": "2026-10-29T12:53:03.360277-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -2034,10 +2034,10 @@
       },
       {
         "id": "4035369",
-        "name": "Jeffery Simmons",
-        "position": "DT",
-        "jersey": "98",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035369.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "38 \u00b7 4 SACK",
         "value": "38",
         "statLabel": "TKL"
