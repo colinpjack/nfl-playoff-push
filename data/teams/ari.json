@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
+  "generatedAt": "2026-10-28T22:48:53.701529-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1827,6 +1827,12 @@
   },
   "injuries": [
     {
+      "name": "Tyler Allgeier",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Carson Beck",
       "position": "QB",
       "status": "Questionable",
@@ -1851,6 +1857,30 @@
       "detail": ""
     },
     {
+      "name": "Elijah Wilkinson",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Michael Wilson",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kei'Trel Clark",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Zaven Collins",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Max Melton",
       "position": "CB",
       "status": "Questionable",
@@ -1859,6 +1889,12 @@
     {
       "name": "Walter Nolen III",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Mack Wilson Sr.",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

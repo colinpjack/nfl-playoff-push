@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T19:10:23.469223-04:00",
+  "generatedAt": "2026-10-28T22:48:53.701529-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1833,6 +1833,12 @@
       "detail": ""
     },
     {
+      "name": "Coleman Shelton",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Nate Landman",
       "position": "LB",
       "status": "Questionable",
@@ -1841,6 +1847,12 @@
     {
       "name": "Trent McDuffie",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joe Cardona",
+      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
