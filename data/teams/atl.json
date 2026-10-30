@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:32:14.718649-04:00",
+  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1817,13 +1817,7 @@
     {
       "name": "Brian Robinson Jr.",
       "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jawaan Taylor",
-      "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1845,12 +1839,6 @@
       "detail": ""
     },
     {
-      "name": "Kendal Daniels",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Divine Deablo",
       "position": "LB",
       "status": "Questionable",
@@ -1858,18 +1846,6 @@
     },
     {
       "name": "Samson Ebukam",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "C.J. Henderson",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "LaCale London",
       "position": "DE",
       "status": "Questionable",
       "detail": ""
@@ -1889,18 +1865,6 @@
     {
       "name": "Avieon Terrell",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "A.J. Terrell Jr.",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cameron Thomas",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

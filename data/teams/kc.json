@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:32:14.718649-04:00",
+  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1814,24 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "Travis Kelce",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaylon Moore",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Rashee Rice",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Mansoor Delane",
       "position": "CB",
       "status": "Questionable",
@@ -1840,6 +1822,12 @@
     {
       "name": "L'Jarius Sneed",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "R Mason Thomas",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

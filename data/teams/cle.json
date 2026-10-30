@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:32:14.718649-04:00",
+  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1833,50 +1833,14 @@
       "detail": ""
     },
     {
-      "name": "Elgton Jenkins",
-      "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Grant Delpit",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mason Graham",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mike Hall Jr.",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Myles Harden",
       "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Carson Schwesinger",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Daniel Thomas",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jared Verse",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

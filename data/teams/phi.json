@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:32:14.718649-04:00",
+  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1827,12 +1827,6 @@
   },
   "injuries": [
     {
-      "name": "Saquon Barkley",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Tank Bigsby",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1841,7 +1835,7 @@
     {
       "name": "Britain Covey",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1859,13 +1853,13 @@
     {
       "name": "DeVonta Smith",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Dontayvion Wicks",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1877,49 +1871,13 @@
     {
       "name": "Jihaad Campbell",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Michael Carter II",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marcus Epps",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jonathan Greenard",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jalyx Hunt",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jonathan Jones",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Moro Ojomo",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nolan Smith Jr.",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

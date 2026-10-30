@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:32:14.718649-04:00",
+  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1814,12 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "LeQuint Allen Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jakobi Meyers",
       "position": "WR",
       "status": "Questionable",
@@ -1828,25 +1822,7 @@
     {
       "name": "Antonio Johnson",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Ruke Orhorhoro",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jahlani Tavai",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Ross Matiscik",
-      "position": "LS",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

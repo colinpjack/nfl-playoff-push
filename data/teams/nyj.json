@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:32:14.718649-04:00",
+  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1835,7 +1835,7 @@
     {
       "name": "Max Mitchell",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1847,7 +1847,7 @@
     {
       "name": "David Bailey",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1859,13 +1859,13 @@
     {
       "name": "Joseph Ossai",
       "position": "DE",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "T'Vondre Sweat",
       "position": "DT",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
