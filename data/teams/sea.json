@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
+  "generatedAt": "2026-10-29T21:54:48.808607-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1530,7 +1530,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Panthers hold the No. 4 seed. A loss helps the cut line. The Packers hold the No. 7 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1827,6 +1827,12 @@
   },
   "injuries": [
     {
+      "name": "Anthony Bradford",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Zach Charbonnet",
       "position": "RB",
       "status": "Questionable",
@@ -1851,12 +1857,6 @@
       "detail": ""
     },
     {
-      "name": "Jadarian Price",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Rashid Shaheed",
       "position": "WR",
       "status": "Questionable",
@@ -1866,6 +1866,24 @@
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyrice Knight",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Uchenna Nwosu",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Patrick O'Connell",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1883,6 +1901,12 @@
     {
       "name": "Drake Thomas",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Leonard Williams",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1913,6 +1937,12 @@
     {
       "name": "Robbie Ouzts",
       "position": "FB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jadarian Price",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

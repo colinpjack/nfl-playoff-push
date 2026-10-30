@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
+  "generatedAt": "2026-10-29T21:54:48.808607-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1530,7 +1530,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Panthers hold the No. 4 seed. A loss helps the cut line. The Packers hold the No. 7 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1833,15 +1833,15 @@
       "detail": ""
     },
     {
-      "name": "Carson Beck",
-      "position": "QB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jalen Brooks",
       "position": "WR",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Hjalte Froholdt",
+      "position": "C",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1865,18 +1865,6 @@
     {
       "name": "Michael Wilson",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kei'Trel Clark",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Zaven Collins",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
+  "generatedAt": "2026-10-29T21:54:48.808607-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1546,7 +1546,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Panthers hold the No. 4 seed. A loss helps the cut line. A Packers loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
+  "generatedAt": "2026-10-29T21:54:48.808607-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1244,16 +1244,16 @@
       "conferenceGame": true,
       "venue": "Lambeau Field",
       "broadcast": "Prime Video",
-      "detail": "10/29 - 8:15 PM EDT",
-      "live": false,
+      "detail": "Halftime",
+      "live": true,
       "final": false,
       "winPct": 46,
       "homeAbbr": "GB",
       "awayAbbr": "CAR",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null
+      "homeScore": "20",
+      "awayScore": "10",
+      "usScore": "10",
+      "themScore": "20"
     },
     {
       "id": "401873041",
@@ -1546,7 +1546,7 @@
       "interest": "Panthers game",
       "tagClass": "jays",
       "note": "The Panthers are on the road against the Packers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1814,8 +1814,26 @@
   },
   "injuries": [
     {
+      "name": "AJ Dillon",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Haynes King",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Damien Lewis",
       "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ja'Tavion Sanders",
+      "position": "TE",
       "status": "Out",
       "detail": ""
     },
@@ -1828,13 +1846,13 @@
     {
       "name": "Bobby Brown III",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Akayleb Evans",
+      "name": "Will Lee III",
       "position": "CB",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1868,6 +1886,12 @@
       "detail": ""
     },
     {
+      "name": "Akayleb Evans",
+      "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Jaycee Horn",
       "position": "CB",
       "status": "Injured Reserve",
@@ -1895,12 +1919,6 @@
       "name": "Xavier Legette",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Bam Martin-Scott",
-      "position": "LB",
-      "status": "IR",
       "detail": ""
     },
     {

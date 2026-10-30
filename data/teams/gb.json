@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:45:35.551318-04:00",
+  "generatedAt": "2026-10-29T21:54:48.808607-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1244,16 +1244,16 @@
       "conferenceGame": true,
       "venue": "Lambeau Field",
       "broadcast": "Prime Video",
-      "detail": "10/29 - 8:15 PM EDT",
-      "live": false,
+      "detail": "Halftime",
+      "live": true,
       "final": false,
       "winPct": 54,
       "homeAbbr": "GB",
       "awayAbbr": "CAR",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null
+      "homeScore": "20",
+      "awayScore": "10",
+      "usScore": "20",
+      "themScore": "10"
     },
     {
       "id": "401873049",
@@ -1530,7 +1530,7 @@
       "interest": "Packers game",
       "tagClass": "jays",
       "note": "The Packers are at home against the Panthers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1833,9 +1833,15 @@
       "detail": ""
     },
     {
-      "name": "Matthew Golden",
-      "position": "WR",
-      "status": "Questionable",
+      "name": "Donovan Jennings",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kaleb Johnson",
+      "position": "RB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1845,14 +1851,14 @@
       "detail": ""
     },
     {
-      "name": "Anthony Campbell",
-      "position": "DT",
-      "status": "Questionable",
+      "name": "Jonnu Smith",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Brenton Cox Jr.",
-      "position": "DE",
+      "name": "Christian Watson",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
@@ -1860,18 +1866,6 @@
       "name": "Zaire Franklin",
       "position": "LB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Keisean Nixon",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Devonte Wyatt",
-      "position": "DT",
-      "status": "Questionable",
       "detail": ""
     },
     {
