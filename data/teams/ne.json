@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
+  "generatedAt": "2026-10-30T19:43:54.404922-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1833,26 +1833,20 @@
       "detail": ""
     },
     {
-      "name": "Ben Brown",
-      "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "TreVeyon Henderson",
       "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Morgan Moses",
-      "position": "OT",
+      "name": "Carlton Davis III",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "DaQuan Jones",
-      "position": "DT",
+      "name": "Christian Elliss",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

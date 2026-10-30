@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
+  "generatedAt": "2026-10-30T19:43:54.404922-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1814,12 +1814,6 @@
   },
   "injuries": [
     {
-      "name": "Nick Allegretti",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "John Bates",
       "position": "TE",
       "status": "Questionable",
@@ -1859,6 +1853,12 @@
       "name": "Charles Omenihu",
       "position": "DE",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Daron Payne",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {

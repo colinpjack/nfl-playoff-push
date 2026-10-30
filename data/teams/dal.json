@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:06:39.824593-04:00",
+  "generatedAt": "2026-10-30T19:43:54.404922-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1839,25 +1839,13 @@
       "detail": ""
     },
     {
-      "name": "Drew Shelton",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "KaVontae Turpin",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Caleb Downs",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Quinnen Williams",
+      "name": "Kenny Clark",
       "position": "DT",
       "status": "Questionable",
       "detail": ""
@@ -1865,7 +1853,7 @@
     {
       "name": "Dee Winters",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
