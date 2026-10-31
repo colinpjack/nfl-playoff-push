@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:16:18.839429-04:00",
+  "generatedAt": "2026-10-31T19:40:54.002096-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1863,12 +1863,6 @@
       "detail": ""
     },
     {
-      "name": "T'Vondre Sweat",
-      "position": "DT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Tyler Baron",
       "position": "DE",
       "status": "Out",
@@ -1931,6 +1925,12 @@
     {
       "name": "Arian Smith",
       "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "T'Vondre Sweat",
+      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },
