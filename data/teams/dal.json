@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:17:44.118909-04:00",
+  "generatedAt": "2026-10-31T16:16:18.839429-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1851,6 +1851,12 @@
       "detail": ""
     },
     {
+      "name": "P.J. Locke",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Dee Winters",
       "position": "LB",
       "status": "Out",
@@ -1889,12 +1895,6 @@
     {
       "name": "Marist Liufau",
       "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "P.J. Locke",
-      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },
