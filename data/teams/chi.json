@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:40:54.002096-04:00",
+  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1895,12 +1895,6 @@
     {
       "name": "Nephi Sewell",
       "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Anthony Johnson Jr.",
-      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },

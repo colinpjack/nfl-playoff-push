@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:40:54.002096-04:00",
+  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1820,12 +1820,6 @@
       "detail": ""
     },
     {
-      "name": "L'Jarius Sneed",
-      "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jeff Caldwell",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1864,6 +1858,12 @@
     {
       "name": "Brashard Smith",
       "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "L'Jarius Sneed",
+      "position": "CB",
       "status": "Injured Reserve",
       "detail": ""
     },

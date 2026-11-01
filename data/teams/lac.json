@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:40:54.002096-04:00",
+  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1838,12 +1838,6 @@
       "detail": ""
     },
     {
-      "name": "Derwin James Jr.",
-      "position": "S",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Deane Leonard",
       "position": "CB",
       "status": "Out",
@@ -1858,6 +1852,12 @@
     {
       "name": "Alec Ingold",
       "position": "FB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Derwin James Jr.",
+      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },
