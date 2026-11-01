@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
+  "generatedAt": "2026-11-01T13:32:15.622565-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Paycor Stadium",
       "broadcast": "CBS",
-      "detail": "11/1 - 1:00 PM EST",
-      "live": false,
+      "detail": "5:23 - 1st",
+      "live": true,
       "final": false,
       "winPct": 74,
       "homeAbbr": "CIN",
@@ -1546,7 +1546,7 @@
       "interest": "Bengals game",
       "tagClass": "jays",
       "note": "The Bengals are at home against the Titans.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1557,7 +1557,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Ravens loss helps the North race. The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1568,7 +1568,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Browns loss helps the North race. A Steelers loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1579,7 +1579,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1590,7 +1590,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T21:25Z",
@@ -1814,15 +1814,33 @@
   },
   "injuries": [
     {
+      "name": "Myles Hinton",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Connor Lew",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Mitchell Tinsley",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Kyle Dugger",
       "position": "S",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Joe Giles-Harris",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Landon Robinson",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {

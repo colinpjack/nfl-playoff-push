@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
+  "generatedAt": "2026-11-01T13:32:15.622565-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "AT&T Stadium",
       "broadcast": "Fox",
-      "detail": "11/1 - 1:00 PM EST",
-      "live": false,
+      "detail": "3:59 - 1st",
+      "live": true,
       "final": false,
       "winPct": 32,
       "homeAbbr": "DAL",
@@ -1530,7 +1530,7 @@
       "interest": "Cardinals game",
       "tagClass": "jays",
       "note": "The Cardinals are on the road against the Cowboys.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1541,7 +1541,7 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1552,7 +1552,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 1 seed. A loss helps the cut line. The Lions hold the No. 6 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T21:05Z",
@@ -1827,15 +1827,15 @@
   },
   "injuries": [
     {
-      "name": "Jalen Brooks",
-      "position": "WR",
-      "status": "Injured Reserve",
+      "name": "Carson Beck",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Hjalte Froholdt",
-      "position": "C",
-      "status": "Questionable",
+      "name": "Jalen Brooks",
+      "position": "WR",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1845,9 +1845,21 @@
       "detail": ""
     },
     {
-      "name": "Max Melton",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Evan Hull",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Albert Reese IV",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Eku Leota",
+      "position": "LB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1857,9 +1869,9 @@
       "detail": ""
     },
     {
-      "name": "Andrew Wingard",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Starling Thomas V",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {

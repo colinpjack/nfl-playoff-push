@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
+  "generatedAt": "2026-11-01T13:32:15.622565-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Acrisure Stadium",
       "broadcast": "CBS",
-      "detail": "11/1 - 1:00 PM EST",
-      "live": false,
+      "detail": "7:02 - 1st",
+      "live": true,
       "final": false,
       "winPct": 41,
       "homeAbbr": "PIT",
@@ -1530,7 +1530,7 @@
       "interest": "Browns game",
       "tagClass": "jays",
       "note": "The Browns are on the road against the Steelers.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1541,7 +1541,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Ravens loss helps the North race. The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1552,7 +1552,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Bengals loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1563,7 +1563,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1574,7 +1574,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T21:25Z",
@@ -1827,15 +1827,39 @@
   },
   "injuries": [
     {
-      "name": "Myles Harden",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Parker Brailsford",
+      "position": "C",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Daniel Thomas",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Audric Estime",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Dillon Gabriel",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Taylen Green",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Noah Igbinoghene",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Justin Jefferson",
+      "position": "LB",
+      "status": "Out",
       "detail": ""
     },
     {

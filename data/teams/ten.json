@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
+  "generatedAt": "2026-11-01T13:32:15.622565-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Paycor Stadium",
       "broadcast": "CBS",
-      "detail": "11/1 - 1:00 PM EST",
-      "live": false,
+      "detail": "6:37 - 1st",
+      "live": true,
       "final": false,
       "winPct": 26,
       "homeAbbr": "CIN",
@@ -1530,7 +1530,7 @@
       "interest": "Titans game",
       "tagClass": "jays",
       "note": "The Titans are on the road against the Bengals.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1541,7 +1541,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Colts loss helps the South race. A Jaguars loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1552,7 +1552,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1563,7 +1563,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Browns hold the No. 3 seed. A loss helps the cut line. The Steelers hold the No. 6 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1574,7 +1574,7 @@
       "interest": "AFC game",
       "tagClass": "race",
       "note": "Two clubs still in the AFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T21:25Z",
@@ -1827,9 +1827,15 @@
   },
   "injuries": [
     {
-      "name": "Calvin Ridley",
-      "position": "WR",
-      "status": "Questionable",
+      "name": "Brandon Crenshaw-Dickson",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kylen Granson",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1845,15 +1851,15 @@
       "detail": ""
     },
     {
-      "name": "John Franklin-Myers",
-      "position": "DE",
-      "status": "Questionable",
+      "name": "Jaylon Jones",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Jaylon Jones",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Jackie Marshall",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {

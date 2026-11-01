@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
+  "generatedAt": "2026-11-01T13:32:15.622565-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Ford Field",
       "broadcast": "Fox",
-      "detail": "11/1 - 1:00 PM EST",
-      "live": false,
+      "detail": "4:55 - 1st",
+      "live": true,
       "final": false,
       "winPct": 43,
       "homeAbbr": "DET",
@@ -1546,7 +1546,7 @@
       "interest": "Lions game",
       "tagClass": "jays",
       "note": "The Lions are at home against the Vikings.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1557,7 +1557,7 @@
       "interest": "NFC game",
       "tagClass": "race",
       "note": "Two clubs still in the NFC picture.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T21:05Z",
@@ -1814,9 +1814,33 @@
   },
   "injuries": [
     {
-      "name": "Roger McCreary",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Seth McLaughlin",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jackson Meeks",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Bishop Fitzgerald",
+      "position": "S",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ahmed Hassanein",
+      "position": "DE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Mekhi Wingo",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {

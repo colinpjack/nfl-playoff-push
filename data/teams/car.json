@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:54:24.430141-04:00",
+  "generatedAt": "2026-11-01T13:32:15.622565-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1518,7 +1518,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Falcons loss helps the South race. A Buccaneers loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T18:00Z",
@@ -1529,7 +1529,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 1 seed. A loss helps the cut line. The Lions hold the No. 6 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-01T21:05Z",
