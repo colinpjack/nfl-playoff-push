@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1818,24 +1818,12 @@
     {
       "name": "Zachariah Branch",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Andy Dalton",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },
     {
       "name": "Brian Robinson Jr.",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jack Strand",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },
@@ -1860,18 +1848,6 @@
     {
       "name": "Samson Ebukam",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Drake Jackson",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Robert Longerbeam",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

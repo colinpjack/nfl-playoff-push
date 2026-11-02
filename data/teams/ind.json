@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1828,38 +1828,14 @@
   },
   "injuries": [
     {
-      "name": "Pharaoh Brown",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Anthony Gould",
       "position": "WR",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Charlie Heck",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Riley Leonard",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Bryce Boettcher",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kevin Givens",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

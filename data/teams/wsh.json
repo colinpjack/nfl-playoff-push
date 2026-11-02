@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1821,21 +1821,9 @@
       "detail": ""
     },
     {
-      "name": "Athan Kaliakmanis",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Tanoa Togiai",
-      "position": "G",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1851,20 +1839,8 @@
       "detail": ""
     },
     {
-      "name": "Fabian Moreau",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Daron Payne",
       "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Isaac Yiadom",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

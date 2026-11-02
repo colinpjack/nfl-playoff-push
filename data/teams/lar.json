@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1828,32 +1828,8 @@
   },
   "injuries": [
     {
-      "name": "Bill Murray",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Colby Parkinson",
       "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ty Simpson",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Keagen Trost",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Desjuan Johnson",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

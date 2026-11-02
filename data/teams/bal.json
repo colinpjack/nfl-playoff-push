@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1830,7 +1830,7 @@
     {
       "name": "Joe Fagnano",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1858,38 +1858,14 @@
       "detail": ""
     },
     {
-      "name": "Emery Jones Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Ethan Pocic",
       "position": "C",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Elijah Sarratt",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jaylinn Hawkins",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Aeneas Peebles",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Chandler Rivers",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

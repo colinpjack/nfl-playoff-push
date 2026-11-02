@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1828,12 +1828,6 @@
   },
   "injuries": [
     {
-      "name": "Carson Beck",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kendrick Bourne",
       "position": "WR",
       "status": "Questionable",
@@ -1852,12 +1846,6 @@
       "detail": ""
     },
     {
-      "name": "Evan Hull",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Bam Knight",
       "position": "RB",
       "status": "Questionable",
@@ -1867,12 +1855,6 @@
       "name": "Jeremiyah Love",
       "position": "RB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Albert Reese IV",
-      "position": "OT",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1888,20 +1870,8 @@
       "detail": ""
     },
     {
-      "name": "Eku Leota",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Walter Nolen III",
       "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Starling Thomas V",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

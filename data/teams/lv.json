@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1827,48 +1827,6 @@
     "elimRival": "DEN"
   },
   "injuries": [
-    {
-      "name": "Malik Benson",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Bryce Cabeldue",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Aidan O'Connell",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dont'e Thornton Jr.",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dalton Johnson",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tristin McCollum",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "JJ Pegues",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
     {
       "name": "Darien Porter",
       "position": "CB",

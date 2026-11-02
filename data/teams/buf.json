@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1815,12 +1815,6 @@
   },
   "injuries": [
     {
-      "name": "Skyler Bell",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Spencer Brown",
       "position": "OT",
       "status": "Out",
@@ -1839,20 +1833,8 @@
       "detail": ""
     },
     {
-      "name": "Ar'maj Reed-Adams",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Dee Alford",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mike Danna",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },
@@ -1866,12 +1848,6 @@
       "name": "C.J. Gardner-Johnson",
       "position": "S",
       "status": "Suspension",
-      "detail": ""
-    },
-    {
-      "name": "Jalon Kilgore",
-      "position": "S",
-      "status": "Out",
       "detail": ""
     },
     {

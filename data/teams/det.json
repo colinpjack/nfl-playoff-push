@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:22:36.831631-05:00",
+  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1815,18 +1815,6 @@
   },
   "injuries": [
     {
-      "name": "Seth McLaughlin",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jackson Meeks",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jacob Saylors",
       "position": "RB",
       "status": "Questionable",
@@ -1845,18 +1833,6 @@
       "detail": ""
     },
     {
-      "name": "Bishop Fitzgerald",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ahmed Hassanein",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "D.J. Reed",
       "position": "CB",
       "status": "Questionable",
@@ -1866,12 +1842,6 @@
       "name": "Jimmy Rolder",
       "position": "LB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mekhi Wingo",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {
