@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:00:08.923505-05:00",
+  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1824,7 +1824,7 @@
     {
       "name": "Brian Robinson Jr.",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1836,13 +1836,13 @@
     {
       "name": "Billy Bowman Jr.",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Divine Deablo",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

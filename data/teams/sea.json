@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:00:08.923505-05:00",
+  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1830,31 +1830,25 @@
     {
       "name": "Charles Cross",
       "position": "OT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Velus Jones Jr.",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Drew Lock",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Rashid Shaheed",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Beau Stephens",
-      "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1866,13 +1860,13 @@
     {
       "name": "Uchenna Nwosu",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Brandon Pili",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

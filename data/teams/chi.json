@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:00:08.923505-05:00",
+  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1816,21 +1816,9 @@
   },
   "injuries": [
     {
-      "name": "Case Keenum",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jordan McFadden",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Kyle Monangai",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1840,27 +1828,15 @@
       "detail": ""
     },
     {
-      "name": "Jayden Loving",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Malik Muhammad II",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Kentavius Street",
       "position": "DT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jordan van den Berg",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {

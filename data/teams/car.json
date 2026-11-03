@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:00:08.923505-05:00",
+  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1827,39 +1827,21 @@
       "detail": ""
     },
     {
-      "name": "AJ Dillon",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Haynes King",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Damien Lewis",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Torricelli Simpkins III",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Bobby Brown III",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1871,7 +1853,7 @@
     {
       "name": "Jaelan Phillips",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

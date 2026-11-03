@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:00:08.923505-05:00",
+  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1817,7 +1817,7 @@
     {
       "name": "Spencer Brown",
       "position": "OT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1835,13 +1835,13 @@
     {
       "name": "Dee Alford",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Greg Gaines",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
