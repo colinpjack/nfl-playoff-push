@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
+  "generatedAt": "2026-11-03T18:15:01.471863-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1836,7 +1836,7 @@
     {
       "name": "Max Mitchell",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1866,7 +1866,7 @@
     {
       "name": "Tre Brown",
       "position": "CB",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {

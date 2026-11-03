@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:46:19.785650-05:00",
+  "generatedAt": "2026-11-03T18:15:01.471863-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1828,12 +1828,6 @@
   },
   "injuries": [
     {
-      "name": "Kendrick Bourne",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jalen Brooks",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1847,12 +1841,6 @@
     },
     {
       "name": "Bam Knight",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jeremiyah Love",
       "position": "RB",
       "status": "Questionable",
       "detail": ""
@@ -1900,6 +1888,12 @@
       "detail": ""
     },
     {
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Zachary Carter",
       "position": "DT",
       "status": "Injured Reserve",
@@ -1930,6 +1924,12 @@
       "detail": ""
     },
     {
+      "name": "Jeremiyah Love",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Josh Minkins",
       "position": "S",
       "status": "Questionable",
@@ -1951,6 +1951,12 @@
       "name": "Xavier Weaver",
       "position": "WR",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kenny Yeboah",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     }
   ],
