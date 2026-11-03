@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
+  "generatedAt": "2026-11-02T21:13:44.531935-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1840,6 +1840,12 @@
       "detail": ""
     },
     {
+      "name": "Justice Hill",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Tyler Huntley",
       "position": "QB",
       "status": "Questionable",
@@ -1864,14 +1870,44 @@
       "detail": ""
     },
     {
+      "name": "Roger Rosengarten",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Simpson",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jaylinn Hawkins",
       "position": "S",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Nate Wiggins",
-      "position": "CB",
+      "name": "Trey Hendrickson",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Jenkins",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Roquan Smith",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyler Loop",
+      "position": "PK",
       "status": "Questionable",
       "detail": ""
     },

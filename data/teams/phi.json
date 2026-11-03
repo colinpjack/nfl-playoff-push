@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
+  "generatedAt": "2026-11-02T21:13:44.531935-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1502,7 +1502,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bears hold the No. 6 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-08T18:00Z",

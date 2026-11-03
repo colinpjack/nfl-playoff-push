@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
+  "generatedAt": "2026-11-02T21:13:44.531935-05:00",
   "season": 2026,
   "week": 8,
   "weekLabel": "Week 8 \u00b7 2026",
@@ -3536,8 +3536,8 @@
       "id": "401873036",
       "date": "2026-11-03T01:15Z",
       "week": 8,
-      "status": "Mon, Nov 2 \u00b7 8:15 PM",
-      "live": false,
+      "status": "6:07 - 2nd",
+      "live": true,
       "completed": false,
       "venue": "Lumen Field",
       "broadcast": "ESPN",

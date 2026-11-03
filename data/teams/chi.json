@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:45:06.653511-05:00",
+  "generatedAt": "2026-11-02T21:13:44.531935-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "Lumen Field",
       "broadcast": "ESPN",
-      "detail": "11/2 - 8:15 PM EST",
-      "live": false,
+      "detail": "6:07 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 45,
       "homeAbbr": "SEA",
@@ -1518,7 +1518,7 @@
       "interest": "Bears game",
       "tagClass": "jays",
       "note": "The Bears are on the road against the Seahawks.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-08T18:00Z",
@@ -1815,21 +1815,39 @@
   },
   "injuries": [
     {
+      "name": "Case Keenum",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jordan McFadden",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Kyle Monangai",
       "position": "RB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "D'Marco Jackson",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Jayden Loving",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Malik Muhammad II",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jordan van den Berg",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
