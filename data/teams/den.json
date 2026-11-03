@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:13:44.531935-05:00",
+  "generatedAt": "2026-11-03T05:00:08.923505-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -102,11 +102,11 @@
     }
   },
   "playoffOdds": {
-    "percent": 81.3,
+    "percent": 81.56,
     "sims": 5000,
-    "note": "Division title in 40.6% of sims, wild card in 40.7%. Point differential, shrunk toward average, plus home field. Not a betting line.",
-    "divisionPercent": 40.56,
-    "wildcardPercent": 40.74
+    "note": "Division title in 39.6% of sims, wild card in 42.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "divisionPercent": 39.56,
+    "wildcardPercent": 42.0
   },
   "kpis": [
     {
@@ -273,8 +273,8 @@
       "ypg": 404.6,
       "yapg": 366.4,
       "to": -2,
-      "playoffPct": 93.28,
-      "powerRank": 4,
+      "playoffPct": 92.98,
+      "powerRank": 5,
       "gb": "+1.5",
       "gbValue": -1.5,
       "path": "East champ",
@@ -309,7 +309,7 @@
       "ypg": 279.2,
       "yapg": 374.5,
       "to": 4,
-      "playoffPct": 81.3,
+      "playoffPct": 81.56,
       "powerRank": 10,
       "gb": "+1",
       "gbValue": -1.0,
@@ -345,8 +345,8 @@
       "ypg": 351.8,
       "yapg": 325.9,
       "to": 5,
-      "playoffPct": 87.16,
-      "powerRank": 5,
+      "playoffPct": 87.08,
+      "powerRank": 6,
       "gb": "+1",
       "gbValue": -1.0,
       "path": "North champ",
@@ -381,7 +381,7 @@
       "ypg": 365.4,
       "yapg": 341.7,
       "to": 7,
-      "playoffPct": 98.18,
+      "playoffPct": 98.0,
       "powerRank": 1,
       "gb": "+0.5",
       "gbValue": -0.5,
@@ -417,7 +417,7 @@
       "ypg": 390.6,
       "yapg": 324.7,
       "to": 5,
-      "playoffPct": 86.48,
+      "playoffPct": 86.46,
       "powerRank": 15,
       "gb": "+0.5",
       "gbValue": -0.5,
@@ -453,7 +453,7 @@
       "ypg": 382.4,
       "yapg": 383.3,
       "to": 1,
-      "playoffPct": 87.54,
+      "playoffPct": 87.42,
       "powerRank": 2,
       "gb": "+0.5",
       "gbValue": -0.5,
@@ -489,7 +489,7 @@
       "ypg": 376.8,
       "yapg": 328.1,
       "to": -7,
-      "playoffPct": 75.96,
+      "playoffPct": 75.18,
       "powerRank": 14,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -525,7 +525,7 @@
       "ypg": 323.6,
       "yapg": 341.5,
       "to": -1,
-      "playoffPct": 34.08,
+      "playoffPct": 33.56,
       "powerRank": 25,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -561,7 +561,7 @@
       "ypg": 350.4,
       "yapg": 397.1,
       "to": 5,
-      "playoffPct": 27.72,
+      "playoffPct": 28.8,
       "powerRank": 20,
       "gb": "1",
       "gbValue": 1.0,
@@ -597,7 +597,7 @@
       "ypg": 356.6,
       "yapg": 344.6,
       "to": 0,
-      "playoffPct": 12.72,
+      "playoffPct": 12.96,
       "powerRank": 29,
       "gb": "1",
       "gbValue": 1.0,
@@ -633,7 +633,7 @@
       "ypg": 351.4,
       "yapg": 360.7,
       "to": 3,
-      "playoffPct": 12.52,
+      "playoffPct": 13.08,
       "powerRank": 12,
       "gb": "2.5",
       "gbValue": 2.5,
@@ -669,7 +669,7 @@
       "ypg": 344.2,
       "yapg": 332.0,
       "to": 2,
-      "playoffPct": 2.04,
+      "playoffPct": 1.9,
       "powerRank": 23,
       "gb": "3",
       "gbValue": 3.0,
@@ -705,7 +705,7 @@
       "ypg": 310.2,
       "yapg": 358.0,
       "to": -11,
-      "playoffPct": 0.62,
+      "playoffPct": 0.7,
       "powerRank": 30,
       "gb": "3",
       "gbValue": 3.0,
@@ -741,7 +741,7 @@
       "ypg": 304.4,
       "yapg": 344.0,
       "to": -3,
-      "playoffPct": 0.24,
+      "playoffPct": 0.2,
       "powerRank": 28,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -777,7 +777,7 @@
       "ypg": 284.9,
       "yapg": 396.9,
       "to": -1,
-      "playoffPct": 0.16,
+      "playoffPct": 0.12,
       "powerRank": 24,
       "gb": "4",
       "gbValue": 4.0,
@@ -851,7 +851,7 @@
       "ypg": 279.2,
       "yapg": 374.5,
       "to": 4,
-      "playoffPct": 81.3,
+      "playoffPct": 81.56,
       "powerRank": 10,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -888,7 +888,7 @@
       "ypg": 390.6,
       "yapg": 324.7,
       "to": 5,
-      "playoffPct": 86.48,
+      "playoffPct": 86.46,
       "powerRank": 15,
       "gb": "0.5",
       "gbValue": 0.5,
@@ -925,7 +925,7 @@
       "ypg": 350.4,
       "yapg": 397.1,
       "to": 5,
-      "playoffPct": 27.72,
+      "playoffPct": 28.8,
       "powerRank": 20,
       "gb": "2",
       "gbValue": 2.0,
@@ -1001,8 +1001,8 @@
       "ypg": 404.6,
       "yapg": 366.4,
       "to": -2,
-      "playoffPct": 93.28,
-      "powerRank": 4
+      "playoffPct": 92.98,
+      "powerRank": 5
     },
     {
       "abbr": "PIT",
@@ -1031,8 +1031,8 @@
       "ypg": 351.8,
       "yapg": 325.9,
       "to": 5,
-      "playoffPct": 87.16,
-      "powerRank": 5
+      "playoffPct": 87.08,
+      "powerRank": 6
     },
     {
       "abbr": "JAX",
@@ -1061,7 +1061,7 @@
       "ypg": 365.4,
       "yapg": 341.7,
       "to": 7,
-      "playoffPct": 98.18,
+      "playoffPct": 98.0,
       "powerRank": 1
     },
     {
@@ -1091,7 +1091,7 @@
       "ypg": 279.2,
       "yapg": 374.5,
       "to": 4,
-      "playoffPct": 81.3,
+      "playoffPct": 81.56,
       "powerRank": 10
     }
   ],
@@ -1124,7 +1124,7 @@
       "ypg": 279.2,
       "yapg": 374.5,
       "to": 4,
-      "playoffPct": 81.3,
+      "playoffPct": 81.56,
       "powerRank": 10
     },
     {
@@ -1154,7 +1154,7 @@
       "ypg": 390.6,
       "yapg": 324.7,
       "to": 5,
-      "playoffPct": 86.48,
+      "playoffPct": 86.46,
       "powerRank": 15
     },
     {
@@ -1184,7 +1184,7 @@
       "ypg": 350.4,
       "yapg": 397.1,
       "to": 5,
-      "playoffPct": 27.72,
+      "playoffPct": 28.8,
       "powerRank": 20
     },
     {
@@ -1738,8 +1738,8 @@
         "name": "Seattle Seahawks",
         "nickname": "Seahawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-        "record": "4-3",
-        "pct": 0.5714285714285714
+        "record": "4-4",
+        "pct": 0.5
       },
       "divisionGame": false,
       "conferenceGame": false,
