@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:31:20.386151-05:00",
+  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1827,6 +1827,18 @@
     "elimRival": "PIT"
   },
   "injuries": [
+    {
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Quincy Williams",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
     {
       "name": "Elijah Chatman",
       "position": "DT",
