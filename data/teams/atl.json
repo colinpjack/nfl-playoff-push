@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:12:37.089633-05:00",
+  "generatedAt": "2026-11-04T06:31:20.386151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1846,12 +1846,6 @@
       "detail": ""
     },
     {
-      "name": "Samson Ebukam",
-      "position": "DE",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jalon Walker",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1866,6 +1860,12 @@
     {
       "name": "Beaux Collins",
       "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Samson Ebukam",
+      "position": "DE",
       "status": "Injured Reserve",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:12:37.089633-05:00",
+  "generatedAt": "2026-11-04T06:31:20.386151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -2018,10 +2018,10 @@
       },
       {
         "id": "4034953",
-        "name": "C.J. Gardner-Johnson",
-        "position": "S",
-        "jersey": "22",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "26 \u00b7 1 INT",
         "value": "26",
         "statLabel": "TKL"

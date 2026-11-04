@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:12:37.089633-05:00",
+  "generatedAt": "2026-11-04T06:31:20.386151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1845,12 +1845,6 @@
       "detail": ""
     },
     {
-      "name": "DaVon Hamilton",
-      "position": "DT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Antonio Johnson",
       "position": "S",
       "status": "Questionable",
@@ -1860,12 +1854,6 @@
       "name": "Jarrian Jones",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Eric Murray",
-      "position": "S",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1899,6 +1887,12 @@
       "detail": ""
     },
     {
+      "name": "DaVon Hamilton",
+      "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Anton Harrison",
       "position": "OT",
       "status": "Injured Reserve",
@@ -1919,6 +1913,12 @@
     {
       "name": "Patrick Mekari",
       "position": "G",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Eric Murray",
+      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },

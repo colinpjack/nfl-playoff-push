@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:12:37.089633-05:00",
+  "generatedAt": "2026-11-04T06:31:20.386151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1834,12 +1834,6 @@
       "detail": ""
     },
     {
-      "name": "Max Mitchell",
-      "position": "OT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "David Bailey",
       "position": "LB",
       "status": "Questionable",
@@ -1861,12 +1855,6 @@
       "name": "Tyler Baron",
       "position": "DE",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tre Brown",
-      "position": "CB",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1896,6 +1884,12 @@
     {
       "name": "Braiden McGregor",
       "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Max Mitchell",
+      "position": "OT",
       "status": "Injured Reserve",
       "detail": ""
     },
