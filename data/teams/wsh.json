@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
+  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1815,6 +1815,24 @@
   },
   "injuries": [
     {
+      "name": "John Bates",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Treylon Burks",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Sam Cosmi",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1830,6 +1848,12 @@
       "name": "Javontae Jean-Baptiste",
       "position": "LB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Shy Tuttle",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {

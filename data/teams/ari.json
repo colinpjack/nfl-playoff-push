@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
+  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -2073,8 +2073,8 @@
         "position": "LB",
         "jersey": "1",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040983.png",
-        "line": "55",
-        "value": "55",
+        "line": "56",
+        "value": "56",
         "statLabel": "TKL"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
+  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1888,12 +1888,6 @@
       "detail": ""
     },
     {
-      "name": "Carter Runyon",
-      "position": "TE",
-      "status": "IR",
-      "detail": ""
-    },
-    {
       "name": "Tyler Scott",
       "position": "WR",
       "status": "Questionable",
@@ -1977,10 +1971,10 @@
       },
       {
         "id": "4241983",
-        "name": "Cody White",
-        "position": "WR",
-        "jersey": "82",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241983.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "8 REC, 112 YDS, 3 TD",
         "value": "112",
         "statLabel": "YDS"
