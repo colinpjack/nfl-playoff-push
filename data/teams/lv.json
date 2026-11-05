@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1828,6 +1828,24 @@
   },
   "injuries": [
     {
+      "name": "Ian Thomas",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Thomas Booker IV",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Folorunso Fatukasi",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Darien Porter",
       "position": "CB",
       "status": "Questionable",
@@ -1872,7 +1890,7 @@
     {
       "name": "Carter Runyon",
       "position": "TE",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {

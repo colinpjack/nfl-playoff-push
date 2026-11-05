@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1829,6 +1829,18 @@
     {
       "name": "Brenen Thompson",
       "position": "WR",
+      "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Bud Dupree",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Daiyan Henley",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1847,6 +1859,12 @@
     {
       "name": "Rodney Shelley",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kendall Williamson",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

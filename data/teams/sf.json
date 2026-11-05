@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1827,6 +1827,12 @@
       "detail": ""
     },
     {
+      "name": "Christian Kirk",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Christian McCaffrey",
       "position": "RB",
       "status": "Questionable",
@@ -1847,6 +1853,12 @@
     {
       "name": "Luke Gifford",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Siran Neal",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1814,6 +1814,24 @@
     "elimRival": "DEN"
   },
   "injuries": [
+    {
+      "name": "Travis Kelce",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Nikko Remigio",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Rashee Rice",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
     {
       "name": "Mansoor Delane",
       "position": "CB",

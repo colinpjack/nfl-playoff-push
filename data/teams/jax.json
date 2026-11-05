@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1815,44 +1815,8 @@
   },
   "injuries": [
     {
-      "name": "Ezra Cleveland",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Bhayshul Tuten",
       "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Branson Combs",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Antonio Johnson",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jarrian Jones",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

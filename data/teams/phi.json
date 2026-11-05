@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1828,6 +1828,12 @@
   },
   "injuries": [
     {
+      "name": "Saquon Barkley",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Tank Bigsby",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1882,8 +1888,26 @@
       "detail": ""
     },
     {
+      "name": "Jonathan Greenard",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jalyx Hunt",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jonathan Jones",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jake Elliott",
+      "position": "PK",
       "status": "Questionable",
       "detail": ""
     },

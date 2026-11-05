@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:51:09.144068-05:00",
+  "generatedAt": "2026-11-04T19:19:59.527533-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1828,8 +1828,50 @@
   },
   "injuries": [
     {
+      "name": "Austin Barber",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Denzel Boston",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Elgton Jenkins",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Deshaun Watson",
       "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Maliek Collins",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Myles Harden",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Carson Schwesinger",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jared Verse",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
