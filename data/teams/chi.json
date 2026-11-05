@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
+  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1828,8 +1828,8 @@
       "detail": ""
     },
     {
-      "name": "Zavier Scott",
-      "position": "RB",
+      "name": "D'Marco Jackson",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1902,6 +1902,12 @@
     {
       "name": "Dayo Odeyingbo",
       "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Zavier Scott",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

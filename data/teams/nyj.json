@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
+  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1834,20 +1834,8 @@
       "detail": ""
     },
     {
-      "name": "Mason Taylor",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Garrett Wilson",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "David Bailey",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

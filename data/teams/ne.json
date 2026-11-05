@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
+  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1852,12 +1852,6 @@
       "detail": ""
     },
     {
-      "name": "Christian Barmore",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kevin Byard",
       "position": "S",
       "status": "Questionable",
@@ -1878,6 +1872,18 @@
     {
       "name": "Dre'Mont Jones",
       "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Marcus Jones",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Brenden Schooler",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

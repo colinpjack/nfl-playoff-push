@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
+  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1828,14 +1828,8 @@
   },
   "injuries": [
     {
-      "name": "Emeka Egbuka",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kenny Gainwell",
-      "position": "RB",
+      "name": "Tristan Wirfs",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:20:48.364498-05:00",
+  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1840,8 +1840,8 @@
       "detail": ""
     },
     {
-      "name": "Elgton Jenkins",
-      "position": "C",
+      "name": "Harold Fannin Jr.",
+      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1858,20 +1858,14 @@
       "detail": ""
     },
     {
-      "name": "Myles Harden",
-      "position": "CB",
+      "name": "Emmanuel McNeil-Warren",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Carson Schwesinger",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jared Verse",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
