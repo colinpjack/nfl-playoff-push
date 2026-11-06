@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1828,12 +1828,6 @@
   },
   "injuries": [
     {
-      "name": "Saquon Barkley",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Tank Bigsby",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1842,7 +1836,7 @@
     {
       "name": "Britain Covey",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1866,13 +1860,13 @@
     {
       "name": "DeVonta Smith",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Dontayvion Wicks",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

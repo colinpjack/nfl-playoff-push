@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1817,13 +1817,13 @@
     {
       "name": "Mansoor Delane",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Peter Woods",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

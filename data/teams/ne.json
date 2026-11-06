@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1830,13 +1830,13 @@
     {
       "name": "A.J. Brown",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "TreVeyon Henderson",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1852,32 +1852,8 @@
       "detail": ""
     },
     {
-      "name": "Kevin Byard",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Carlton Davis III",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Gabe Jacas",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Dre'Mont Jones",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marcus Jones",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

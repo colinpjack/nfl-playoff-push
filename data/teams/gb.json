@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1828,15 +1828,9 @@
   },
   "injuries": [
     {
-      "name": "Aaron Banks",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Travis Glover",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1848,25 +1842,19 @@
     {
       "name": "Sean Rhyan",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Christian Watson",
-      "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Josh Whyle",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Zaire Franklin",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

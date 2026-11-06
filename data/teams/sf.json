@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1823,25 +1823,19 @@
     {
       "name": "Mike Evans",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Christian Kirk",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Christian McCaffrey",
-      "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

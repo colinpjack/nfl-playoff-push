@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1836,25 +1836,19 @@
     {
       "name": "Jon Gaines II",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Bam Knight",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jayden Williams",
       "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Michael Wilson",
-      "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

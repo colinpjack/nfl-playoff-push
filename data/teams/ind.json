@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1828,27 +1828,27 @@
   },
   "injuries": [
     {
-      "name": "Anthony Gould",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Drew Ogletree",
-      "position": "TE",
+      "name": "Jalen Travis",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Akeem Davis-Gaither",
       "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "A.J. Haulcy",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Justin Walley",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

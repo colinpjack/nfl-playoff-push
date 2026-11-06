@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
+  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1816,31 +1816,19 @@
   },
   "injuries": [
     {
-      "name": "Theo Benedet",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Kyle Monangai",
       "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "D'Marco Jackson",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Grady Jarrett",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Malik Muhammad II",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyrique Stevenson Sr.",
       "position": "CB",
       "status": "Questionable",
       "detail": ""
