@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:49:26.848187-05:00",
+  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1827,6 +1827,12 @@
     "elimRival": "CAR"
   },
   "injuries": [
+    {
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
     {
       "name": "Tristan Wirfs",
       "position": "OT",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:49:26.848187-05:00",
+  "generatedAt": "2026-11-06T12:26:41.567242-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1971,10 +1971,10 @@
     "quarterback": [
       {
         "id": "2578570",
-        "name": "Jacoby Brissett",
-        "position": "QB",
-        "jersey": "7",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2578570.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "193/305, 1719 YDS, 10 TD, 7 INT",
         "value": "79.7",
         "statLabel": "RTG"
