@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1876,8 +1876,14 @@
       "detail": ""
     },
     {
-      "name": "Dee Winters",
+      "name": "DeMarvion Overshown",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joey Porter Jr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1518,7 +1518,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-08T14:30Z",
@@ -1814,12 +1814,6 @@
     "elimRival": "DEN"
   },
   "injuries": [
-    {
-      "name": "Nikko Remigio",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
     {
       "name": "Mansoor Delane",
       "position": "CB",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1518,7 +1518,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Jaguars loss helps the South race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-08T14:30Z",
@@ -1815,12 +1815,6 @@
   },
   "injuries": [
     {
-      "name": "Brevin Jordan",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jawhar Jordan",
       "position": "RB",
       "status": "Out",
@@ -1836,18 +1830,6 @@
       "name": "Jaylin Noel",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Braden Smith",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Azeez Al-Shaair",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {

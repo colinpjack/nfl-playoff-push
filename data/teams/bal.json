@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1244,8 +1244,8 @@
       "conferenceGame": true,
       "venue": "M&T Bank Stadium",
       "broadcast": "Prime Video",
-      "detail": "11/5 - 8:15 PM EST",
-      "live": false,
+      "detail": "2:04 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 31,
       "homeAbbr": "BAL",
@@ -1502,7 +1502,7 @@
       "interest": "Ravens game",
       "tagClass": "jays",
       "note": "The Ravens are at home against the Jaguars.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-08T14:30Z",
@@ -1834,15 +1834,9 @@
       "detail": ""
     },
     {
-      "name": "Tyler Huntley",
-      "position": "QB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Lamar Jackson",
-      "position": "QB",
-      "status": "Injured Reserve",
+      "name": "Emery Jones Jr.",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1852,15 +1846,45 @@
       "detail": ""
     },
     {
+      "name": "Elijah Sarratt",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kedon Slovis",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Jaylinn Hawkins",
       "position": "S",
       "status": "Out",
       "detail": ""
     },
     {
+      "name": "Aeneas Peebles",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Nate Wiggins",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyler Huntley",
+      "position": "QB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

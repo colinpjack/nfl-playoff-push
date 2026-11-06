@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "week": 9,
   "weekLabel": "Week 9 \u00b7 2026",
@@ -3172,8 +3172,8 @@
       "id": "401873037",
       "date": "2026-11-06T01:15Z",
       "week": 9,
-      "status": "Thu, Nov 5 \u00b7 8:15 PM",
-      "live": false,
+      "status": "2:04 - 2nd",
+      "live": true,
       "completed": false,
       "venue": "M&T Bank Stadium",
       "broadcast": "Prime Video",

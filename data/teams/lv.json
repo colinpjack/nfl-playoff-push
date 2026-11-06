@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1502,7 +1502,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 4 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-08T14:30Z",
@@ -1828,19 +1828,13 @@
   },
   "injuries": [
     {
-      "name": "Ian Thomas",
-      "position": "TE",
+      "name": "Dont'e Thornton Jr.",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Thomas Booker IV",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Folorunso Fatukasi",
       "position": "DT",
       "status": "Questionable",
       "detail": ""
@@ -1971,10 +1965,10 @@
       },
       {
         "id": "4241983",
-        "name": "Player",
-        "position": "",
-        "jersey": "",
-        "headshot": "",
+        "name": "Cody White",
+        "position": "WR",
+        "jersey": "82",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241983.png",
         "line": "8 REC, 112 YDS, 3 TD",
         "value": "112",
         "statLabel": "YDS"

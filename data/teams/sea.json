@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:56:59.124389-05:00",
+  "generatedAt": "2026-11-05T21:20:39.277884-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1828,12 +1828,6 @@
   },
   "injuries": [
     {
-      "name": "Anthony Bradford",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Charles Cross",
       "position": "OT",
       "status": "Questionable",
@@ -1873,6 +1867,18 @@
       "name": "Terrion Arnold",
       "position": "CB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Derick Hall",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ernest Jones IV",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
