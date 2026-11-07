@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:12:56.146651-05:00",
+  "generatedAt": "2026-11-07T15:11:18.603662-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1821,39 +1821,15 @@
       "detail": ""
     },
     {
-      "name": "Spencer Brown",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Keon Coleman",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Dion Dawkins",
       "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "DJ Moore",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Joshua Palmer",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Sam Franklin Jr.",
-      "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

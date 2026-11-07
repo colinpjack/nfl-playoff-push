@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:12:56.146651-05:00",
+  "generatedAt": "2026-11-07T15:11:18.603662-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1852,12 +1852,6 @@
       "detail": ""
     },
     {
-      "name": "Malachi Lawrence",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "DeMarvion Overshown",
       "position": "LB",
       "status": "Questionable",
@@ -1900,9 +1894,15 @@
       "detail": ""
     },
     {
-      "name": "Marist Liufau",
+      "name": "Malachi Lawrence",
       "position": "LB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Marist Liufau",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
