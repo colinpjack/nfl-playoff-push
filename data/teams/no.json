@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:11:18.603662-05:00",
+  "generatedAt": "2026-11-07T18:55:31.436866-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1835,7 +1835,7 @@
     {
       "name": "Kelvin Banks Jr.",
       "position": "OT",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1883,7 +1883,7 @@
     {
       "name": "Jordyn Tyson",
       "position": "WR",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1940,10 +1940,10 @@
       },
       {
         "id": "4599739",
-        "name": "Kendre Miller",
-        "position": "RB",
-        "jersey": "5",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4599739.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "57 CAR, 159 YDS, 2 TD",
         "value": "159",
         "statLabel": "YDS"

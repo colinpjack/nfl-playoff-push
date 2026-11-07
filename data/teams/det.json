@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:11:18.603662-05:00",
+  "generatedAt": "2026-11-07T18:55:31.436866-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1833,12 +1833,6 @@
       "detail": ""
     },
     {
-      "name": "Jack Campbell",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "D.J. Reed",
       "position": "CB",
       "status": "Out",
@@ -1853,6 +1847,12 @@
     {
       "name": "Ben Bartch",
       "position": "G",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jack Campbell",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

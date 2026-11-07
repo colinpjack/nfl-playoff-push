@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:11:18.603662-05:00",
+  "generatedAt": "2026-11-07T18:55:31.436866-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1822,15 +1822,15 @@
       "detail": ""
     },
     {
-      "name": "Brian Robinson Jr.",
-      "position": "RB",
-      "status": "Out",
+      "name": "Beaux Collins",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Yasir Abdullah",
       "position": "LB",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1854,12 +1854,6 @@
     {
       "name": "JD Bertrand",
       "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Beaux Collins",
-      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1891,6 +1885,12 @@
       "name": "Storm Norton",
       "position": "OT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

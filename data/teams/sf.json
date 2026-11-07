@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:11:18.603662-05:00",
+  "generatedAt": "2026-11-07T18:55:31.436866-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1827,12 +1827,6 @@
       "detail": ""
     },
     {
-      "name": "Christian Kirk",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
       "status": "Out",
@@ -1887,6 +1881,12 @@
       "detail": ""
     },
     {
+      "name": "Christian Kirk",
+      "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Nick Martin",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1907,12 +1907,6 @@
     {
       "name": "Austen Pleasants",
       "position": "OT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Demarcus Robinson",
-      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },
