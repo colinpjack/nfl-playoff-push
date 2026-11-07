@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:20:20.504360-05:00",
+  "generatedAt": "2026-11-07T04:12:56.146651-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -221,7 +221,7 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "32:45",
+      "value": "32:37",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "up"
     }
