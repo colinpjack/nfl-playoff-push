@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
+  "generatedAt": "2026-11-06T21:20:20.504360-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1839,25 +1839,7 @@
       "detail": ""
     },
     {
-      "name": "Nick Bosa",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Luke Gifford",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Siran Neal",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marques Sigle",
       "position": "S",
       "status": "Questionable",
       "detail": ""
@@ -1865,12 +1847,6 @@
     {
       "name": "Upton Stout",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Garret Wallow",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
+  "generatedAt": "2026-11-06T21:20:20.504360-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1815,12 +1815,6 @@
   },
   "injuries": [
     {
-      "name": "John Bates",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Dyami Brown",
       "position": "WR",
       "status": "Out",
@@ -1830,12 +1824,6 @@
       "name": "Treylon Burks",
       "position": "WR",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sam Cosmi",
-      "position": "G",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1854,12 +1842,6 @@
       "name": "Javontae Jean-Baptiste",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Shy Tuttle",
-      "position": "DT",
-      "status": "Questionable",
       "detail": ""
     },
     {

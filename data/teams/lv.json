@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
+  "generatedAt": "2026-11-06T21:20:20.504360-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1828,15 +1828,9 @@
   },
   "injuries": [
     {
-      "name": "Dont'e Thornton Jr.",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Thomas Booker IV",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

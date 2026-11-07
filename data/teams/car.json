@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
+  "generatedAt": "2026-11-06T21:20:20.504360-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1815,6 +1815,12 @@
   },
   "injuries": [
     {
+      "name": "Corey Bullock",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Brady Christensen",
       "position": "G",
       "status": "Injured Reserve",
@@ -1823,25 +1829,31 @@
     {
       "name": "Damien Lewis",
       "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Torricelli Simpkins III",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Will Lee III",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Bobby Okereke",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaelan Phillips",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

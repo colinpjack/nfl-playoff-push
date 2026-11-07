@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:21:17.581341-05:00",
+  "generatedAt": "2026-11-06T21:20:20.504360-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1827,27 +1827,27 @@
       "detail": ""
     },
     {
-      "name": "Brian Branch",
-      "position": "S",
+      "name": "Sione Vaki",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jack Campbell",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "D.J. Reed",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "DJ Wonnum",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1901,7 +1901,7 @@
     {
       "name": "Cade Mays",
       "position": "C",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
