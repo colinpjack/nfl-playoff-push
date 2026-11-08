@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:55:31.436866-05:00",
+  "generatedAt": "2026-11-08T00:53:49.803045-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1815,6 +1815,12 @@
   },
   "injuries": [
     {
+      "name": "Kelvin Banks Jr.",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "CJ Donaldson",
       "position": "RB",
       "status": "Out",
@@ -1827,14 +1833,14 @@
       "detail": ""
     },
     {
-      "name": "Martin Emerson Jr.",
-      "position": "CB",
+      "name": "Jordyn Tyson",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Kelvin Banks Jr.",
-      "position": "OT",
+      "name": "Martin Emerson Jr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1878,12 +1884,6 @@
       "name": "Mason Tipton",
       "position": "WR",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jordyn Tyson",
-      "position": "WR",
-      "status": "Questionable",
       "detail": ""
     },
     {

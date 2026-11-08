@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:55:31.436866-05:00",
+  "generatedAt": "2026-11-08T00:53:49.803045-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1900,12 +1900,6 @@
       "detail": ""
     },
     {
-      "name": "Myles Garrett",
-      "position": "DE",
-      "status": "IR",
-      "detail": ""
-    },
-    {
       "name": "Blake Grupe",
       "position": "PK",
       "status": "Injured Reserve",
@@ -1921,12 +1915,6 @@
       "name": "Daniel Rickert",
       "position": "DE",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Ronnie Rivers",
-      "position": "RB",
-      "status": "IR",
       "detail": ""
     },
     {
