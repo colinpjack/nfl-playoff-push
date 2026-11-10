@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1830,13 +1830,13 @@
     {
       "name": "Tyjae Spears",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Carnell Tate",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1848,7 +1848,7 @@
     {
       "name": "Jaylon Jones",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1860,7 +1860,7 @@
     {
       "name": "Tommy Townsend",
       "position": "P",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1908,7 +1908,7 @@
     {
       "name": "James Williams Sr.",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Injured Reserve",
       "detail": ""
     }
   ],
@@ -2021,10 +2021,10 @@
       },
       {
         "id": "4036134",
-        "name": "Amani Hooker",
-        "position": "S",
-        "jersey": "37",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "52 \u00b7 5 INT",
         "value": "52",
         "statLabel": "TKL"

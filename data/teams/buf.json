@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1818,37 +1818,19 @@
     {
       "name": "Alec Anderson",
       "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Skyler Bell",
-      "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Dion Dawkins",
       "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mike Danna",
-      "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Greg Gaines",
       "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalon Kilgore",
-      "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1831,7 +1831,7 @@
     {
       "name": "Garrett Wilson",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1843,19 +1843,19 @@
     {
       "name": "Joseph Ossai",
       "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Trevin Wallace",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Nahshon Wright",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

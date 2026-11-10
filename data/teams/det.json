@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1557,6 +1557,17 @@
       "tagClass": "need",
       "note": "The 49ers hold the No. 1 seed. A loss helps the cut line.",
       "live": false
+    },
+    {
+      "date": "2026-11-22T18:00Z",
+      "homeAbbr": "DET",
+      "awayAbbr": "TB",
+      "homeWinPct": 54,
+      "awayWinPct": 46,
+      "interest": "Lions game",
+      "tagClass": "jays",
+      "note": "The Lions are at home against the Buccaneers.",
+      "live": false
     }
   ],
   "recent": [
@@ -1807,19 +1818,19 @@
     {
       "name": "Jacob Saylors",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "D.J. Reed",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "DJ Wonnum",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1879,7 +1890,7 @@
     {
       "name": "Cade Mays",
       "position": "C",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

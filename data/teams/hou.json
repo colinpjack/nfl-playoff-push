@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1824,7 +1824,7 @@
     {
       "name": "David Montgomery",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1836,7 +1836,7 @@
     {
       "name": "Reed Blankenship",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

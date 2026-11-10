@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1541,6 +1541,17 @@
       "tagClass": "need",
       "note": "A 49ers loss helps the West race.",
       "live": false
+    },
+    {
+      "date": "2026-11-22T18:00Z",
+      "homeAbbr": "KC",
+      "awayAbbr": "ARI",
+      "homeWinPct": 78,
+      "awayWinPct": 22,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Cardinals loss helps the West race.",
+      "live": false
     }
   ],
   "recent": [
@@ -1830,15 +1841,21 @@
       "detail": ""
     },
     {
+      "name": "Jordan Whittington",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Trent McDuffie",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Joe Cardona",
       "position": "LS",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1528,6 +1528,17 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The 49ers hold the No. 1 seed. A loss helps the cut line.",
+      "live": false
+    },
+    {
+      "date": "2026-11-22T18:00Z",
+      "homeAbbr": "CHI",
+      "awayAbbr": "NO",
+      "homeWinPct": 69,
+      "awayWinPct": 31,
+      "interest": "Bears game",
+      "tagClass": "jays",
+      "note": "The Bears are at home against the Saints.",
       "live": false
     }
   ],

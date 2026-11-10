@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1557,6 +1557,17 @@
       "tagClass": "need",
       "note": "The 49ers hold the No. 1 seed. A loss helps the cut line.",
       "live": false
+    },
+    {
+      "date": "2026-11-22T18:00Z",
+      "homeAbbr": "CHI",
+      "awayAbbr": "NO",
+      "homeWinPct": 69,
+      "awayWinPct": 31,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Bears loss helps the North race.",
+      "live": false
     }
   ],
   "recent": [
@@ -1807,42 +1818,24 @@
     {
       "name": "Jauan Jennings",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Kyler Murray",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Caleb Banks",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Charles Demmings",
-      "position": "CB",
-      "status": "Out",
+      "name": "Tyrion Ingram-Dawkins",
+      "position": "DE",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Theo Jackson",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jakobe Thomas",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kyle Van Noy",
-      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },

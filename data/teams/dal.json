@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1541,6 +1541,17 @@
       "tagClass": "jays",
       "note": "The Cowboys are at home against the 49ers.",
       "live": false
+    },
+    {
+      "date": "2026-11-22T18:00Z",
+      "homeAbbr": "DAL",
+      "awayAbbr": "TEN",
+      "homeWinPct": 66,
+      "awayWinPct": 34,
+      "interest": "Cowboys game",
+      "tagClass": "jays",
+      "note": "The Cowboys are at home against the Titans.",
+      "live": false
     }
   ],
   "recent": [
@@ -1838,19 +1849,19 @@
     {
       "name": "George Pickens",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Luke Schoonmaker",
       "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "KaVontae Turpin",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1868,13 +1879,13 @@
     {
       "name": "DeMarvion Overshown",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Joey Porter Jr.",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

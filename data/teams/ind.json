@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1837,7 +1837,7 @@
     {
       "name": "Jalen Travis",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1849,19 +1849,19 @@
     {
       "name": "Akeem Davis-Gaither",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "A.J. Haulcy",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Justin Walley",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1950,10 +1950,10 @@
       },
       {
         "id": "15818",
-        "name": "Keenan Allen",
-        "position": "WR",
-        "jersey": "10",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15818.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "40 REC, 351 YDS, 1 TD",
         "value": "351",
         "statLabel": "YDS"

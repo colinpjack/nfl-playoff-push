@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:42:49.461503-05:00",
+  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1557,6 +1557,17 @@
       "tagClass": "need",
       "note": "The 49ers hold the No. 1 seed. A loss helps the cut line. A Cowboys loss helps the East race.",
       "live": false
+    },
+    {
+      "date": "2026-11-22T18:00Z",
+      "homeAbbr": "DAL",
+      "awayAbbr": "TEN",
+      "homeWinPct": 66,
+      "awayWinPct": 34,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "A Cowboys loss helps the East race.",
+      "live": false
     }
   ],
   "recent": [
@@ -1807,7 +1818,7 @@
     {
       "name": "Treylon Burks",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1831,7 +1842,7 @@
     {
       "name": "Lucas Patrick",
       "position": "G",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
