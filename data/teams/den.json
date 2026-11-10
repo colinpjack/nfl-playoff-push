@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1462,7 +1462,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 1 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-15T14:30Z",
@@ -1816,30 +1816,6 @@
     "elimRival": "KC"
   },
   "injuries": [
-    {
-      "name": "Dallen Bentley",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kage Casey",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sam Ehlinger",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
     {
       "name": "Jaylen Waddle",
       "position": "WR",

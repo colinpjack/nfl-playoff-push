@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "U.S. Bank Stadium",
       "broadcast": "ESPN, ABC",
-      "detail": "11/9 - 8:15 PM EST",
-      "live": false,
+      "detail": "6:11 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 56,
       "homeAbbr": "MIN",
@@ -1518,7 +1518,7 @@
       "interest": "Vikings game",
       "tagClass": "jays",
       "note": "The Vikings are at home against the Bills.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1815,12 +1815,6 @@
   },
   "injuries": [
     {
-      "name": "Demond Claiborne",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jauan Jennings",
       "position": "WR",
       "status": "Out",
@@ -1833,14 +1827,32 @@
       "detail": ""
     },
     {
+      "name": "Caleb Banks",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Charles Demmings",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Theo Jackson",
       "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jay Ward",
+      "name": "Jakobe Thomas",
       "position": "S",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kyle Van Noy",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1857,15 +1869,15 @@
       "detail": ""
     },
     {
-      "name": "Donovan Jackson",
-      "position": "G",
+      "name": "Demond Claiborne",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Jordan Mason",
-      "position": "RB",
-      "status": "IR",
+      "name": "Donovan Jackson",
+      "position": "G",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

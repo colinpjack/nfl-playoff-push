@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1490,7 +1490,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Bills hold the No. 1 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-15T14:30Z",
@@ -1816,26 +1816,8 @@
   },
   "injuries": [
     {
-      "name": "CJ Williams",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Alijah Huzzie",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Cam'Ron Silmon-Craig",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Wesley Williams",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

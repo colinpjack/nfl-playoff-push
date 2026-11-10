@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1474,7 +1474,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Vikings loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1837,12 +1837,6 @@
     {
       "name": "Josh Jacobs",
       "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Donovan Jennings",
-      "position": "G",
       "status": "Out",
       "detail": ""
     },

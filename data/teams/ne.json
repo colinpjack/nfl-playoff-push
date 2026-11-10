@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1474,7 +1474,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Bills loss helps the East race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-15T14:30Z",
@@ -1847,20 +1847,8 @@
       "detail": ""
     },
     {
-      "name": "Dametrious Crownover",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "TreVeyon Henderson",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Behren Morton",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },

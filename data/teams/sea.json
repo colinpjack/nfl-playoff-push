@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1474,7 +1474,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",

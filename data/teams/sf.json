@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1490,7 +1490,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1822,32 +1822,14 @@
       "detail": ""
     },
     {
-      "name": "Enrique Cruz Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Mike Evans",
       "position": "WR",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Kurtis Rourke",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Deebo Samuel Sr.",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tatum Bethune",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },
@@ -1860,12 +1842,6 @@
     {
       "name": "Gracen Halton",
       "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Khalid Kareem",
-      "position": "DE",
       "status": "Out",
       "detail": ""
     },

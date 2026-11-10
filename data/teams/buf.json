@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "U.S. Bank Stadium",
       "broadcast": "ESPN, ABC",
-      "detail": "11/9 - 8:15 PM EST",
-      "live": false,
+      "detail": "6:11 - 3rd",
+      "live": true,
       "final": false,
       "winPct": 44,
       "homeAbbr": "MIN",
@@ -1518,7 +1518,7 @@
       "interest": "Bills game",
       "tagClass": "jays",
       "note": "The Bills are on the road against the Vikings.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-15T14:30Z",
@@ -1817,25 +1817,37 @@
     {
       "name": "Alec Anderson",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Skyler Bell",
+      "position": "WR",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Dion Dawkins",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Joshua Palmer",
-      "position": "WR",
+      "name": "Mike Danna",
+      "position": "DE",
       "status": "Out",
       "detail": ""
     },
     {
       "name": "Greg Gaines",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jalon Kilgore",
+      "position": "S",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1847,6 +1859,12 @@
     {
       "name": "Jordan Hancock",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Joshua Palmer",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },

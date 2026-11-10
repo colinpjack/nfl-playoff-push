@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1490,7 +1490,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1828,15 +1828,15 @@
       "detail": ""
     },
     {
-      "name": "Athan Kaliakmanis",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Chig Okonkwo",
+      "position": "TE",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1846,9 +1846,9 @@
       "detail": ""
     },
     {
-      "name": "Tanoa Togiai",
-      "position": "G",
-      "status": "Out",
+      "name": "Colson Yankoff",
+      "position": "TE",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1858,15 +1858,9 @@
       "detail": ""
     },
     {
-      "name": "Fabian Moreau",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Isaac Yiadom",
-      "position": "CB",
-      "status": "Out",
+      "name": "Shy Tuttle",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {

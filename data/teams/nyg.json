@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1490,7 +1490,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1816,15 +1816,9 @@
   },
   "injuries": [
     {
-      "name": "Thomas Fidone II",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Marcus Mbow",
-      "position": "OT",
-      "status": "Out",
+      "name": "Charlie Jones",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1834,9 +1828,9 @@
       "detail": ""
     },
     {
-      "name": "Josh Sills",
-      "position": "G",
-      "status": "Out",
+      "name": "Darnell Mooney",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1852,21 +1846,15 @@
       "detail": ""
     },
     {
-      "name": "Colton Hood",
-      "position": "CB",
-      "status": "Out",
+      "name": "Abdul Carter",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "CJ Okoye",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nikko Reed",
-      "position": "CB",
-      "status": "Out",
+      "name": "Malik Harrison",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

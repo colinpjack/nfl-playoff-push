@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1490,7 +1490,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1824,43 +1824,7 @@
     {
       "name": "Erik McCoy",
       "position": "C",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Mason Murphy",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Zach Wilson",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jaylan Ford",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Christen Miller",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mike Reid",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "John Ridgeway III",
-      "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

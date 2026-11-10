@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:39:53.868709-05:00",
+  "generatedAt": "2026-11-09T22:28:50.694405-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1474,7 +1474,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Vikings hold the No. 2 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-13T01:15Z",
@@ -1835,6 +1835,12 @@
       "detail": ""
     },
     {
+      "name": "Hjalte Froholdt",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jon Gaines II",
       "position": "G",
       "status": "Out",
@@ -1847,9 +1853,9 @@
       "detail": ""
     },
     {
-      "name": "Albert Reese IV",
-      "position": "OT",
-      "status": "Out",
+      "name": "Gardner Minshew II",
+      "position": "QB",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1859,21 +1865,9 @@
       "detail": ""
     },
     {
-      "name": "Eku Leota",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Roy Lopez",
       "position": "DT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Starling Thomas V",
-      "position": "CB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1964,6 +1958,12 @@
       "name": "Xavier Weaver",
       "position": "WR",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Michael Wilson",
+      "position": "WR",
+      "status": "Out",
       "detail": ""
     },
     {
