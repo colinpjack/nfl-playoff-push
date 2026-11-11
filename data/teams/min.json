@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:35:50.711403-05:00",
+  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1816,15 +1816,33 @@
   },
   "injuries": [
     {
+      "name": "T.J. Hockenson",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jauan Jennings",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Kyler Murray",
       "position": "QB",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Carson Wentz",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Blake Cashman",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

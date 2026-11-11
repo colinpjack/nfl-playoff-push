@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:35:50.711403-05:00",
+  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1831,6 +1831,12 @@
       "name": "Jaylin Noel",
       "position": "WR",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Cade Stover",
+      "position": "TE",
+      "status": "Out",
       "detail": ""
     },
     {

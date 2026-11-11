@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:35:50.711403-05:00",
+  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1816,8 +1816,20 @@
   },
   "injuries": [
     {
+      "name": "Jared Goff",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jacob Saylors",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Amon-Ra St. Brown",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
