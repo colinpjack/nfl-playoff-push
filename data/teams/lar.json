@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
+  "generatedAt": "2026-11-11T02:09:27.153400-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1841,12 +1841,6 @@
       "detail": ""
     },
     {
-      "name": "Jordan Whittington",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Trent McDuffie",
       "position": "CB",
       "status": "Questionable",
@@ -1933,6 +1927,12 @@
     {
       "name": "Jaylen Watson",
       "position": "CB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jordan Whittington",
+      "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     }

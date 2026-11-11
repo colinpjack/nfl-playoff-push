@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
+  "generatedAt": "2026-11-11T02:09:27.153400-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TB",
@@ -1850,12 +1850,6 @@
       "name": "Christian Rozeboom",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "David Sills V",
-      "position": "WR",
-      "status": "IR",
       "detail": ""
     }
   ],
