@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
+  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1816,27 +1816,15 @@
   },
   "injuries": [
     {
-      "name": "Charlie Jones",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "J.J. McCarthy",
       "position": "QB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Darnell Mooney",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Cam Skattebo",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1854,6 +1842,12 @@
     {
       "name": "Malik Harrison",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Colton Hood",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

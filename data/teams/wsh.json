@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
+  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1818,7 +1818,7 @@
     {
       "name": "Treylon Burks",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1831,12 +1831,6 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Chig Okonkwo",
-      "position": "TE",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1855,12 +1849,6 @@
       "name": "Javontae Jean-Baptiste",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Shy Tuttle",
-      "position": "DT",
-      "status": "Questionable",
       "detail": ""
     },
     {

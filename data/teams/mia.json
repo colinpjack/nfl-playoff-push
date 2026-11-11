@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
+  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1822,21 +1822,9 @@
       "detail": ""
     },
     {
-      "name": "Malik Willis",
-      "position": "QB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jaylen Wright",
       "position": "RB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Zach Sieler",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1870,8 +1858,20 @@
       "detail": ""
     },
     {
+      "name": "Zach Sieler",
+      "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Cole Turner",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Malik Willis",
+      "position": "QB",
       "status": "Injured Reserve",
       "detail": ""
     }

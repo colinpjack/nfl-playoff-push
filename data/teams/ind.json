@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
+  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1940,10 +1940,10 @@
       },
       {
         "id": "4688813",
-        "name": "Josh Downs",
-        "position": "WR",
-        "jersey": "2",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688813.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "33 REC, 354 YDS, 1 TD",
         "value": "354",
         "statLabel": "YDS"

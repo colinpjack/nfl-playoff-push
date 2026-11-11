@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
+  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1840,12 +1840,6 @@
       "detail": ""
     },
     {
-      "name": "Gracen Halton",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Deommodore Lenoir",
       "position": "CB",
       "status": "Questionable",
@@ -1873,6 +1867,12 @@
       "name": "Isaac Guerendo",
       "position": "RB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Gracen Halton",
+      "position": "DT",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

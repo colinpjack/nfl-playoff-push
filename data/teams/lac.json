@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:39:28.905559-05:00",
+  "generatedAt": "2026-11-10T19:37:03.054660-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1922,12 +1922,6 @@
       "position": "OT",
       "status": "Out",
       "detail": ""
-    },
-    {
-      "name": "Evan Svoboda",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
     }
   ],
   "players": {
@@ -2029,10 +2023,10 @@
     "defense": [
       {
         "id": "4241597",
-        "name": "Daiyan Henley",
-        "position": "LB",
-        "jersey": "0",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241597.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "51 \u00b7 1 INT",
         "value": "51",
         "statLabel": "TKL"
