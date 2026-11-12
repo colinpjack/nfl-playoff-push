@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
+  "generatedAt": "2026-11-12T06:47:42.669206-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1998,8 +1998,8 @@
         "position": "LB",
         "jersey": "17",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426340.png",
-        "line": "98 \u00b7 1 INT",
-        "value": "98",
+        "line": "99 \u00b7 1 INT",
+        "value": "99",
         "statLabel": "TKL"
       },
       {
@@ -2018,8 +2018,8 @@
         "position": "S",
         "jersey": "11",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4043169.png",
-        "line": "66 \u00b7 1 INT",
-        "value": "66",
+        "line": "65 \u00b7 1 INT",
+        "value": "65",
         "statLabel": "TKL"
       },
       {

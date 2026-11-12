@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
+  "generatedAt": "2026-11-12T06:47:42.669206-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -2075,8 +2075,8 @@
         "position": "LB",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3919117.png",
-        "line": "67",
-        "value": "67",
+        "line": "68",
+        "value": "68",
         "statLabel": "TKL"
       },
       {
@@ -2125,8 +2125,8 @@
         "position": "S",
         "jersey": "2",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431517.png",
-        "line": "35 \u00b7 1 INT",
-        "value": "35",
+        "line": "36 \u00b7 1 INT",
+        "value": "36",
         "statLabel": "TKL"
       },
       {
