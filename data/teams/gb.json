@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:47:42.669206-05:00",
+  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1867,7 +1867,7 @@
     {
       "name": "Josh Whyle",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1891,7 +1891,7 @@
     {
       "name": "Zaire Franklin",
       "position": "LB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
