@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1837,7 +1837,7 @@
     {
       "name": "Ben Brown",
       "position": "C",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1849,6 +1849,30 @@
     {
       "name": "TreVeyon Henderson",
       "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Hunter Henry",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cameron Latu",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Morgan Moses",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Walter Rouse",
+      "position": "OL",
       "status": "Questionable",
       "detail": ""
     },
@@ -1859,9 +1883,15 @@
       "detail": ""
     },
     {
+      "name": "Kevin Byard",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Carlton Davis III",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

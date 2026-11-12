@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1824,7 +1824,7 @@
     {
       "name": "Jauan Jennings",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1853,6 +1853,18 @@
     },
     {
       "name": "Theo Jackson",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kyle Van Noy",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jay Ward",
       "position": "S",
       "status": "Questionable",
       "detail": ""

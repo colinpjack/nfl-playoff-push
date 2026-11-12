@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1829,6 +1829,12 @@
   },
   "injuries": [
     {
+      "name": "Aaron Banks",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Travis Glover",
       "position": "OT",
       "status": "Questionable",
@@ -1836,6 +1842,12 @@
     },
     {
       "name": "Josh Jacobs",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "MarShawn Lloyd",
       "position": "RB",
       "status": "Out",
       "detail": ""
@@ -1865,6 +1877,18 @@
       "detail": ""
     },
     {
+      "name": "Kevin Zeitler",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Javon Bullard",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Zaire Franklin",
       "position": "LB",
       "status": "Doubtful",
@@ -1873,6 +1897,12 @@
     {
       "name": "Ty'Ron Hopper",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Lukas Van Ness",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -1829,6 +1829,12 @@
   },
   "injuries": [
     {
+      "name": "Davis Allen",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Steve Avila",
       "position": "G",
       "status": "Questionable",
@@ -1838,6 +1844,24 @@
       "name": "Puka Nacua",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Colby Parkinson",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kam Curl",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Myles Garrett",
+      "position": "DE",
+      "status": "Questionable",
       "detail": ""
     },
     {

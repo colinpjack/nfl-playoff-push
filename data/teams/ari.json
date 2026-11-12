@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1861,6 +1861,24 @@
     {
       "name": "Roy Lopez",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Max Melton",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dante Stills",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Andrew Wingard",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

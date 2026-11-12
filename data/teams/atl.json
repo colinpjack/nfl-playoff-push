@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1823,9 +1823,39 @@
       "detail": ""
     },
     {
+      "name": "Cameron Williams",
+      "position": "OL",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Divine Deablo",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Gervon Dexter Sr.",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "James Pearce Jr.",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jalon Walker",
       "position": "LB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Josh Woods",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1816,8 +1816,26 @@
   },
   "injuries": [
     {
+      "name": "Kelvin Banks Jr.",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "CJ Donaldson",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "David Edwards",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Noah Fant",
+      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1831,6 +1849,18 @@
       "name": "Erik McCoy",
       "position": "C",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Martin Emerson Jr.",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Christen Miller",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {

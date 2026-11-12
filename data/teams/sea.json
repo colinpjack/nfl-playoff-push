@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1829,6 +1829,12 @@
   },
   "injuries": [
     {
+      "name": "Anthony Bradford",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Charles Cross",
       "position": "OT",
       "status": "Doubtful",
@@ -1855,7 +1861,7 @@
     {
       "name": "Rashid Shaheed",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1865,7 +1871,25 @@
       "detail": ""
     },
     {
+      "name": "Derick Hall",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Uchenna Nwosu",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Patrick O'Connell",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Connor O'Toole",
       "position": "LB",
       "status": "Questionable",
       "detail": ""

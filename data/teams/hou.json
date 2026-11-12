@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:18:31.205758-05:00",
+  "generatedAt": "2026-11-11T22:19:27.245811-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1816,9 +1816,27 @@
   },
   "injuries": [
     {
+      "name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Brevin Jordan",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jawhar Jordan",
       "position": "RB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Woody Marks",
+      "position": "RB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1834,9 +1852,27 @@
       "detail": ""
     },
     {
+      "name": "Keylan Rutledge",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Cade Stover",
       "position": "TE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Wyatt Teller",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Azeez Al-Shaair",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1866,7 +1902,7 @@
     {
       "name": "Tank Dell",
       "position": "WR",
-      "status": "IR",
+      "status": "Questionable",
       "detail": ""
     },
     {
