@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1849,18 +1849,18 @@
     {
       "name": "George Pickens",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Luke Schoonmaker",
-      "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "KaVontae Turpin",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Alijah Clark",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1877,14 +1877,14 @@
       "detail": ""
     },
     {
-      "name": "DeMarvion Overshown",
-      "position": "LB",
+      "name": "Joey Porter Jr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Joey Porter Jr.",
-      "position": "CB",
+      "name": "Juanyeh Thomas",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

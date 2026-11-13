@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1829,9 +1829,21 @@
   },
   "injuries": [
     {
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jovaughn Gwyn",
       "position": "G",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Olaivavega Ioane",
+      "position": "G",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1847,12 +1859,6 @@
       "detail": ""
     },
     {
-      "name": "Kyle Hamilton",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jaylinn Hawkins",
       "position": "S",
       "status": "Questionable",
@@ -1861,12 +1867,6 @@
     {
       "name": "Adisa Isaac",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nate Wiggins",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

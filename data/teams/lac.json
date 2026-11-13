@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1828,14 +1828,32 @@
       "detail": ""
     },
     {
-      "name": "Justin Herbert",
-      "position": "QB",
+      "name": "Alex Harkey",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tre' Harris",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Ladd McConkey",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Branson Taylor",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1852,7 +1870,19 @@
       "detail": ""
     },
     {
+      "name": "Cam Hart",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Deane Leonard",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Rodney Shelley",
       "position": "CB",
       "status": "Questionable",
       "detail": ""

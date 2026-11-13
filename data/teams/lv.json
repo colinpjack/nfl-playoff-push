@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1829,12 +1829,6 @@
   },
   "injuries": [
     {
-      "name": "Aidan O'Connell",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Trey Zuhn III",
       "position": "C",
       "status": "Questionable",
@@ -1842,12 +1836,6 @@
     },
     {
       "name": "Thomas Booker IV",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Folorunso Fatukasi",
       "position": "DT",
       "status": "Questionable",
       "detail": ""
@@ -1886,12 +1874,6 @@
       "name": "Justin Pickett",
       "position": "G",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Tyler Scott",
-      "position": "WR",
-      "status": "Questionable",
       "detail": ""
     }
   ],

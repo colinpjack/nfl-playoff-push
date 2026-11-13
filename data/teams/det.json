@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1816,18 +1816,6 @@
   },
   "injuries": [
     {
-      "name": "Jared Goff",
-      "position": "QB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jacob Saylors",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Amon-Ra St. Brown",
       "position": "WR",
       "status": "Questionable",
@@ -1840,15 +1828,9 @@
       "detail": ""
     },
     {
-      "name": "Brian Branch",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "D.J. Reed",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1914,7 +1896,7 @@
     {
       "name": "Cade Mays",
       "position": "C",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1939,12 +1921,6 @@
       "name": "Devin White",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Jackson Meeks",
-      "position": "WR",
-      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1838,12 +1838,6 @@
       "name": "Ben Brown",
       "position": "C",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Will Campbell",
-      "position": "OT",
-      "status": "Questionable",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1816,14 +1816,20 @@
   },
   "injuries": [
     {
-      "name": "J.J. McCarthy",
-      "position": "QB",
-      "status": "Questionable",
+      "name": "J.C. Davis",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Cam Skattebo",
-      "position": "RB",
+      "name": "Thomas Fidone II",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Josh Sills",
+      "position": "G",
       "status": "Out",
       "detail": ""
     },
@@ -1836,11 +1842,17 @@
     {
       "name": "Malik Harrison",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Colton Hood",
+      "name": "CJ Okoye",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Nikko Reed",
       "position": "CB",
       "status": "Out",
       "detail": ""
@@ -1848,7 +1860,7 @@
     {
       "name": "Paulson Adebo",
       "position": "CB",
-      "status": "IR",
+      "status": "Out",
       "detail": ""
     },
     {

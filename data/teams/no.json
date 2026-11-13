@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1834,14 +1834,8 @@
       "detail": ""
     },
     {
-      "name": "Noah Fant",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Alvin Kamara",
-      "position": "RB",
+      "name": "Taliese Fuaga",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1860,6 +1854,12 @@
     {
       "name": "Christen Miller",
       "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Quincy Riley",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

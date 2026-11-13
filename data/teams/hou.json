@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1858,26 +1858,26 @@
       "detail": ""
     },
     {
-      "name": "Cade Stover",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Wyatt Teller",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Azeez Al-Shaair",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
+      "name": "Will Anderson Jr.",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Reed Blankenship",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Danielle Hunter",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1902,7 +1902,7 @@
     {
       "name": "Tank Dell",
       "position": "WR",
-      "status": "Questionable",
+      "status": "IR",
       "detail": ""
     },
     {

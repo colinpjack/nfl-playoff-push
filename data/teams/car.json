@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1822,27 +1822,9 @@
       "detail": ""
     },
     {
-      "name": "Damien Lewis",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Will Lee III",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Bobby Okereke",
       "position": "LB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaelan Phillips",
-      "position": "LB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1909,12 +1891,6 @@
       "name": "Nic Scourton",
       "position": "LB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Claudin Cherelus",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     }
   ],

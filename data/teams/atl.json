@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1823,9 +1823,9 @@
       "detail": ""
     },
     {
-      "name": "Cameron Williams",
-      "position": "OL",
-      "status": "Injured Reserve",
+      "name": "Kendal Daniels",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1843,6 +1843,12 @@
     {
       "name": "James Pearce Jr.",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cameron Thomas",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

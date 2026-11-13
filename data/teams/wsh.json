@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:51:09.603749-05:00",
+  "generatedAt": "2026-11-12T20:01:35.700965-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1816,15 +1816,15 @@
   },
   "injuries": [
     {
-      "name": "Treylon Burks",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Athan Kaliakmanis",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1840,8 +1840,20 @@
       "detail": ""
     },
     {
+      "name": "Tanoa Togiai",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Colson Yankoff",
       "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ricky Barber",
+      "position": "DT",
       "status": "Out",
       "detail": ""
     },
@@ -1849,6 +1861,12 @@
       "name": "Javontae Jean-Baptiste",
       "position": "LB",
       "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Isaac Yiadom",
+      "position": "CB",
+      "status": "Out",
       "detail": ""
     },
     {
