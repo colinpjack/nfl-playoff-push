@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1828,21 +1828,9 @@
       "detail": ""
     },
     {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Bhayshul Tuten",
-      "position": "RB",
-      "status": "Questionable",
+      "name": "Jessie Bates III",
+      "position": "S",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1852,21 +1840,9 @@
       "detail": ""
     },
     {
-      "name": "Antonio Johnson",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Cam'Ron Silmon-Craig",
       "position": "S",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Travon Walker",
-      "position": "DE",
-      "status": "Questionable",
       "detail": ""
     },
     {

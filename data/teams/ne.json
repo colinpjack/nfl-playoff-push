@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1847,20 +1847,8 @@
       "detail": ""
     },
     {
-      "name": "Hunter Henry",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Cameron Latu",
       "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Morgan Moses",
-      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },

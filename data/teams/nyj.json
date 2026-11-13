@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1835,8 +1835,20 @@
       "detail": ""
     },
     {
+      "name": "Adonai Mitchell",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Garrett Wilson",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jarvis Brownlee Jr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

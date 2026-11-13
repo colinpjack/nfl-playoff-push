@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1816,15 +1816,9 @@
   },
   "injuries": [
     {
-      "name": "Tony Pollard",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Peter Skoronski",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1836,25 +1830,25 @@
     {
       "name": "Carnell Tate",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Cody Barton",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Anthony Hill Jr.",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Kevin Winston Jr.",
-      "position": "S",
-      "status": "Questionable",
+      "name": "Tommy Townsend",
+      "position": "P",
+      "status": "Out",
       "detail": ""
     },
     {

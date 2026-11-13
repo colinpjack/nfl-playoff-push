@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1816,27 +1816,27 @@
   },
   "injuries": [
     {
+      "name": "Trent Brown",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Marvin Harrison Jr.",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Brevin Jordan",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jawhar Jordan",
       "position": "RB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Woody Marks",
-      "position": "RB",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1854,13 +1854,19 @@
     {
       "name": "Keylan Rutledge",
       "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Wyatt Teller",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Azeez Al-Shaair",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1870,15 +1876,9 @@
       "detail": ""
     },
     {
-      "name": "Reed Blankenship",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Danielle Hunter",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

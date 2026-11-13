@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1819,19 +1819,13 @@
     {
       "name": "Zachariah Branch",
       "position": "WR",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Kendal Daniels",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Divine Deablo",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1843,12 +1837,6 @@
     {
       "name": "James Pearce Jr.",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cameron Thomas",
-      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

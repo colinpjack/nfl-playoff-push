@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:13:47.083855-05:00",
+  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1822,7 +1822,19 @@
       "detail": ""
     },
     {
+      "name": "Will Lee III",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Bobby Okereke",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jaelan Phillips",
       "position": "LB",
       "status": "Questionable",
       "detail": ""
