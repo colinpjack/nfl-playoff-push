@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
+  "generatedAt": "2026-11-13T21:40:11.534960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1829,21 +1829,9 @@
   },
   "injuries": [
     {
-      "name": "Rashod Bateman",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jovaughn Gwyn",
       "position": "G",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Olaivavega Ioane",
-      "position": "G",
-      "status": "Questionable",
       "detail": ""
     },
     {

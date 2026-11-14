@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
+  "generatedAt": "2026-11-13T21:40:11.534960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1828,18 +1828,6 @@
       "detail": ""
     },
     {
-      "name": "Alex Harkey",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tre' Harris",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ladd McConkey",
       "position": "WR",
       "status": "Questionable",
@@ -1866,12 +1854,6 @@
     {
       "name": "Justin Eboigbe",
       "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cam Hart",
-      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

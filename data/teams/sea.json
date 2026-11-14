@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
+  "generatedAt": "2026-11-13T21:40:11.534960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1829,15 +1829,9 @@
   },
   "injuries": [
     {
-      "name": "Anthony Bradford",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Charles Cross",
       "position": "OT",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1849,7 +1843,7 @@
     {
       "name": "Quenton Nelson",
       "position": "G",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1859,39 +1853,9 @@
       "detail": ""
     },
     {
-      "name": "Derick Hall",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Uchenna Nwosu",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Patrick O'Connell",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Connor O'Toole",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Brandon Pili",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Leonard Williams",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

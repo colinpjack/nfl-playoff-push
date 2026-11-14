@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
+  "generatedAt": "2026-11-13T21:40:11.534960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1848,18 +1848,18 @@
     {
       "name": "Tyrion Ingram-Dawkins",
       "position": "DE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Joshua Metellus",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Kyle Van Noy",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jay Ward",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:08:26.670960-05:00",
+  "generatedAt": "2026-11-13T21:40:11.534960-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1816,12 +1816,6 @@
   },
   "injuries": [
     {
-      "name": "Ezra Cleveland",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Robert Hainsey",
       "position": "C",
       "status": "Questionable",
@@ -1831,12 +1825,6 @@
       "name": "Jessie Bates III",
       "position": "S",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Branson Combs",
-      "position": "LB",
-      "status": "Questionable",
       "detail": ""
     },
     {
