@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:40:11.534960-05:00",
+  "generatedAt": "2026-11-14T05:13:12.768191-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1840,6 +1840,12 @@
       "detail": ""
     },
     {
+      "name": "Trey Pipkins III",
+      "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Branson Taylor",
       "position": "G",
       "status": "Questionable",
@@ -1914,12 +1920,6 @@
     {
       "name": "Denzel Perryman",
       "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Trey Pipkins III",
-      "position": "OT",
       "status": "Injured Reserve",
       "detail": ""
     },
