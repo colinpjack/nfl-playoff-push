@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1835,12 +1835,6 @@
       "detail": ""
     },
     {
-      "name": "Tyler Goodson",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jonathan Mingo",
       "position": "WR",
       "status": "Out",
@@ -1849,6 +1843,12 @@
     {
       "name": "DaRon Bland",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jonathan Bullard",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1883,12 +1883,6 @@
       "detail": ""
     },
     {
-      "name": "Jonathan Bullard",
-      "position": "DT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Malik Davis",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1903,6 +1897,12 @@
     {
       "name": "Kelvin Gilliam Jr.",
       "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Tyler Goodson",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

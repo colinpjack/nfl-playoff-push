@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1816,6 +1816,18 @@
   },
   "injuries": [
     {
+      "name": "Pat Freiermuth",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Derrick Harmon",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Cole Burgess",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1842,12 +1854,6 @@
     {
       "name": "Daequan Hardy",
       "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Derrick Harmon",
-      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },

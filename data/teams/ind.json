@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1829,15 +1829,9 @@
   },
   "injuries": [
     {
-      "name": "Mo Alie-Cox",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Will Mallory",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1848,12 +1842,6 @@
     },
     {
       "name": "Jaylon Carlies",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Akeem Davis-Gaither",
       "position": "LB",
       "status": "Out",
       "detail": ""
@@ -1871,14 +1859,20 @@
       "detail": ""
     },
     {
+      "name": "Mo Alie-Cox",
+      "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
       "name": "Micheal Clemons",
       "position": "DE",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Arden Key",
-      "position": "DE",
+      "name": "Akeem Davis-Gaither",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

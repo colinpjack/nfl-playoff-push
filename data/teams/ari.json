@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1847,6 +1847,12 @@
       "detail": ""
     },
     {
+      "name": "Hunter Long",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jayden Williams",
       "position": "OT",
       "status": "Questionable",
@@ -1927,12 +1933,6 @@
     {
       "name": "Paris Johnson Jr.",
       "position": "OT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Hunter Long",
-      "position": "TE",
       "status": "Injured Reserve",
       "detail": ""
     },

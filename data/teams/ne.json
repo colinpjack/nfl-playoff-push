@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1841,9 +1841,9 @@
       "detail": ""
     },
     {
-      "name": "TreVeyon Henderson",
-      "position": "RB",
-      "status": "Out",
+      "name": "Reggie Gilliam",
+      "position": "FB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1861,6 +1861,12 @@
     {
       "name": "Rhamondre Stevenson",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Greg Van Roten",
+      "position": "G",
       "status": "Questionable",
       "detail": ""
     },
@@ -1895,8 +1901,8 @@
       "detail": ""
     },
     {
-      "name": "Reggie Gilliam",
-      "position": "FB",
+      "name": "TreVeyon Henderson",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1939,12 +1945,6 @@
     {
       "name": "Dell Pettus",
       "position": "S",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Greg Van Roten",
-      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },

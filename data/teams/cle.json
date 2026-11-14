@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1835,15 +1835,15 @@
       "detail": ""
     },
     {
-      "name": "Michael Burton",
-      "position": "FB",
+      "name": "Ronnie Hickman",
+      "position": "S",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Ronnie Hickman",
-      "position": "S",
-      "status": "Out",
+      "name": "Michael Burton",
+      "position": "FB",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

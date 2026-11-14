@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:42:36.584352-05:00",
+  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1829,6 +1829,12 @@
   },
   "injuries": [
     {
+      "name": "Chris Brooks",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Travis Glover",
       "position": "OT",
       "status": "Questionable",
@@ -1841,14 +1847,14 @@
       "detail": ""
     },
     {
-      "name": "Sean Rhyan",
-      "position": "G",
-      "status": "Out",
+      "name": "Skyy Moore",
+      "position": "WR",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Josh Whyle",
-      "position": "TE",
+      "name": "Sean Rhyan",
+      "position": "G",
       "status": "Out",
       "detail": ""
     },
@@ -1901,12 +1907,6 @@
       "detail": ""
     },
     {
-      "name": "Chris Brooks",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Edgerrin Cooper",
       "position": "LB",
       "status": "Injured Reserve",
@@ -1931,12 +1931,6 @@
       "detail": ""
     },
     {
-      "name": "Skyy Moore",
-      "position": "WR",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Luke Musgrave",
       "position": "TE",
       "status": "Out",
@@ -1957,6 +1951,12 @@
     {
       "name": "Jayden Reed",
       "position": "WR",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Josh Whyle",
+      "position": "TE",
       "status": "Injured Reserve",
       "detail": ""
     },
