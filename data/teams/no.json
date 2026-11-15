@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
+  "generatedAt": "2026-11-14T20:16:57.975061-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1822,6 +1822,12 @@
       "detail": ""
     },
     {
+      "name": "Travis Etienne Jr.",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Taliese Fuaga",
       "position": "OT",
       "status": "Out",
@@ -1840,12 +1846,6 @@
       "detail": ""
     },
     {
-      "name": "Christen Miller",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Bryan Bresee",
       "position": "DT",
       "status": "Injured Reserve",
@@ -1858,14 +1858,14 @@
       "detail": ""
     },
     {
-      "name": "Travis Etienne Jr.",
-      "position": "RB",
-      "status": "Questionable",
+      "name": "Moliki Matavao",
+      "position": "TE",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Moliki Matavao",
-      "position": "TE",
+      "name": "Christen Miller",
+      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:24:49.642025-05:00",
+  "generatedAt": "2026-11-14T20:16:57.975061-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1834,15 +1834,15 @@
       "detail": ""
     },
     {
-      "name": "Zane Durant",
-      "position": "DT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jordan Hancock",
       "position": "CB",
       "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Zane Durant",
+      "position": "DT",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
