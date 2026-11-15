@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:16:57.975061-05:00",
+  "generatedAt": "2026-11-15T03:25:10.037226-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1865,6 +1865,12 @@
       "detail": ""
     },
     {
+      "name": "VJ Payne",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Harrison Phillips",
       "position": "DT",
       "status": "Questionable",
@@ -1934,12 +1940,6 @@
       "name": "Tim Patrick",
       "position": "WR",
       "status": "IR",
-      "detail": ""
-    },
-    {
-      "name": "VJ Payne",
-      "position": "S",
-      "status": "Questionable",
       "detail": ""
     },
     {
