@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:25:10.037226-05:00",
+  "generatedAt": "2026-11-15T10:51:29.374368-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1244,8 +1244,8 @@
       "conferenceGame": false,
       "venue": "FC Bayern Munich Stadium",
       "broadcast": "Fox",
-      "detail": "11/15 - 9:30 AM EST",
-      "live": false,
+      "detail": "2:06 - 2nd",
+      "live": true,
       "final": false,
       "winPct": 45,
       "homeAbbr": "DET",
@@ -1474,7 +1474,7 @@
       "interest": "Patriots game",
       "tagClass": "jays",
       "note": "The Patriots are on the road against the Lions.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-15T18:00Z",
@@ -1829,51 +1829,33 @@
   },
   "injuries": [
     {
-      "name": "A.J. Brown",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ben Brown",
       "position": "C",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Reggie Gilliam",
-      "position": "FB",
-      "status": "Questionable",
+      "name": "Dametrious Crownover",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Cameron Latu",
-      "position": "TE",
-      "status": "Questionable",
+      "name": "Drake Maye",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Behren Morton",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Walter Rouse",
       "position": "OL",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Rhamondre Stevenson",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Greg Van Roten",
-      "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kevin Byard",
-      "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1885,13 +1867,7 @@
     {
       "name": "Brenden Schooler",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Charles Woods",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:25:10.037226-05:00",
+  "generatedAt": "2026-11-15T10:51:29.374368-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1474,7 +1474,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Patriots hold the No. 7 seed. A loss helps the cut line.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-15T18:00Z",

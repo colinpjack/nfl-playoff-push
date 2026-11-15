@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:25:10.037226-05:00",
+  "generatedAt": "2026-11-15T10:51:29.374368-05:00",
   "season": 2026,
   "week": 10,
   "weekLabel": "Week 10 \u00b7 2026",
@@ -3200,8 +3200,8 @@
       "id": "401873053",
       "date": "2026-11-15T14:30Z",
       "week": 10,
-      "status": "Sun, Nov 15 \u00b7 9:30 AM",
-      "live": false,
+      "status": "2:06 - 2nd",
+      "live": true,
       "completed": false,
       "venue": "FC Bayern Munich Stadium",
       "broadcast": "Fox",
