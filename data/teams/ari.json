@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:54:32.232695-05:00",
+  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1830,12 +1830,6 @@
   },
   "injuries": [
     {
-      "name": "Joey Aguilar",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jalen Brooks",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1863,18 +1857,6 @@
       "name": "Jordan Burch",
       "position": "LB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Eku Leota",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Starling Thomas V",
-      "position": "CB",
-      "status": "Out",
       "detail": ""
     },
     {

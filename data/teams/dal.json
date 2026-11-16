@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:54:32.232695-05:00",
+  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1832,7 +1832,7 @@
     {
       "name": "Tyler Booker",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1856,7 +1856,7 @@
     {
       "name": "DaRon Bland",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {

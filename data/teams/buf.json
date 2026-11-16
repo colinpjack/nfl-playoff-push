@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:54:32.232695-05:00",
+  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1817,24 +1817,6 @@
   },
   "injuries": [
     {
-      "name": "Jude Bowry",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Shane Buechele",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ar'maj Reed-Adams",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Dee Alford",
       "position": "CB",
       "status": "Questionable",
@@ -1844,24 +1826,6 @@
       "name": "Christian Benford",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Mike Danna",
-      "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Greg Gaines",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jalon Kilgore",
-      "position": "S",
-      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:54:32.232695-05:00",
+  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1816,12 +1816,258 @@
     "elimination": 7,
     "elimRival": "CAR"
   },
-  "injuries": [],
+  "injuries": [
+    {
+      "name": "Zachariah Branch",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Divine Deablo",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jalon Walker",
+      "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "JD Bertrand",
+      "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Samson Ebukam",
+      "position": "DE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Da'Shawn Hand",
+      "position": "DT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Michael Jerrell",
+      "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "DeAngelo Malone",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Storm Norton",
+      "position": "OT",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Trey Sermon",
+      "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Anterio Thompson",
+      "position": "DT",
+      "status": "Out",
+      "detail": ""
+    }
+  ],
   "players": {
-    "quarterback": [],
-    "skill": [],
-    "defense": [],
-    "label": "Roster feed was unavailable on this refresh."
+    "label": "Regular-season counting stats. Hover a label for the definition.",
+    "quarterback": [
+      {
+        "id": "4360423",
+        "name": "Michael Penix Jr.",
+        "position": "QB",
+        "jersey": "9",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360423.png",
+        "line": "147/242, 1730 YDS, 10 TD, 7 INT",
+        "value": "84.2",
+        "statLabel": "RTG"
+      }
+    ],
+    "skill": [
+      {
+        "id": "4430807",
+        "name": "Bijan Robinson",
+        "position": "RB",
+        "jersey": "7",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430807.png",
+        "line": "185 CAR, 951 YDS, 6 TD",
+        "value": "951",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4426502",
+        "name": "Drake London",
+        "position": "WR",
+        "jersey": "5",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426502.png",
+        "line": "50 REC, 801 YDS, 1 TD",
+        "value": "801",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4361409",
+        "name": "Jahan Dotson",
+        "position": "WR",
+        "jersey": "4",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361409.png",
+        "line": "19 REC, 416 YDS, 2 TD",
+        "value": "416",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4360248",
+        "name": "Kyle Pitts Sr.",
+        "position": "TE",
+        "jersey": "8",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360248.png",
+        "line": "29 REC, 270 YDS, 4 TD",
+        "value": "270",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4241474",
+        "name": "Brian Robinson Jr.",
+        "position": "RB",
+        "jersey": "15",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241474.png",
+        "line": "53 CAR, 211 YDS, 4 TD",
+        "value": "211",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "3043275",
+        "name": "Austin Hooper",
+        "position": "TE",
+        "jersey": "81",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043275.png",
+        "line": "10 REC, 84 YDS, 1 TD",
+        "value": "84",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4870612",
+        "name": "Zachariah Branch",
+        "position": "WR",
+        "jersey": "17",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870612.png",
+        "line": "10 REC, 64 YDS",
+        "value": "64",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "3917914",
+        "name": "Olamide Zaccheaus",
+        "position": "WR",
+        "jersey": "14",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917914.png",
+        "line": "8 REC, 43 YDS",
+        "value": "43",
+        "statLabel": "YDS"
+      }
+    ],
+    "defense": [
+      {
+        "id": "4595343",
+        "name": "Kendal Daniels",
+        "position": "LB",
+        "jersey": "53",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4595343.png",
+        "line": "69 \u00b7 1 INT",
+        "value": "69",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4431005",
+        "name": "Xavier Watts",
+        "position": "S",
+        "jersey": "31",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431005.png",
+        "line": "62 \u00b7 1 INT",
+        "value": "62",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "3919512",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
+        "line": "60 \u00b7 1 INT",
+        "value": "60",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4685502",
+        "name": "Harold Perkins Jr.",
+        "position": "LB",
+        "jersey": "56",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685502.png",
+        "line": "49",
+        "value": "49",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4240596",
+        "name": "C.J. Henderson",
+        "position": "CB",
+        "jersey": "26",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240596.png",
+        "line": "43",
+        "value": "43",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "3895841",
+        "name": "Mike Hughes",
+        "position": "CB",
+        "jersey": "21",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3895841.png",
+        "line": "35",
+        "value": "35",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "3043168",
+        "name": "Za'Darius Smith",
+        "position": "DE",
+        "jersey": "55",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043168.png",
+        "line": "4.5",
+        "value": "4.5",
+        "statLabel": "SACK"
+      },
+      {
+        "id": "3045527",
+        "name": "Samson Ebukam",
+        "position": "DE",
+        "jersey": "52",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3045527.png",
+        "line": "2.5",
+        "value": "2.5",
+        "statLabel": "SACK"
+      }
+    ]
   },
   "qbRating": 74.7
 }
