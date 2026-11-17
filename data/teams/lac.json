@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:03:39.800191-05:00",
+  "generatedAt": "2026-11-17T05:37:45.247673-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -39,128 +39,128 @@
     "rootingBlurb": "Who needs to lose for the division or the cut line to get closer. Not a betting line, and not a live in-game number."
   },
   "ticker": [
-    "LAC 0-8",
-    "AFC NO. 16",
-    "POWER NO. 32",
-    "L8",
-    "POINT DIFF -98",
-    "6.5 GB OF KC IN THE WEST",
-    "5 GB OF THE CUT LINE",
-    "NEXT MON @ BAL",
+    "LAC 1-8",
+    "AFC NO. 14",
+    "POWER NO. 27",
+    "W1",
+    "POINT DIFF -95",
+    "6 GB OF KC IN THE WEST",
+    "4.5 GB OF THE CUT LINE",
+    "NEXT SUN VS NYJ",
     "BYE WEEK 7",
-    "PASSER RATING 70.6"
+    "PASSER RATING 71.8"
   ],
   "narrative": {
     "kicker": "AFC playoff race",
-    "headline": "5 games off the cut line",
-    "blurb": "The Chargers are 0-8 with a -98 point differential, 5 games behind the last AFC playoff spot, and 6.5 games back of the Chiefs in the West. 9 games left, starting Monday at the Ravens."
+    "headline": "4.5 games off the cut line",
+    "blurb": "The Chargers are 1-8 with a -95 point differential, 4.5 games behind the last AFC playoff spot, and 6 games back of the Chiefs in the West. 8 games left, starting Sunday at home against the Jets."
   },
   "chips": [
     {
       "label": "Record",
-      "value": "0-8"
+      "value": "1-8"
     },
     {
       "label": "AFC seed",
-      "value": "No. 16"
+      "value": "No. 14"
     },
     {
       "label": "Power rank",
-      "value": "No. 32"
+      "value": "No. 27"
     },
     {
       "label": "Streak",
-      "value": "L8"
+      "value": "W1"
     },
     {
       "label": "Next",
-      "value": "Mon @ BAL"
+      "value": "Sun vs NYJ"
     },
     {
       "label": "Point diff",
-      "value": "-98"
+      "value": "-95"
     },
     {
       "label": "Projected wins",
-      "value": "2.6"
+      "value": "3.5"
     }
   ],
   "meters": {
     "primary": {
       "label": "Games back of the cut line",
-      "value": "5",
+      "value": "4.5",
       "sub": "of the No. 7 seed \u00b7 CLE 6-4",
       "heatLabel": "Season left",
-      "heat": 53,
-      "heatText": "9 left"
+      "heat": 47,
+      "heatText": "8 left"
     },
     "third": {
       "label": "Magic number to win the West",
-      "value": "16",
+      "value": "15",
       "sub": "LAC wins + KC losses",
       "note": "The Chiefs are the team to catch. Elimination number vs the Chiefs is 3."
     }
   },
   "playoffOdds": {
-    "percent": 0.02,
+    "percent": 0.0,
     "sims": 5000,
     "note": "Division title in 0.0% of sims, wild card in 0.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
     "divisionPercent": 0.0,
-    "wildcardPercent": 0.02
+    "wildcardPercent": 0.0
   },
   "kpis": [
     {
       "stat": "W-L",
       "label": "Record",
-      "value": "0-8",
-      "hint": "L8"
+      "value": "1-8",
+      "hint": "W1"
     },
     {
       "stat": "DIFF",
       "label": "Point diff",
-      "value": "-98",
+      "value": "-95",
       "hint": "Points scored minus points allowed"
     },
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "15.1",
+      "value": "16.0",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "27.4",
+      "value": "26.6",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "316.4",
+      "value": "313.3",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "352.6",
+      "value": "353.0",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "-7",
+      "value": "-5",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "34%",
-      "hint": "39-114 \u00b7 around 40% is average"
+      "value": "32%",
+      "hint": "41-127 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "47%",
+      "value": "45%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -178,7 +178,7 @@
     {
       "stat": "CONF",
       "label": "Conference",
-      "value": "0-5",
+      "value": "1-5",
       "hint": "AFC record. Matters once division record is tied"
     }
   ],
@@ -186,28 +186,28 @@
     {
       "stat": "DIFF",
       "label": "Point differential",
-      "value": "-98",
+      "value": "-95",
       "detail": "The cleanest 'are they actually this good?' check.",
       "direction": "down"
     },
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "-12.2",
-      "detail": "15.1 scored, 27.4 allowed.",
+      "value": "-10.6",
+      "detail": "16.0 scored, 26.6 allowed.",
       "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "34%",
-      "detail": "39-114",
-      "direction": "flat"
+      "value": "32%",
+      "detail": "41-127",
+      "direction": "down"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "47%",
+      "value": "45%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "flat"
     },
@@ -221,7 +221,7 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "30:10",
+      "value": "30:09",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "up"
     }
@@ -229,13 +229,13 @@
   "paths": {
     "division": {
       "title": "AFC West",
-      "value": "6.5 GB",
+      "value": "6 GB",
       "detail": "The Chiefs lead at 7-2. The Chargers are 0-3 inside the division. Win the West and the seed is automatic.",
       "in": false
     },
     "wildcard": {
       "title": "Wild card",
-      "value": "5 GB",
+      "value": "4.5 GB",
       "detail": "The Browns hold the last berth at 6-4. Three wild cards get in after the four division winners.",
       "in": false
     }
@@ -309,7 +309,7 @@
       "ypg": 401.0,
       "yapg": 325.6,
       "to": 6,
-      "playoffPct": 98.8,
+      "playoffPct": 98.92,
       "powerRank": 5,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -345,7 +345,7 @@
       "ypg": 372.4,
       "yapg": 328.6,
       "to": 9,
-      "playoffPct": 99.8,
+      "playoffPct": 99.84,
       "powerRank": 1,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -381,7 +381,7 @@
       "ypg": 395.3,
       "yapg": 361.0,
       "to": 2,
-      "playoffPct": 98.58,
+      "playoffPct": 98.84,
       "powerRank": 4,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -417,7 +417,7 @@
       "ypg": 283.7,
       "yapg": 374.2,
       "to": 5,
-      "playoffPct": 94.22,
+      "playoffPct": 95.14,
       "powerRank": 10,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -453,7 +453,7 @@
       "ypg": 340.1,
       "yapg": 343.8,
       "to": 5,
-      "playoffPct": 81.36,
+      "playoffPct": 82.96,
       "powerRank": 15,
       "gb": "+0.5",
       "gbValue": -0.5,
@@ -489,7 +489,7 @@
       "ypg": 339.2,
       "yapg": 345.6,
       "to": 1,
-      "playoffPct": 49.32,
+      "playoffPct": 52.26,
       "powerRank": 21,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -525,46 +525,10 @@
       "ypg": 361.8,
       "yapg": 362.7,
       "to": -10,
-      "playoffPct": 38.76,
+      "playoffPct": 39.1,
       "powerRank": 24,
       "gb": "1",
       "gbValue": 1.0,
-      "path": "Outside",
-      "inField": false,
-      "isFocus": false,
-      "isCut": false
-    },
-    {
-      "abbr": "BAL",
-      "name": "Baltimore Ravens",
-      "nickname": "Ravens",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "conference": "AFC",
-      "division": "AFC North",
-      "seed": 9,
-      "wins": 4,
-      "losses": 5,
-      "ties": 0,
-      "record": "4-5",
-      "pct": 0.444,
-      "pf": 189,
-      "pa": 236,
-      "diff": -47,
-      "ppg": 21.0,
-      "papg": 26.2,
-      "streak": "L4",
-      "divisionRecord": "0-2",
-      "conferenceRecord": "2-4",
-      "home": "1-3",
-      "road": "3-2",
-      "gr": 8,
-      "ypg": 342.4,
-      "yapg": 341.8,
-      "to": -2,
-      "playoffPct": 9.34,
-      "powerRank": 31,
-      "gb": "1.5",
-      "gbValue": 1.5,
       "path": "Outside",
       "inField": false,
       "isFocus": false,
@@ -577,7 +541,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
       "conference": "AFC",
       "division": "AFC West",
-      "seed": 10,
+      "seed": 9,
       "wins": 4,
       "losses": 6,
       "ties": 0,
@@ -597,8 +561,44 @@
       "ypg": 325.1,
       "yapg": 398.9,
       "to": 3,
-      "playoffPct": 13.62,
+      "playoffPct": 12.52,
       "powerRank": 22,
+      "gb": "2",
+      "gbValue": 2.0,
+      "path": "Outside",
+      "inField": false,
+      "isFocus": false,
+      "isCut": false
+    },
+    {
+      "abbr": "BAL",
+      "name": "Baltimore Ravens",
+      "nickname": "Ravens",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+      "conference": "AFC",
+      "division": "AFC North",
+      "seed": 10,
+      "wins": 4,
+      "losses": 6,
+      "ties": 0,
+      "record": "4-6",
+      "pct": 0.4,
+      "pf": 209,
+      "pa": 259,
+      "diff": -50,
+      "ppg": 20.9,
+      "papg": 25.9,
+      "streak": "L5",
+      "divisionRecord": "0-2",
+      "conferenceRecord": "2-5",
+      "home": "1-4",
+      "road": "3-2",
+      "gr": 7,
+      "ypg": 343.8,
+      "yapg": 336.5,
+      "to": -4,
+      "playoffPct": 4.32,
+      "powerRank": 29,
       "gb": "2",
       "gbValue": 2.0,
       "path": "Outside",
@@ -633,7 +633,7 @@
       "ypg": 361.6,
       "yapg": 365.7,
       "to": 4,
-      "playoffPct": 15.48,
+      "playoffPct": 15.46,
       "powerRank": 13,
       "gb": "2.5",
       "gbValue": 2.5,
@@ -669,7 +669,7 @@
       "ypg": 304.7,
       "yapg": 369.9,
       "to": -12,
-      "playoffPct": 0.82,
+      "playoffPct": 0.74,
       "powerRank": 26,
       "gb": "3",
       "gbValue": 3.0,
@@ -705,13 +705,49 @@
       "ypg": 341.9,
       "yapg": 345.8,
       "to": 3,
-      "playoffPct": 0.1,
-      "powerRank": 27,
+      "playoffPct": 0.16,
+      "powerRank": 28,
       "gb": "4",
       "gbValue": 4.0,
       "path": "Outside",
       "inField": false,
       "isFocus": false,
+      "isCut": false
+    },
+    {
+      "abbr": "LAC",
+      "name": "Los Angeles Chargers",
+      "nickname": "Chargers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+      "conference": "AFC",
+      "division": "AFC West",
+      "seed": 14,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0,
+      "record": "1-8",
+      "pct": 0.111,
+      "pf": 144,
+      "pa": 239,
+      "diff": -95,
+      "ppg": 16.0,
+      "papg": 26.6,
+      "streak": "W1",
+      "divisionRecord": "0-3",
+      "conferenceRecord": "1-5",
+      "home": "0-4",
+      "road": "1-4",
+      "gr": 8,
+      "ypg": 313.3,
+      "yapg": 353.0,
+      "to": -5,
+      "playoffPct": 0.0,
+      "powerRank": 27,
+      "gb": "4.5",
+      "gbValue": 4.5,
+      "path": "Outside",
+      "inField": false,
+      "isFocus": true,
       "isCut": false
     },
     {
@@ -721,7 +757,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
       "conference": "AFC",
       "division": "AFC East",
-      "seed": 14,
+      "seed": 15,
       "wins": 1,
       "losses": 8,
       "ties": 0,
@@ -757,7 +793,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
       "conference": "AFC",
       "division": "AFC South",
-      "seed": 15,
+      "seed": 16,
       "wins": 1,
       "losses": 8,
       "ties": 0,
@@ -777,49 +813,13 @@
       "ypg": 290.6,
       "yapg": 405.6,
       "to": -1,
-      "playoffPct": 0.04,
+      "playoffPct": 0.0,
       "powerRank": 25,
       "gb": "4.5",
       "gbValue": 4.5,
       "path": "Outside",
       "inField": false,
       "isFocus": false,
-      "isCut": false
-    },
-    {
-      "abbr": "LAC",
-      "name": "Los Angeles Chargers",
-      "nickname": "Chargers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-      "conference": "AFC",
-      "division": "AFC West",
-      "seed": 16,
-      "wins": 0,
-      "losses": 8,
-      "ties": 0,
-      "record": "0-8",
-      "pct": 0.0,
-      "pf": 121,
-      "pa": 219,
-      "diff": -98,
-      "ppg": 15.1,
-      "papg": 27.4,
-      "streak": "L8",
-      "divisionRecord": "0-3",
-      "conferenceRecord": "0-5",
-      "home": "0-4",
-      "road": "0-4",
-      "gr": 9,
-      "ypg": 316.4,
-      "yapg": 352.6,
-      "to": -7,
-      "playoffPct": 0.02,
-      "powerRank": 32,
-      "gb": "5",
-      "gbValue": 5.0,
-      "path": "Outside",
-      "inField": false,
-      "isFocus": true,
       "isCut": false
     }
   ],
@@ -851,7 +851,7 @@
       "ypg": 401.0,
       "yapg": 325.6,
       "to": 6,
-      "playoffPct": 98.8,
+      "playoffPct": 98.92,
       "powerRank": 5,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -888,7 +888,7 @@
       "ypg": 283.7,
       "yapg": 374.2,
       "to": 5,
-      "playoffPct": 94.22,
+      "playoffPct": 95.14,
       "powerRank": 10,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -905,7 +905,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
       "conference": "AFC",
       "division": "AFC West",
-      "seed": 10,
+      "seed": 9,
       "wins": 4,
       "losses": 6,
       "ties": 0,
@@ -925,7 +925,7 @@
       "ypg": 325.1,
       "yapg": 398.9,
       "to": 3,
-      "playoffPct": 13.62,
+      "playoffPct": 12.52,
       "powerRank": 22,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -942,30 +942,30 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
       "conference": "AFC",
       "division": "AFC West",
-      "seed": 16,
-      "wins": 0,
+      "seed": 14,
+      "wins": 1,
       "losses": 8,
       "ties": 0,
-      "record": "0-8",
-      "pct": 0.0,
-      "pf": 121,
-      "pa": 219,
-      "diff": -98,
-      "ppg": 15.1,
-      "papg": 27.4,
-      "streak": "L8",
+      "record": "1-8",
+      "pct": 0.111,
+      "pf": 144,
+      "pa": 239,
+      "diff": -95,
+      "ppg": 16.0,
+      "papg": 26.6,
+      "streak": "W1",
       "divisionRecord": "0-3",
-      "conferenceRecord": "0-5",
+      "conferenceRecord": "1-5",
       "home": "0-4",
-      "road": "0-4",
-      "gr": 9,
-      "ypg": 316.4,
-      "yapg": 352.6,
-      "to": -7,
-      "playoffPct": 0.02,
-      "powerRank": 32,
-      "gb": "6.5",
-      "gbValue": 6.5,
+      "road": "1-4",
+      "gr": 8,
+      "ypg": 313.3,
+      "yapg": 353.0,
+      "to": -5,
+      "playoffPct": 0.0,
+      "powerRank": 27,
+      "gb": "6",
+      "gbValue": 6.0,
       "path": "Outside",
       "inField": false,
       "isFocus": true,
@@ -1031,7 +1031,7 @@
       "ypg": 395.3,
       "yapg": 361.0,
       "to": 2,
-      "playoffPct": 98.58,
+      "playoffPct": 98.84,
       "powerRank": 4
     },
     {
@@ -1061,7 +1061,7 @@
       "ypg": 372.4,
       "yapg": 328.6,
       "to": 9,
-      "playoffPct": 99.8,
+      "playoffPct": 99.84,
       "powerRank": 1
     },
     {
@@ -1091,7 +1091,7 @@
       "ypg": 401.0,
       "yapg": 325.6,
       "to": 6,
-      "playoffPct": 98.8,
+      "playoffPct": 98.92,
       "powerRank": 5
     }
   ],
@@ -1124,7 +1124,7 @@
       "ypg": 401.0,
       "yapg": 325.6,
       "to": 6,
-      "playoffPct": 98.8,
+      "playoffPct": 98.92,
       "powerRank": 5
     },
     {
@@ -1154,7 +1154,7 @@
       "ypg": 283.7,
       "yapg": 374.2,
       "to": 5,
-      "playoffPct": 94.22,
+      "playoffPct": 95.14,
       "powerRank": 10
     },
     {
@@ -1164,7 +1164,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
       "conference": "AFC",
       "division": "AFC West",
-      "seed": 10,
+      "seed": 9,
       "wins": 4,
       "losses": 6,
       "ties": 0,
@@ -1184,7 +1184,7 @@
       "ypg": 325.1,
       "yapg": 398.9,
       "to": 3,
-      "playoffPct": 13.62,
+      "playoffPct": 12.52,
       "powerRank": 22
     },
     {
@@ -1194,67 +1194,39 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
       "conference": "AFC",
       "division": "AFC West",
-      "seed": 16,
-      "wins": 0,
+      "seed": 14,
+      "wins": 1,
       "losses": 8,
       "ties": 0,
-      "record": "0-8",
-      "pct": 0.0,
-      "pf": 121,
-      "pa": 219,
-      "diff": -98,
-      "ppg": 15.1,
-      "papg": 27.4,
-      "streak": "L8",
+      "record": "1-8",
+      "pct": 0.111,
+      "pf": 144,
+      "pa": 239,
+      "diff": -95,
+      "ppg": 16.0,
+      "papg": 26.6,
+      "streak": "W1",
       "divisionRecord": "0-3",
-      "conferenceRecord": "0-5",
+      "conferenceRecord": "1-5",
       "home": "0-4",
-      "road": "0-4",
-      "gr": 9,
-      "ypg": 316.4,
-      "yapg": 352.6,
-      "to": -7,
-      "playoffPct": 0.02,
-      "powerRank": 32
+      "road": "1-4",
+      "gr": 8,
+      "ypg": 313.3,
+      "yapg": 353.0,
+      "to": -5,
+      "playoffPct": 0.0,
+      "powerRank": 27
     }
   ],
   "remaining": {
-    "games": 9,
+    "games": 8,
     "home": 4,
-    "away": 5,
+    "away": 4,
     "division": 3,
     "bye": 7,
-    "sos": 0.493
+    "sos": 0.499
   },
   "schedule": [
-    {
-      "id": "401873065",
-      "date": "2026-11-17T01:15Z",
-      "week": 10,
-      "isHome": false,
-      "opponent": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens",
-        "nickname": "Ravens",
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-        "record": "4-5",
-        "pct": 0.4444444444444444
-      },
-      "divisionGame": false,
-      "conferenceGame": true,
-      "venue": "M&T Bank Stadium",
-      "broadcast": "ESPN",
-      "detail": "13:25 - 2nd",
-      "live": true,
-      "final": false,
-      "winPct": 36,
-      "homeAbbr": "BAL",
-      "awayAbbr": "LAC",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null
-    },
     {
       "id": "401873074",
       "date": "2026-11-22T21:05Z",
@@ -1275,7 +1247,7 @@
       "detail": "11/22 - 4:05 PM EST",
       "live": false,
       "final": false,
-      "winPct": 44,
+      "winPct": 46,
       "homeAbbr": "LAC",
       "awayAbbr": "NYJ",
       "homeScore": null,
@@ -1303,7 +1275,7 @@
       "detail": "11/29 - 8:20 PM EST",
       "live": false,
       "final": false,
-      "winPct": 37,
+      "winPct": 39,
       "homeAbbr": "LAC",
       "awayAbbr": "NE",
       "homeScore": null,
@@ -1331,7 +1303,7 @@
       "detail": "12/6 - 1:00 PM EST",
       "live": false,
       "final": false,
-      "winPct": 23,
+      "winPct": 25,
       "homeAbbr": "TB",
       "awayAbbr": "LAC",
       "homeScore": null,
@@ -1359,7 +1331,7 @@
       "detail": "12/13 - 4:05 PM EST",
       "live": false,
       "final": false,
-      "winPct": 33,
+      "winPct": 35,
       "homeAbbr": "LV",
       "awayAbbr": "LAC",
       "homeScore": null,
@@ -1387,7 +1359,7 @@
       "detail": "12/17 - 8:15 PM EST",
       "live": false,
       "final": false,
-      "winPct": 20,
+      "winPct": 22,
       "homeAbbr": "LAC",
       "awayAbbr": "SF",
       "homeScore": null,
@@ -1415,7 +1387,7 @@
       "detail": "12/27 - 1:00 PM EST",
       "live": false,
       "final": false,
-      "winPct": 42,
+      "winPct": 44,
       "homeAbbr": "MIA",
       "awayAbbr": "LAC",
       "homeScore": null,
@@ -1443,7 +1415,7 @@
       "detail": "TBD",
       "live": false,
       "final": false,
-      "winPct": 19,
+      "winPct": 21,
       "homeAbbr": "LAC",
       "awayAbbr": "KC",
       "homeScore": null,
@@ -1471,7 +1443,7 @@
       "detail": "TBD",
       "live": false,
       "final": false,
-      "winPct": 26,
+      "winPct": 27,
       "homeAbbr": "DEN",
       "awayAbbr": "LAC",
       "homeScore": null,
@@ -1481,17 +1453,6 @@
     }
   ],
   "rooting": [
-    {
-      "date": "2026-11-17T01:15Z",
-      "homeAbbr": "BAL",
-      "awayAbbr": "LAC",
-      "homeWinPct": 64,
-      "awayWinPct": 36,
-      "interest": "Chargers game",
-      "tagClass": "jays",
-      "note": "The Chargers are on the road against the Ravens.",
-      "live": true
-    },
     {
       "date": "2026-11-22T18:00Z",
       "homeAbbr": "KC",
@@ -1540,8 +1501,8 @@
       "date": "2026-11-22T21:05Z",
       "homeAbbr": "LAC",
       "awayAbbr": "NYJ",
-      "homeWinPct": 44,
-      "awayWinPct": 56,
+      "homeWinPct": 46,
+      "awayWinPct": 54,
       "interest": "Chargers game",
       "tagClass": "jays",
       "note": "The Chargers are at home against the Jets.",
@@ -1567,6 +1528,17 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "The Jaguars hold the No. 3 seed. A loss helps the cut line.",
+      "live": false
+    },
+    {
+      "date": "2026-11-24T01:15Z",
+      "homeAbbr": "WSH",
+      "awayAbbr": "CIN",
+      "homeWinPct": 35,
+      "awayWinPct": 65,
+      "interest": "Need a loss",
+      "tagClass": "need",
+      "note": "The Bengals hold the No. 4 seed. A loss helps the cut line.",
       "live": false
     }
   ],
@@ -1802,13 +1774,42 @@
       "usScore": "22",
       "themScore": "44",
       "result": "L"
+    },
+    {
+      "id": "401873065",
+      "date": "2026-11-17T01:15Z",
+      "week": 10,
+      "isHome": false,
+      "opponent": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "nickname": "Ravens",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "record": "4-6",
+        "pct": 0.4
+      },
+      "divisionGame": false,
+      "conferenceGame": true,
+      "venue": "M&T Bank Stadium",
+      "broadcast": "ESPN",
+      "detail": "Final",
+      "live": false,
+      "final": true,
+      "winPct": null,
+      "homeAbbr": "BAL",
+      "awayAbbr": "LAC",
+      "homeScore": "20",
+      "awayScore": "23",
+      "usScore": "23",
+      "themScore": "20",
+      "result": "W"
     }
   ],
   "recentBlurb": "The games already in the book.",
   "tiebreak": {
     "division": "0-3",
-    "conference": "0-5",
-    "diff": "-98",
+    "conference": "1-5",
+    "diff": "-95",
     "headToHead": "Head-to-head inside the West: L 14\u201326 vs LV; L 17\u201323 vs DEN; L 6\u201322 @ KC.",
     "detail": "If the West finishes level, the NFL starts with head-to-head, then division record, then common games, then conference record. Point differential is the eye test. It is not the first tiebreaker.",
     "elimination": 3,
@@ -1822,12 +1823,6 @@
       "detail": ""
     },
     {
-      "name": "Oronde Gadsden",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Ladd McConkey",
       "position": "WR",
       "status": "Out",
@@ -1836,12 +1831,6 @@
     {
       "name": "Trey Pipkins III",
       "position": "OT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Branson Taylor",
-      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1861,6 +1850,12 @@
       "name": "Justin Eboigbe",
       "position": "DT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Rodney Shelley",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1894,26 +1889,20 @@
       "detail": ""
     },
     {
-      "name": "David Njoku",
-      "position": "TE",
-      "status": "IR",
-      "detail": ""
-    },
-    {
       "name": "Trevor Penning",
       "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Denzel Perryman",
-      "position": "LB",
-      "status": "IR",
+      "name": "Rashawn Slater",
+      "position": "OT",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Rashawn Slater",
-      "position": "OT",
+      "name": "Branson Taylor",
+      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1933,8 +1922,8 @@
         "position": "QB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038941.png",
-        "line": "144/235, 1591 YDS, 6 TD, 11 INT",
-        "value": "70.4",
+        "line": "156/253, 1720 YDS, 6 TD, 11 INT",
+        "value": "71.6",
         "statLabel": "RTG"
       }
     ],
@@ -1945,8 +1934,18 @@
         "position": "RB",
         "jersey": "8",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685382.png",
-        "line": "102 CAR, 369 YDS, 3 TD",
-        "value": "369",
+        "line": "124 CAR, 474 YDS, 4 TD",
+        "value": "474",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4686612",
+        "name": "Tre' Harris",
+        "position": "WR",
+        "jersey": "9",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686612.png",
+        "line": "26 REC, 348 YDS",
+        "value": "348",
         "statLabel": "YDS"
       },
       {
@@ -1960,23 +1959,13 @@
         "statLabel": "YDS"
       },
       {
-        "id": "4686612",
-        "name": "Tre' Harris",
-        "position": "WR",
-        "jersey": "9",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686612.png",
-        "line": "21 REC, 262 YDS",
-        "value": "262",
-        "statLabel": "YDS"
-      },
-      {
         "id": "4596334",
         "name": "Keaton Mitchell",
         "position": "RB",
         "jersey": "34",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596334.png",
-        "line": "46 CAR, 178 YDS",
-        "value": "178",
+        "line": "49 CAR, 182 YDS",
+        "value": "182",
         "statLabel": "YDS"
       },
       {
@@ -1985,8 +1974,8 @@
         "position": "TE",
         "jersey": "86",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4595342.png",
-        "line": "19 REC, 172 YDS, 1 TD",
-        "value": "172",
+        "line": "20 REC, 179 YDS, 1 TD",
+        "value": "179",
         "statLabel": "YDS"
       },
       {
@@ -1995,7 +1984,7 @@
         "position": "RB",
         "jersey": "28",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430968.png",
-        "line": "36 CAR, 162 YDS, 1 TD",
+        "line": "38 CAR, 162 YDS, 1 TD",
         "value": "162",
         "statLabel": "YDS"
       },
@@ -2005,8 +1994,8 @@
         "position": "TE",
         "jersey": "88",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241263.png",
-        "line": "13 REC, 129 YDS",
-        "value": "129",
+        "line": "15 REC, 145 YDS",
+        "value": "145",
         "statLabel": "YDS"
       },
       {
@@ -2027,8 +2016,8 @@
         "position": "LB",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241597.png",
-        "line": "51 \u00b7 1 INT",
-        "value": "51",
+        "line": "62 \u00b7 1 INT",
+        "value": "62",
         "statLabel": "TKL"
       },
       {
@@ -2037,8 +2026,8 @@
         "position": "LB",
         "jersey": "53",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240528.png",
-        "line": "40",
-        "value": "40",
+        "line": "49 \u00b7 1 INT",
+        "value": "49",
         "statLabel": "TKL"
       },
       {
@@ -2047,8 +2036,8 @@
         "position": "S",
         "jersey": "23",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16195.png",
-        "line": "36",
-        "value": "36",
+        "line": "41",
+        "value": "41",
         "statLabel": "TKL"
       },
       {
@@ -2057,8 +2046,8 @@
         "position": "CB",
         "jersey": "20",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427404.png",
-        "line": "32 \u00b7 2 INT",
-        "value": "32",
+        "line": "37 \u00b7 2 INT",
+        "value": "37",
         "statLabel": "TKL"
       },
       {
@@ -2067,18 +2056,18 @@
         "position": "CB",
         "jersey": "2",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243328.png",
-        "line": "31",
-        "value": "31",
+        "line": "36",
+        "value": "36",
         "statLabel": "TKL"
       },
       {
-        "id": "4431442",
-        "name": "Tuli Tuipulotu",
-        "position": "LB",
-        "jersey": "45",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431442.png",
-        "line": "31 \u00b7 3 SACK \u00b7 1 INT",
-        "value": "31",
+        "id": "4432571",
+        "name": "Tarheeb Still",
+        "position": "CB",
+        "jersey": "4",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432571.png",
+        "line": "34",
+        "value": "34",
         "statLabel": "TKL"
       },
       {
@@ -2092,16 +2081,16 @@
         "statLabel": "SACK"
       },
       {
-        "id": "4429190",
-        "name": "Akheem Mesidor",
+        "id": "4431442",
+        "name": "Tuli Tuipulotu",
         "position": "LB",
-        "jersey": "90",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429190.png",
-        "line": "2.5",
-        "value": "2.5",
+        "jersey": "45",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431442.png",
+        "line": "3",
+        "value": "3",
         "statLabel": "SACK"
       }
     ]
   },
-  "qbRating": 70.6
+  "qbRating": 71.8
 }
