@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T05:37:45.247673-05:00",
+  "generatedAt": "2026-11-17T14:46:34.053056-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -102,10 +102,10 @@
     }
   },
   "playoffOdds": {
-    "percent": 0.78,
+    "percent": 0.72,
     "sims": 5000,
-    "note": "Division title in 0.8% of sims, wild card in 0.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
-    "divisionPercent": 0.78,
+    "note": "Division title in 0.7% of sims, wild card in 0.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "divisionPercent": 0.72,
     "wildcardPercent": 0.0
   },
   "kpis": [
@@ -309,7 +309,7 @@
       "ypg": 407.6,
       "yapg": 356.4,
       "to": 2,
-      "playoffPct": 90.82,
+      "playoffPct": 90.78,
       "powerRank": 6,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -345,7 +345,7 @@
       "ypg": 356.2,
       "yapg": 317.4,
       "to": -2,
-      "playoffPct": 65.46,
+      "playoffPct": 65.56,
       "powerRank": 14,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -381,7 +381,7 @@
       "ypg": 372.3,
       "yapg": 341.9,
       "to": 1,
-      "playoffPct": 36.48,
+      "playoffPct": 36.2,
       "powerRank": 19,
       "gb": "1.5",
       "gbValue": 1.5,
@@ -453,7 +453,7 @@
       "ypg": 398.7,
       "yapg": 326.7,
       "to": -4,
-      "playoffPct": 80.46,
+      "playoffPct": 80.44,
       "powerRank": 8,
       "gb": "+1.5",
       "gbValue": -1.5,
@@ -525,7 +525,7 @@
       "ypg": 347.6,
       "yapg": 252.9,
       "to": -3,
-      "playoffPct": 55.56,
+      "playoffPct": 55.66,
       "powerRank": 11,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -561,7 +561,7 @@
       "ypg": 396.6,
       "yapg": 295.8,
       "to": -3,
-      "playoffPct": 49.26,
+      "playoffPct": 49.38,
       "powerRank": 3,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -597,7 +597,7 @@
       "ypg": 375.2,
       "yapg": 406.3,
       "to": -3,
-      "playoffPct": 29.28,
+      "playoffPct": 28.98,
       "powerRank": 18,
       "gb": "2",
       "gbValue": 2.0,
@@ -633,7 +633,7 @@
       "ypg": 341.8,
       "yapg": 363.9,
       "to": 7,
-      "playoffPct": 6.14,
+      "playoffPct": 6.32,
       "powerRank": 17,
       "gb": "2",
       "gbValue": 2.0,
@@ -669,7 +669,7 @@
       "ypg": 322.0,
       "yapg": 305.8,
       "to": 7,
-      "playoffPct": 49.78,
+      "playoffPct": 49.98,
       "powerRank": 7,
       "gb": "2.5",
       "gbValue": 2.5,
@@ -813,7 +813,7 @@
       "ypg": 281.9,
       "yapg": 365.0,
       "to": -4,
-      "playoffPct": 0.78,
+      "playoffPct": 0.72,
       "powerRank": 30,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -851,7 +851,7 @@
       "ypg": 356.2,
       "yapg": 317.4,
       "to": -2,
-      "playoffPct": 65.46,
+      "playoffPct": 65.56,
       "powerRank": 14,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -888,7 +888,7 @@
       "ypg": 375.2,
       "yapg": 406.3,
       "to": -3,
-      "playoffPct": 29.28,
+      "playoffPct": 28.98,
       "powerRank": 18,
       "gb": "2",
       "gbValue": 2.0,
@@ -925,7 +925,7 @@
       "ypg": 341.8,
       "yapg": 363.9,
       "to": 7,
-      "playoffPct": 6.14,
+      "playoffPct": 6.32,
       "powerRank": 17,
       "gb": "2",
       "gbValue": 2.0,
@@ -962,7 +962,7 @@
       "ypg": 281.9,
       "yapg": 365.0,
       "to": -4,
-      "playoffPct": 0.78,
+      "playoffPct": 0.72,
       "powerRank": 30,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -1001,7 +1001,7 @@
       "ypg": 356.2,
       "yapg": 317.4,
       "to": -2,
-      "playoffPct": 65.46,
+      "playoffPct": 65.56,
       "powerRank": 14
     },
     {
@@ -1031,7 +1031,7 @@
       "ypg": 407.6,
       "yapg": 356.4,
       "to": 2,
-      "playoffPct": 90.82,
+      "playoffPct": 90.78,
       "powerRank": 6
     },
     {
@@ -1061,7 +1061,7 @@
       "ypg": 372.3,
       "yapg": 341.9,
       "to": 1,
-      "playoffPct": 36.48,
+      "playoffPct": 36.2,
       "powerRank": 19
     },
     {
@@ -1124,7 +1124,7 @@
       "ypg": 356.2,
       "yapg": 317.4,
       "to": -2,
-      "playoffPct": 65.46,
+      "playoffPct": 65.56,
       "powerRank": 14
     },
     {
@@ -1154,7 +1154,7 @@
       "ypg": 375.2,
       "yapg": 406.3,
       "to": -3,
-      "playoffPct": 29.28,
+      "playoffPct": 28.98,
       "powerRank": 18
     },
     {
@@ -1184,7 +1184,7 @@
       "ypg": 341.8,
       "yapg": 363.9,
       "to": 7,
-      "playoffPct": 6.14,
+      "playoffPct": 6.32,
       "powerRank": 17
     },
     {
@@ -1214,7 +1214,7 @@
       "ypg": 281.9,
       "yapg": 365.0,
       "to": -4,
-      "playoffPct": 0.78,
+      "playoffPct": 0.72,
       "powerRank": 30
     }
   ],
@@ -1825,7 +1825,7 @@
     {
       "name": "Britain Covey",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1837,13 +1837,13 @@
     {
       "name": "DeVonta Smith",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Dontayvion Wicks",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1855,19 +1855,19 @@
     {
       "name": "Jihaad Campbell",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Michael Carter II",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jonathan Jones",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
