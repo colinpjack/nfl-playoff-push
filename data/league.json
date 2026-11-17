@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
+  "generatedAt": "2026-11-16T21:03:39.800191-05:00",
   "season": 2026,
   "week": 10,
   "weekLabel": "Week 10 \u00b7 2026",
@@ -3536,8 +3536,8 @@
       "id": "401873065",
       "date": "2026-11-17T01:15Z",
       "week": 10,
-      "status": "Mon, Nov 16 \u00b7 8:15 PM",
-      "live": false,
+      "status": "13:25 - 2nd",
+      "live": true,
       "completed": false,
       "venue": "M&T Bank Stadium",
       "broadcast": "ESPN",

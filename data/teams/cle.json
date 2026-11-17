@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
+  "generatedAt": "2026-11-16T21:03:39.800191-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CLE",
@@ -1434,7 +1434,7 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Ravens loss helps the North race.",
-      "live": false
+      "live": true
     },
     {
       "date": "2026-11-22T18:00Z",
@@ -1818,38 +1818,8 @@
   },
   "injuries": [
     {
-      "name": "Parker Brailsford",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dillon Gabriel",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Taylen Green",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Ronnie Hickman",
       "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Noah Igbinoghene",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Justin Jefferson",
-      "position": "LB",
       "status": "Out",
       "detail": ""
     },

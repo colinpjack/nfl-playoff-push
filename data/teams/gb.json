@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:24:11.505632-05:00",
+  "generatedAt": "2026-11-16T21:03:39.800191-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1824,12 +1824,6 @@
       "detail": ""
     },
     {
-      "name": "Donovan Jennings",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Bo Melton",
       "position": "WR",
       "status": "Questionable",
@@ -1844,12 +1838,6 @@
     {
       "name": "Sean Rhyan",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Pierre Strong Jr.",
-      "position": "RB",
       "status": "Out",
       "detail": ""
     },
