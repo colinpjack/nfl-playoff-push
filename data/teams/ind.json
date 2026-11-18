@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:46:34.053056-05:00",
+  "generatedAt": "2026-11-17T21:22:07.134761-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1854,12 +1854,6 @@
       "detail": ""
     },
     {
-      "name": "Jaylon Carlies",
-      "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Sauce Gardner",
       "position": "CB",
       "status": "Questionable",
@@ -1886,6 +1880,12 @@
     {
       "name": "Mo Alie-Cox",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jaylon Carlies",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

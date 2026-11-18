@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:46:34.053056-05:00",
+  "generatedAt": "2026-11-17T21:22:07.134761-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1817,12 +1817,6 @@
   },
   "injuries": [
     {
-      "name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1861,6 +1855,12 @@
     {
       "name": "Leo Chenal",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
