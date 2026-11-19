@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
+  "generatedAt": "2026-11-19T04:27:54.392040-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1835,14 +1835,14 @@
       "detail": ""
     },
     {
-      "name": "Jared Wiley",
-      "position": "TE",
-      "status": "Injured Reserve",
+      "name": "Nick Bolton",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Nick Bolton",
-      "position": "LB",
+      "name": "Omarr Norman-Lott",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },
@@ -1868,12 +1868,6 @@
       "name": "Jimmy Holiday",
       "position": "WR",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Omarr Norman-Lott",
-      "position": "DT",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1903,6 +1897,12 @@
     {
       "name": "Matt Waletzko",
       "position": "OT",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jared Wiley",
+      "position": "TE",
       "status": "Injured Reserve",
       "detail": ""
     }

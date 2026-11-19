@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
+  "generatedAt": "2026-11-19T04:27:54.392040-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1847,12 +1847,6 @@
       "detail": ""
     },
     {
-      "name": "Aidan Hutchinson",
-      "position": "DE",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Tyler Lacy",
       "position": "DT",
       "status": "Questionable",
@@ -1889,9 +1883,9 @@
       "detail": ""
     },
     {
-      "name": "Kerby Joseph",
-      "position": "S",
-      "status": "IR",
+      "name": "Aidan Hutchinson",
+      "position": "DE",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
