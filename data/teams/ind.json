@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:27:54.392040-05:00",
+  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1832,6 +1832,12 @@
     {
       "name": "Anthony Gould",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Charlie Heck",
+      "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
