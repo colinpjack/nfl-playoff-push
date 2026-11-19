@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1817,6 +1817,12 @@
   },
   "injuries": [
     {
+      "name": "Tyjae Spears",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Carnell Tate",
       "position": "WR",
       "status": "Questionable",
@@ -1831,6 +1837,12 @@
     {
       "name": "Cody Barton",
       "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Franklin-Myers",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },

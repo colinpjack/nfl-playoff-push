@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1854,15 +1854,21 @@
       "detail": ""
     },
     {
-      "name": "Jarvis Brownlee Jr.",
-      "position": "CB",
+      "name": "Kiko Mauigoa",
+      "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Joseph Ossai",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Kiko Mauigoa",
-      "position": "LB",
-      "status": "Injured Reserve",
+      "name": "Harrison Phillips",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {

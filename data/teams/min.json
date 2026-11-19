@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1823,12 +1823,6 @@
       "detail": ""
     },
     {
-      "name": "Jauan Jennings",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jeshaun Jones",
       "position": "WR",
       "status": "Questionable",
@@ -1847,20 +1841,20 @@
       "detail": ""
     },
     {
-      "name": "Tyrion Ingram-Dawkins",
-      "position": "DE",
+      "name": "Andrew Van Ginkel",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Bo Richter",
+      "name": "Kyle Van Noy",
       "position": "LB",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Andrew Van Ginkel",
-      "position": "LB",
+      "name": "Jay Ward",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1903,6 +1897,12 @@
     {
       "name": "Josh Oliver",
       "position": "TE",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Bo Richter",
+      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

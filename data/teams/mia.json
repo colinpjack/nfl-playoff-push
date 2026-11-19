@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1829,6 +1829,12 @@
       "detail": ""
     },
     {
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Andrew Meyer",
       "position": "C",
       "status": "Questionable",
@@ -1837,6 +1843,36 @@
     {
       "name": "Jared Wayne",
       "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "JuJu Brents",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jaylin Simpson",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dante Trader Jr.",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tucker Addington",
+      "position": "LS",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Bradley Pinion",
+      "position": "P",
       "status": "Questionable",
       "detail": ""
     },

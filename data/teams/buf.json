@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1817,6 +1817,24 @@
   },
   "injuries": [
     {
+      "name": "Ray Davis",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jackson Hawes",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dalton Kincaid",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Dee Alford",
       "position": "CB",
       "status": "Questionable",
@@ -1825,6 +1843,24 @@
     {
       "name": "Christian Benford",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Cole Bishop",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Damar Hamlin",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Amani Hooker",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1850,12 +1886,6 @@
       "name": "Ar'maj Reed-Adams",
       "position": "G",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Tyrell Shavers",
-      "position": "WR",
-      "status": "IR",
       "detail": ""
     },
     {

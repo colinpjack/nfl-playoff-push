@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1823,12 +1823,6 @@
       "detail": ""
     },
     {
-      "name": "Jaydn Ott",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Trey Smith",
       "position": "G",
       "status": "Questionable",
@@ -1843,12 +1837,12 @@
     {
       "name": "Jared Wiley",
       "position": "TE",
-      "status": "Out",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Peter Woods",
-      "position": "DT",
+      "name": "Nick Bolton",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1879,7 +1873,7 @@
     {
       "name": "Omarr Norman-Lott",
       "position": "DT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

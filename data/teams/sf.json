@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1829,7 +1829,49 @@
       "detail": ""
     },
     {
+      "name": "Mac Jones",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ji'Ayir Brown",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Luke Gifford",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Renardo Green",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dre Greenlaw",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Khalid Kareem",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Siran Neal",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Upton Stout",
       "position": "CB",
       "status": "Questionable",
       "detail": ""

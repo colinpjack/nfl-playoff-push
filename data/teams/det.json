@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1823,6 +1823,24 @@
       "detail": ""
     },
     {
+      "name": "Sione Vaki",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Joe Bachie",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Khalil Dorsey",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Thomas Harper",
       "position": "S",
       "status": "Injured Reserve",
@@ -1831,7 +1849,19 @@
     {
       "name": "Aidan Hutchinson",
       "position": "DE",
-      "status": "Out",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Tyler Lacy",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Ennis Rakestraw Jr.",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1861,7 +1891,7 @@
     {
       "name": "Kerby Joseph",
       "position": "S",
-      "status": "Out",
+      "status": "IR",
       "detail": ""
     },
     {

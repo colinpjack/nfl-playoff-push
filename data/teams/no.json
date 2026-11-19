@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:22:22.848452-05:00",
+  "generatedAt": "2026-11-18T20:27:36.866151-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1817,12 +1817,6 @@
   },
   "injuries": [
     {
-      "name": "CJ Donaldson",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Taliese Fuaga",
       "position": "OT",
       "status": "Doubtful",
@@ -1838,6 +1832,24 @@
       "name": "Asim Richards",
       "position": "OT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jordyn Tyson",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Martin Emerson Jr.",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Decamerion Richardson",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
