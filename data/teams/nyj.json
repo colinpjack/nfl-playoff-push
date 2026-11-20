@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T04:07:58.000131-05:00",
+  "generatedAt": "2026-11-20T12:59:05.055808-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1832,7 +1832,7 @@
     {
       "name": "Omar Cooper Jr.",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1850,7 +1850,7 @@
     {
       "name": "Isaiah Williams",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
