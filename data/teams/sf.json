@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1829,6 +1829,12 @@
       "detail": ""
     },
     {
+      "name": "Jordan James",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Mac Jones",
       "position": "QB",
       "status": "Questionable",
@@ -1847,12 +1853,6 @@
       "detail": ""
     },
     {
-      "name": "Renardo Green",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Dre Greenlaw",
       "position": "LB",
       "status": "Questionable",
@@ -1861,12 +1861,6 @@
     {
       "name": "Khalid Kareem",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Siran Neal",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1847,12 +1847,6 @@
       "detail": ""
     },
     {
-      "name": "Cole Bishop",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Damar Hamlin",
       "position": "S",
       "status": "Questionable",
@@ -1861,6 +1855,12 @@
     {
       "name": "Amani Hooker",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "T.J. Sanders",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

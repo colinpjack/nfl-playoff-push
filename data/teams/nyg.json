@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1823,20 +1823,8 @@
       "detail": ""
     },
     {
-      "name": "Malik Harrison",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Nic Jones",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jason Pinnock",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },

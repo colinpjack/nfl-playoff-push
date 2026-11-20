@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1848,6 +1848,12 @@
       "detail": ""
     },
     {
+      "name": "Luke Schoonmaker",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "DaRon Bland",
       "position": "CB",
       "status": "Out",
@@ -1866,8 +1872,8 @@
       "detail": ""
     },
     {
-      "name": "Juanyeh Thomas",
-      "position": "S",
+      "name": "Shavon Revel Jr.",
+      "position": "CB",
       "status": "Questionable",
       "detail": ""
     },

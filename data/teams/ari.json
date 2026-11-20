@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1830,6 +1830,12 @@
   },
   "injuries": [
     {
+      "name": "Carson Beck",
+      "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jalen Brooks",
       "position": "WR",
       "status": "Injured Reserve",
@@ -1848,25 +1854,7 @@
       "detail": ""
     },
     {
-      "name": "Jayden Williams",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Roy Lopez",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Max Melton",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Walter Nolen III",
       "position": "DT",
       "status": "Questionable",
       "detail": ""

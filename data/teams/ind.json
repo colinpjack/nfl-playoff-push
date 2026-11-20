@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1830,15 +1830,9 @@
   },
   "injuries": [
     {
-      "name": "Anthony Gould",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Charlie Heck",
-      "position": "OT",
-      "status": "Questionable",
+      "name": "Riley Leonard",
+      "position": "QB",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1862,7 +1856,7 @@
     {
       "name": "Sauce Gardner",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1875,12 +1869,6 @@
       "name": "Charvarius Ward",
       "position": "CB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Luke Rhodes",
-      "position": "LS",
-      "status": "Questionable",
       "detail": ""
     },
     {

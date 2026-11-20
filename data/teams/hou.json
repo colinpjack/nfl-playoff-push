@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:38:18.933601-05:00",
+  "generatedAt": "2026-11-19T20:13:33.259872-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1817,6 +1817,12 @@
   },
   "injuries": [
     {
+      "name": "Jake Andrews",
+      "position": "C",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "status": "Out",
@@ -1849,25 +1855,19 @@
     {
       "name": "Wyatt Teller",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Jake Hummel",
-      "position": "LB",
-      "status": "Questionable",
+      "name": "Nate Thomas",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Danielle Hunter",
       "position": "DE",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jaylin Smith",
-      "position": "CB",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
