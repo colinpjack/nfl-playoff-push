@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:59:05.055808-05:00",
+  "generatedAt": "2026-11-20T18:57:03.313282-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1944,10 +1944,10 @@
     "quarterback": [
       {
         "id": "3917792",
-        "name": "Daniel Jones",
-        "position": "QB",
-        "jersey": "17",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "205/351, 1974 YDS, 7 TD, 13 INT",
         "value": "65.4",
         "statLabel": "RTG"

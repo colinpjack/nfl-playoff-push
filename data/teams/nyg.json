@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:59:05.055808-05:00",
+  "generatedAt": "2026-11-20T18:57:03.313282-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1820,12 +1820,6 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Nic Jones",
-      "position": "CB",
-      "status": "Questionable",
       "detail": ""
     },
     {

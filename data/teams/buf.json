@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:59:05.055808-05:00",
+  "generatedAt": "2026-11-20T18:57:03.313282-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1817,12 +1817,6 @@
   },
   "injuries": [
     {
-      "name": "Ray Davis",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jackson Hawes",
       "position": "TE",
       "status": "Questionable",
@@ -1831,7 +1825,7 @@
     {
       "name": "Dalton Kincaid",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
@@ -1843,17 +1837,11 @@
     {
       "name": "Christian Benford",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Damar Hamlin",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Amani Hooker",
       "position": "S",
       "status": "Questionable",
       "detail": ""
@@ -1867,7 +1855,7 @@
     {
       "name": "Dorian Williams",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

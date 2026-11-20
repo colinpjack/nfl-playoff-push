@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:59:05.055808-05:00",
+  "generatedAt": "2026-11-20T18:57:03.313282-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1844,12 +1844,18 @@
     {
       "name": "Jonathan Mingo",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Luke Schoonmaker",
       "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jaishawn Barham",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1860,21 +1866,9 @@
       "detail": ""
     },
     {
-      "name": "Donovan Ezeiruaku",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "P.J. Locke",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Shavon Revel Jr.",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

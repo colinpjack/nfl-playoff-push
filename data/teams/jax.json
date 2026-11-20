@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:59:05.055808-05:00",
+  "generatedAt": "2026-11-20T18:57:03.313282-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1817,39 +1817,9 @@
   },
   "injuries": [
     {
-      "name": "LeQuint Allen Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Robert Hainsey",
       "position": "C",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jonah Monheim",
-      "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Bhayshul Tuten",
-      "position": "RB",
-      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1859,25 +1829,7 @@
       "detail": ""
     },
     {
-      "name": "Antonio Johnson",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jalen McLeod",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Danny Striggow",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Travon Walker",
       "position": "DE",
       "status": "Questionable",
       "detail": ""
