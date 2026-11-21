@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:57:05.061682-05:00",
+  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1825,13 +1825,7 @@
     {
       "name": "Dalton Risner",
       "position": "G",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Oren Burks",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1848,6 +1842,12 @@
     },
     {
       "name": "Swayze Bozeman",
+      "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Oren Burks",
       "position": "LB",
       "status": "Injured Reserve",
       "detail": ""

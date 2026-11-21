@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:57:05.061682-05:00",
+  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1819,18 +1819,12 @@
     {
       "name": "Tyjae Spears",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
       "name": "Carnell Tate",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tony Adams",
-      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
