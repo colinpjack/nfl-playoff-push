@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
+  "generatedAt": "2026-11-22T12:04:51.940278-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1823,26 +1823,44 @@
       "detail": ""
     },
     {
-      "name": "Tommy Tremble",
-      "position": "TE",
-      "status": "Questionable",
+      "name": "AJ Dillon",
+      "position": "RB",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Darren Waller",
-      "position": "TE",
-      "status": "Questionable",
+      "name": "Sam Hecht",
+      "position": "C",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Mike Jackson",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Haynes King",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Ja'Tavion Sanders",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "TeRah Edwards",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Bobby Okereke",
       "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Marco Wilson",
+      "position": "CB",
       "status": "Out",
       "detail": ""
     },

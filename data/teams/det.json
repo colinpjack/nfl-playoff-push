@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
+  "generatedAt": "2026-11-22T12:04:51.940278-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1817,21 +1817,9 @@
   },
   "injuries": [
     {
-      "name": "Sione Vaki",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Joe Bachie",
-      "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Khalil Dorsey",
+      "name": "Keith Abney II",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1841,21 +1829,33 @@
       "detail": ""
     },
     {
-      "name": "Tyler Lacy",
-      "position": "DT",
-      "status": "Questionable",
+      "name": "Amen Ogbongbemiga",
+      "position": "LB",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Ennis Rakestraw Jr.",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "D.J. Reed",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Tyrus Wheat",
+      "position": "LB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Mekhi Wingo",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {

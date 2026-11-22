@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
+  "generatedAt": "2026-11-22T12:04:51.940278-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NO",
@@ -1817,6 +1817,12 @@
   },
   "injuries": [
     {
+      "name": "Audric Estime",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Taliese Fuaga",
       "position": "OT",
       "status": "Out",
@@ -1835,21 +1841,21 @@
       "detail": ""
     },
     {
+      "name": "Zach Wilson",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Martin Emerson Jr.",
       "position": "CB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Decamerion Richardson",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Pete Werner",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
