@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
+  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1952,12 +1952,6 @@
       "name": "Brett Toth",
       "position": "C",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "C.J. West",
-      "position": "DT",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {

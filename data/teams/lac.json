@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
+  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAC",
@@ -1837,7 +1837,7 @@
     {
       "name": "Trey Pipkins III",
       "position": "OT",
-      "status": "Injured Reserve",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1849,12 +1849,6 @@
     {
       "name": "Daiyan Henley",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Rodney Shelley",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },
@@ -1897,6 +1891,12 @@
     {
       "name": "Trevor Penning",
       "position": "G",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Rodney Shelley",
+      "position": "CB",
       "status": "Injured Reserve",
       "detail": ""
     },

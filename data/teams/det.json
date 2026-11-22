@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
+  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1817,12 +1817,6 @@
   },
   "injuries": [
     {
-      "name": "Cade Mays",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Sione Vaki",
       "position": "RB",
       "status": "Questionable",
@@ -1910,6 +1904,12 @@
       "name": "Giovanni Manu",
       "position": "OT",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Cade Mays",
+      "position": "C",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

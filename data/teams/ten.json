@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
+  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1817,12 +1817,6 @@
   },
   "injuries": [
     {
-      "name": "Tyjae Spears",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Carnell Tate",
       "position": "WR",
       "status": "Questionable",
@@ -1891,6 +1885,12 @@
     {
       "name": "Jackson Slater",
       "position": "G",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Tyjae Spears",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

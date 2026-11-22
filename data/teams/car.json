@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:05:24.429701-05:00",
+  "generatedAt": "2026-11-21T20:13:28.184180-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1835,14 +1835,14 @@
       "detail": ""
     },
     {
-      "name": "Bobby Okereke",
-      "position": "LB",
-      "status": "Out",
+      "name": "Mike Jackson",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Isaiah Simmons",
-      "position": "S",
+      "name": "Bobby Okereke",
+      "position": "LB",
       "status": "Out",
       "detail": ""
     },
@@ -1889,12 +1889,6 @@
       "detail": ""
     },
     {
-      "name": "Mike Jackson",
-      "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Taylor Moton",
       "position": "OT",
       "status": "Injured Reserve",
@@ -1903,6 +1897,12 @@
     {
       "name": "Nic Scourton",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Isaiah Simmons",
+      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     },
