@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:24:00.238580-05:00",
+  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -1826,7 +1826,7 @@
     {
       "name": "Josh Jacobs",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1844,24 +1844,24 @@
     {
       "name": "Sean Rhyan",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Kevin Zeitler",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Zaire Franklin",
       "position": "LB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Isaiah McDuffie",
-      "position": "LB",
+      "name": "Micah Parsons",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1917,12 +1917,6 @@
       "name": "Collin Oliver",
       "position": "DE",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Micah Parsons",
-      "position": "DE",
-      "status": "Out",
       "detail": ""
     },
     {

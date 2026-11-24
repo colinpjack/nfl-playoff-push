@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:24:00.238580-05:00",
+  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1820,19 +1820,19 @@
     {
       "name": "Kyler Murray",
       "position": "QB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Isaiah Rodgers",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Jay Ward",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1844,7 +1844,7 @@
     {
       "name": "Jordan Addison",
       "position": "WR",
-      "status": "Out",
+      "status": "Doubtful",
       "detail": ""
     },
     {

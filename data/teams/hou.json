@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:24:00.238580-05:00",
+  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "HOU",
@@ -1826,13 +1826,13 @@
     {
       "name": "Marvin Harrison Jr.",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Brevin Jordan",
       "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1844,7 +1844,7 @@
     {
       "name": "Woody Marks",
       "position": "RB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1862,13 +1862,13 @@
     {
       "name": "Wyatt Teller",
       "position": "G",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Danielle Hunter",
       "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {

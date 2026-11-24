@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:24:00.238580-05:00",
+  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1826,7 +1826,7 @@
     {
       "name": "Ben Brown",
       "position": "C",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1838,13 +1838,13 @@
     {
       "name": "Walter Rouse",
       "position": "OL",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Carlton Davis III",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1856,7 +1856,7 @@
     {
       "name": "Brenden Schooler",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
