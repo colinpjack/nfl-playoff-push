@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BUF",
@@ -1818,15 +1818,9 @@
   },
   "injuries": [
     {
-      "name": "Skyler Bell",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jude Bowry",
+      "name": "Spencer Brown",
       "position": "OT",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1836,15 +1830,27 @@
       "detail": ""
     },
     {
+      "name": "O'Cyrus Torrence",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Christian Benford",
       "position": "CB",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Mike Danna",
-      "position": "DE",
-      "status": "Out",
+      "name": "Damar Hamlin",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Greg Rousseau",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {

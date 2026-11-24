@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1818,56 +1818,14 @@
   },
   "injuries": [
     {
-      "name": "J.C. Davis",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Greg Desrosiers Jr.",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Thomas Fidone II",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Josh Sills",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Darius Alexander",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Nic Jones",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Greg Newsome II",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jason Pinnock",
-      "position": "S",
       "status": "Out",
       "detail": ""
     },

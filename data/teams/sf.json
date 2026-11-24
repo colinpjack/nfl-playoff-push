@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1818,32 +1818,8 @@
   },
   "injuries": [
     {
-      "name": "Brandon Aiyuk",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Enrique Cruz Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Colton McKivitz",
       "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Demarcus Robinson",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kurtis Rourke",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },
@@ -1857,6 +1833,12 @@
       "name": "Khalid Kareem",
       "position": "DE",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Deommodore Lenoir",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {

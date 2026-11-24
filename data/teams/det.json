@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1818,21 +1818,9 @@
   },
   "injuries": [
     {
-      "name": "Keith Abney II",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Thomas Harper",
       "position": "S",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Amen Ogbongbemiga",
-      "position": "LB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1844,18 +1832,6 @@
     {
       "name": "D.J. Reed",
       "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Tyrus Wheat",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Mekhi Wingo",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1818,21 +1818,9 @@
   },
   "injuries": [
     {
-      "name": "Brandon Crenshaw-Dickson",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Dan Moore Jr.",
       "position": "OT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Nicholas Singleton",
-      "position": "RB",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1848,27 +1836,9 @@
       "detail": ""
     },
     {
-      "name": "Mohamoud Diabate",
-      "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Cor'Dale Flott",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaylon Jones",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jackie Marshall",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {

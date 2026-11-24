@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1824,50 +1824,8 @@
       "detail": ""
     },
     {
-      "name": "Jalen Coker",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "AJ Dillon",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Sam Hecht",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Haynes King",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "TeRah Edwards",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Bobby Okereke",
       "position": "LB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Marco Wilson",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },

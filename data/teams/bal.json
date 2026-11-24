@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "BAL",
@@ -1837,12 +1837,6 @@
       "detail": ""
     },
     {
-      "name": "Emery Jones Jr.",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Gerad Lichtenhan",
       "position": "OT",
       "status": "Out",
@@ -1852,24 +1846,6 @@
       "name": "Ethan Pocic",
       "position": "C",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Adam Randall",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Elijah Sarratt",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kedon Slovis",
-      "position": "QB",
-      "status": "Out",
       "detail": ""
     },
     {

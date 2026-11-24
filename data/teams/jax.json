@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "JAX",
@@ -1830,9 +1830,9 @@
       "detail": ""
     },
     {
-      "name": "CJ Williams",
-      "position": "WR",
-      "status": "Out",
+      "name": "Bhayshul Tuten",
+      "position": "RB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1842,21 +1842,9 @@
       "detail": ""
     },
     {
-      "name": "Jalen Huskey",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jarrian Jones",
       "position": "CB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Albert Regis",
-      "position": "DT",
-      "status": "Out",
       "detail": ""
     },
     {

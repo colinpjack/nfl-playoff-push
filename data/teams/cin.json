@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CIN",
@@ -1817,9 +1817,15 @@
   },
   "injuries": [
     {
-      "name": "Dylan Fairchild",
-      "position": "G",
-      "status": "Questionable",
+      "name": "Cam Grandy",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Myles Hinton",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1831,24 +1837,18 @@
     {
       "name": "Kyle Dugger",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Dax Hill",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Landon Robinson",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Erick All Jr.",
       "position": "TE",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Swayze Bozeman",
-      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },
@@ -1883,21 +1883,9 @@
       "detail": ""
     },
     {
-      "name": "Brian Parker II",
-      "position": "OT",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Ja'Sir Taylor",
       "position": "CB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Josh Kattus",
-      "position": "TE",
-      "status": "Out",
       "detail": ""
     }
   ],

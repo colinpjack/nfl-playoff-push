@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "WSH",
@@ -1817,21 +1817,33 @@
   },
   "injuries": [
     {
+      "name": "Robert Henry Jr.",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Athan Kaliakmanis",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Jaylin Lane",
       "position": "WR",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Lucas Patrick",
+      "name": "Tanoa Togiai",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Rachaad White",
-      "position": "RB",
-      "status": "Questionable",
+      "name": "Ricky Barber",
+      "position": "DT",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1843,7 +1855,7 @@
     {
       "name": "Amik Robertson",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1867,7 +1879,7 @@
     {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {

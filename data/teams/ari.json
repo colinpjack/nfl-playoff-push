@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ARI",
@@ -1843,20 +1843,8 @@
       "detail": ""
     },
     {
-      "name": "Kingsley Eguakun",
-      "position": "C",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Jon Gaines II",
       "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Andrew Billings",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },
@@ -1864,12 +1852,6 @@
       "name": "Cody Simon",
       "position": "LB",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Starling Thomas V",
-      "position": "CB",
-      "status": "Out",
       "detail": ""
     },
     {

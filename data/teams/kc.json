@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "KC",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "Garrett Nussmeier",
-      "position": "QB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Trey Smith",
       "position": "G",
       "status": "Out",
@@ -1850,24 +1844,6 @@
     {
       "name": "Kenneth Walker III",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Omarr Norman-Lott",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Melvin Smith Jr.",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Peter Woods",
-      "position": "DT",
       "status": "Out",
       "detail": ""
     },

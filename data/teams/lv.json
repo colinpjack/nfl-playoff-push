@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:21:44.015255-05:00",
+  "generatedAt": "2026-11-23T19:18:57.153684-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1831,26 +1831,8 @@
   },
   "injuries": [
     {
-      "name": "Malik Benson",
-      "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Brock Bowers",
       "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Bryce Cabeldue",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Dont'e Thornton Jr.",
-      "position": "WR",
       "status": "Out",
       "detail": ""
     },
@@ -1873,21 +1855,9 @@
       "detail": ""
     },
     {
-      "name": "Dalton Johnson",
-      "position": "S",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Tim Keenan III",
       "position": "DT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tristin McCollum",
-      "position": "S",
-      "status": "Out",
       "detail": ""
     },
     {
