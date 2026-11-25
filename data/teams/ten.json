@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1850,12 +1850,6 @@
     {
       "name": "Fernando Carmona",
       "position": "G",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Milo Eifler",
-      "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },

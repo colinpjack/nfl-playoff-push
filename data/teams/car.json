@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CAR",
@@ -1818,12 +1818,6 @@
   },
   "injuries": [
     {
-      "name": "Brady Christensen",
-      "position": "G",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Bobby Okereke",
       "position": "LB",
       "status": "Questionable",
@@ -1838,6 +1832,12 @@
     {
       "name": "Jonathon Brooks",
       "position": "RB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Brady Christensen",
+      "position": "G",
       "status": "Injured Reserve",
       "detail": ""
     },

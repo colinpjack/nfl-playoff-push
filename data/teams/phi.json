@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PHI",
@@ -1818,27 +1818,9 @@
   },
   "injuries": [
     {
-      "name": "Saquon Barkley",
-      "position": "RB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Tank Bigsby",
       "position": "RB",
       "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Dallas Goedert",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tanner McKee",
-      "position": "QB",
-      "status": "Questionable",
       "detail": ""
     },
     {

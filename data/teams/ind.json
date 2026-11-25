@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1855,12 +1855,6 @@
       "detail": ""
     },
     {
-      "name": "Caden Curry",
-      "position": "LB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Sauce Gardner",
       "position": "CB",
       "status": "Questionable",
@@ -1897,15 +1891,15 @@
       "detail": ""
     },
     {
-      "name": "Akeem Davis-Gaither",
+      "name": "Caden Curry",
       "position": "LB",
       "status": "Injured Reserve",
       "detail": ""
     },
     {
-      "name": "Sean McKeon",
-      "position": "TE",
-      "status": "IR",
+      "name": "Akeem Davis-Gaither",
+      "position": "LB",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

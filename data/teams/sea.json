@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SEA",
@@ -1830,12 +1830,6 @@
       "detail": ""
     },
     {
-      "name": "George Holani",
-      "position": "RB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Abraham Lucas",
       "position": "OT",
       "status": "Questionable",
@@ -1880,6 +1874,12 @@
     {
       "name": "Bud Clark",
       "position": "S",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "George Holani",
+      "position": "RB",
       "status": "Injured Reserve",
       "detail": ""
     },

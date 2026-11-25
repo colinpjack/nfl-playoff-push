@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYG",
@@ -1824,12 +1824,6 @@
       "detail": ""
     },
     {
-      "name": "Greg Newsome II",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Paulson Adebo",
       "position": "CB",
       "status": "IR",
@@ -1899,6 +1893,12 @@
       "name": "Francis Mauigoa",
       "position": "OT",
       "status": "IR",
+      "detail": ""
+    },
+    {
+      "name": "Greg Newsome II",
+      "position": "CB",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {

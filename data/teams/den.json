@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:51:24.295528-05:00",
+  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1818,7 +1818,19 @@
   },
   "injuries": [
     {
-      "name": "Brandon Jones",
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Sai'vion Jones",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Taylor Rapp",
       "position": "S",
       "status": "Questionable",
       "detail": ""
