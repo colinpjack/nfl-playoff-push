@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1824,6 +1824,12 @@
       "detail": ""
     },
     {
+      "name": "DeShon Elliott",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Nick Herbig",
       "position": "LB",
       "status": "Questionable",
@@ -1833,6 +1839,12 @@
       "name": "Alex Highsmith",
       "position": "LB",
       "status": "Doubtful",
+      "detail": ""
+    },
+    {
+      "name": "Cole Holcomb",
+      "position": "LB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1895,10 +1907,10 @@
     "quarterback": [
       {
         "id": "8439",
-        "name": "Aaron Rodgers",
-        "position": "QB",
-        "jersey": "8",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png",
+        "name": "Player",
+        "position": "",
+        "jersey": "",
+        "headshot": "",
         "line": "220/361, 2241 YDS, 16 TD, 6 INT",
         "value": "86.6",
         "statLabel": "RTG"

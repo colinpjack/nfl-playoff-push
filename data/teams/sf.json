@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "SF",
@@ -1818,9 +1818,15 @@
   },
   "injuries": [
     {
-      "name": "Colton McKivitz",
-      "position": "OT",
-      "status": "Out",
+      "name": "Mike Evans",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Brock Purdy",
+      "position": "QB",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1872,12 +1878,6 @@
       "detail": ""
     },
     {
-      "name": "Nate Hobbs",
-      "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
       "name": "Mikail Kamara",
       "position": "DE",
       "status": "Injured Reserve",
@@ -1892,6 +1892,12 @@
     {
       "name": "Nick Martin",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Colton McKivitz",
+      "position": "OT",
       "status": "Injured Reserve",
       "detail": ""
     },

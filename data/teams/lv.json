@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LV",
@@ -1837,12 +1837,6 @@
       "detail": ""
     },
     {
-      "name": "Dareke Young",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Adam Butler",
       "position": "DT",
       "status": "Questionable",
@@ -1856,12 +1850,6 @@
     },
     {
       "name": "Tim Keenan III",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "JJ Pegues",
       "position": "DT",
       "status": "Questionable",
       "detail": ""

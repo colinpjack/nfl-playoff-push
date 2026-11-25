@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1818,13 +1818,37 @@
   },
   "injuries": [
     {
+      "name": "Matthew Bergeron",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Zachariah Branch",
       "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Divine Deablo",
+      "name": "Jahan Dotson",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Billy Bowman Jr.",
+      "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DeMarcco Hellams",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "James Pearce Jr.",
       "position": "LB",
       "status": "Questionable",
       "detail": ""

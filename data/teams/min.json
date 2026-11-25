@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIN",
@@ -1818,8 +1818,20 @@
   },
   "injuries": [
     {
+      "name": "Tai Felton",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Kyler Murray",
       "position": "QB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Myles Price",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },

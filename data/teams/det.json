@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DET",
@@ -1824,12 +1824,6 @@
       "detail": ""
     },
     {
-      "name": "Skyler Gill-Howard",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Thomas Harper",
       "position": "S",
       "status": "Injured Reserve",
@@ -1838,7 +1832,7 @@
     {
       "name": "Ennis Rakestraw Jr.",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1862,6 +1856,12 @@
     {
       "name": "Damone Clark",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Skyler Gill-Howard",
+      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },

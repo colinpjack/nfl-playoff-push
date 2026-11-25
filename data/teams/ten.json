@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1824,12 +1824,6 @@
       "detail": ""
     },
     {
-      "name": "Tony Adams",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Terrell Burgess",
       "position": "S",
       "status": "Questionable",
@@ -1838,6 +1832,12 @@
     {
       "name": "Cor'Dale Flott",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "John Franklin-Myers",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
@@ -1862,12 +1862,6 @@
     {
       "name": "Jaren Kanak",
       "position": "TE",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Tanoh Kpassagnon",
-      "position": "DE",
       "status": "Injured Reserve",
       "detail": ""
     },

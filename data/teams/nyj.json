@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NYJ",
@@ -1837,6 +1837,12 @@
       "detail": ""
     },
     {
+      "name": "Dylan Parham",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Isaiah Williams",
       "position": "WR",
       "status": "Questionable",
@@ -1849,8 +1855,14 @@
       "detail": ""
     },
     {
-      "name": "Trevin Wallace",
-      "position": "LB",
+      "name": "Joseph Ossai",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Harrison Phillips",
+      "position": "DT",
       "status": "Questionable",
       "detail": ""
     },

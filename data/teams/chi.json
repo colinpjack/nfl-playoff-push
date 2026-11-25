@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "CHI",
@@ -1820,19 +1820,31 @@
     {
       "name": "Roschon Johnson",
       "position": "RB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Kyler Gordon",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Elijah Hicks",
       "position": "S",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "D'Marco Jackson",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tyrique Stevenson Sr.",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {

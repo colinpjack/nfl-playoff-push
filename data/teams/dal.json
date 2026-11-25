@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:06:28.202388-05:00",
+  "generatedAt": "2026-11-25T18:16:57.026683-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DAL",
@@ -1839,30 +1839,24 @@
     {
       "name": "Jake Ferguson",
       "position": "TE",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jonathan Mingo",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jaishawn Barham",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "P.J. Locke",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Dee Winters",
-      "position": "LB",
+      "name": "Jalen Thompson",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
@@ -1911,12 +1905,6 @@
     {
       "name": "Devin Moore",
       "position": "CB",
-      "status": "Injured Reserve",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Thompson",
-      "position": "S",
       "status": "Injured Reserve",
       "detail": ""
     }
