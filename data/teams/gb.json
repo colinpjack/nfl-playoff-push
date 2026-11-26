@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:25:08.466561-05:00",
+  "generatedAt": "2026-11-26T10:44:12.778319-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "GB",
@@ -48,7 +48,7 @@
     "1 GB OF THE CUT LINE",
     "NEXT SUN @ NO",
     "BYE WEEK 11",
-    "PASSER RATING 96.7"
+    "PASSER RATING 94.2"
   ],
   "narrative": {
     "kicker": "NFC playoff race",
@@ -124,43 +124,43 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "22.6",
+      "value": "21.7",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "22.1",
+      "value": "22.5",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "351.1",
+      "value": "342.2",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "340.4",
+      "value": "344.1",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "+5",
+      "value": "+3",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "37%",
-      "hint": "48-129 \u00b7 around 40% is average"
+      "value": "36%",
+      "hint": "50-137 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "54%",
+      "value": "56%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -193,23 +193,23 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "+0.5",
-      "detail": "22.6 scored, 22.1 allowed.",
-      "direction": "up"
+      "value": "-0.7",
+      "detail": "21.7 scored, 22.5 allowed.",
+      "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "37%",
-      "detail": "48-129",
+      "value": "36%",
+      "detail": "50-137",
       "direction": "flat"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "54%",
+      "value": "56%",
       "detail": "Touchdown rate inside the opponent 20.",
-      "direction": "flat"
+      "direction": "up"
     },
     {
       "stat": "SACK",
@@ -221,7 +221,7 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "28:55",
+      "value": "28:02",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "flat"
     }
@@ -486,9 +486,9 @@
       "home": "3-3",
       "road": "4-1",
       "gr": 6,
-      "ypg": 396.6,
-      "yapg": 295.8,
-      "to": -3,
+      "ypg": 395.2,
+      "yapg": 291.9,
+      "to": -1,
       "playoffPct": 57.08,
       "powerRank": 5,
       "gb": "\u2014",
@@ -558,9 +558,9 @@
       "home": "3-2",
       "road": "3-3",
       "gr": 6,
-      "ypg": 351.1,
-      "yapg": 340.4,
-      "to": 5,
+      "ypg": 342.2,
+      "yapg": 344.1,
+      "to": 3,
       "playoffPct": 12.16,
       "powerRank": 19,
       "gb": "1",
@@ -959,9 +959,9 @@
       "home": "3-2",
       "road": "3-3",
       "gr": 6,
-      "ypg": 351.1,
-      "yapg": 340.4,
-      "to": 5,
+      "ypg": 342.2,
+      "yapg": 344.1,
+      "to": 3,
       "playoffPct": 12.16,
       "powerRank": 19,
       "gb": "2.5",
@@ -1211,9 +1211,9 @@
       "home": "3-2",
       "road": "3-3",
       "gr": 6,
-      "ypg": 351.1,
-      "yapg": 340.4,
-      "to": 5,
+      "ypg": 342.2,
+      "yapg": 344.1,
+      "to": 3,
       "playoffPct": 12.16,
       "powerRank": 19
     }
@@ -1942,8 +1942,8 @@
         "position": "QB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
-        "line": "232/368, 2838 YDS, 20 TD, 7 INT",
-        "value": "96.9",
+        "line": "249/397, 3036 YDS, 21 TD, 9 INT",
+        "value": "94.4",
         "statLabel": "RTG"
       }
     ],
@@ -1954,8 +1954,8 @@
         "position": "WR",
         "jersey": "9",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248528.png",
-        "line": "52 REC, 916 YDS, 7 TD",
-        "value": "916",
+        "line": "56 REC, 981 YDS, 8 TD",
+        "value": "981",
         "statLabel": "YDS"
       },
       {
@@ -1964,8 +1964,8 @@
         "position": "WR",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4701936.png",
-        "line": "58 REC, 853 YDS, 5 TD",
-        "value": "853",
+        "line": "59 REC, 892 YDS, 5 TD",
+        "value": "892",
         "statLabel": "YDS"
       },
       {
@@ -1974,8 +1974,8 @@
         "position": "TE",
         "jersey": "85",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4572680.png",
-        "line": "37 REC, 370 YDS, 3 TD",
-        "value": "370",
+        "line": "40 REC, 394 YDS, 3 TD",
+        "value": "394",
         "statLabel": "YDS"
       },
       {
@@ -1984,8 +1984,8 @@
         "position": "RB",
         "jersey": "26",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4819231.png",
-        "line": "52 CAR, 214 YDS, 1 TD",
-        "value": "214",
+        "line": "60 CAR, 227 YDS, 1 TD",
+        "value": "227",
         "statLabel": "YDS"
       },
       {
@@ -1994,8 +1994,8 @@
         "position": "RB",
         "jersey": "32",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429023.png",
-        "line": "61 CAR, 162 YDS, 2 TD",
-        "value": "162",
+        "line": "62 CAR, 172 YDS, 2 TD",
+        "value": "172",
         "statLabel": "YDS"
       },
       {
@@ -2004,8 +2004,8 @@
         "position": "WR",
         "jersey": "83",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431487.png",
-        "line": "13 REC, 136 YDS, 1 TD",
-        "value": "136",
+        "line": "14 REC, 139 YDS, 1 TD",
+        "value": "139",
         "statLabel": "YDS"
       },
       {
@@ -2036,8 +2036,8 @@
         "position": "S",
         "jersey": "33",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428863.png",
-        "line": "84 \u00b7 3 INT",
-        "value": "84",
+        "line": "93 \u00b7 3 INT",
+        "value": "93",
         "statLabel": "TKL"
       },
       {
@@ -2046,8 +2046,8 @@
         "position": "LB",
         "jersey": "58",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239947.png",
-        "line": "63",
-        "value": "63",
+        "line": "72",
+        "value": "72",
         "statLabel": "TKL"
       },
       {
@@ -2056,8 +2056,8 @@
         "position": "CB",
         "jersey": "25",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259493.png",
-        "line": "54 \u00b7 1 INT",
-        "value": "54",
+        "line": "63 \u00b7 1 INT",
+        "value": "63",
         "statLabel": "TKL"
       },
       {
@@ -2066,8 +2066,8 @@
         "position": "S",
         "jersey": "7",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688930.png",
-        "line": "49",
-        "value": "49",
+        "line": "51",
+        "value": "51",
         "statLabel": "TKL"
       },
       {
@@ -2076,18 +2076,18 @@
         "position": "S",
         "jersey": "29",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241470.png",
-        "line": "44 \u00b7 6 INT",
-        "value": "44",
+        "line": "50 \u00b7 6 INT",
+        "value": "50",
         "statLabel": "TKL"
       },
       {
-        "id": "3124005",
-        "name": "Zaire Franklin",
+        "id": "4567406",
+        "name": "Ty'Ron Hopper",
         "position": "LB",
-        "jersey": "44",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3124005.png",
-        "line": "41",
-        "value": "41",
+        "jersey": "59",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567406.png",
+        "line": "43 \u00b7 3 INT",
+        "value": "43",
         "statLabel": "TKL"
       },
       {
@@ -2112,5 +2112,5 @@
       }
     ]
   },
-  "qbRating": 96.7
+  "qbRating": 94.2
 }

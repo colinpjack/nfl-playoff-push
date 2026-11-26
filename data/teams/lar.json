@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:25:08.466561-05:00",
+  "generatedAt": "2026-11-26T10:44:12.778319-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "LAR",
@@ -48,7 +48,7 @@
     "\u2014 GB OF THE CUT LINE",
     "NEXT THU VS KC",
     "BYE WEEK 11",
-    "PASSER RATING 92.7"
+    "PASSER RATING 91.2"
   ],
   "narrative": {
     "kicker": "Inside the NFC field",
@@ -124,43 +124,43 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "24.8",
+      "value": "24.9",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "18.7",
+      "value": "18.2",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "396.6",
+      "value": "395.2",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "295.8",
+      "value": "291.9",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "-3",
+      "value": "-1",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "42%",
-      "hint": "51-122 \u00b7 around 40% is average"
+      "value": "43%",
+      "hint": "59-137 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "68%",
+      "value": "67%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -193,21 +193,21 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "+6.1",
-      "detail": "24.8 scored, 18.7 allowed.",
+      "value": "+6.7",
+      "detail": "24.9 scored, 18.2 allowed.",
       "direction": "up"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "42%",
-      "detail": "51-122",
+      "value": "43%",
+      "detail": "59-137",
       "direction": "up"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "68%",
+      "value": "67%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "up"
     },
@@ -221,7 +221,7 @@
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "32:14",
+      "value": "33:00",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "up"
     }
@@ -486,9 +486,9 @@
       "home": "3-3",
       "road": "4-1",
       "gr": 6,
-      "ypg": 396.6,
-      "yapg": 295.8,
-      "to": -3,
+      "ypg": 395.2,
+      "yapg": 291.9,
+      "to": -1,
       "playoffPct": 57.08,
       "powerRank": 5,
       "gb": "\u2014",
@@ -558,9 +558,9 @@
       "home": "3-2",
       "road": "3-3",
       "gr": 6,
-      "ypg": 351.1,
-      "yapg": 340.4,
-      "to": 5,
+      "ypg": 342.2,
+      "yapg": 344.1,
+      "to": 3,
       "playoffPct": 12.16,
       "powerRank": 19,
       "gb": "1",
@@ -885,9 +885,9 @@
       "home": "3-3",
       "road": "4-1",
       "gr": 6,
-      "ypg": 396.6,
-      "yapg": 295.8,
-      "to": -3,
+      "ypg": 395.2,
+      "yapg": 291.9,
+      "to": -1,
       "playoffPct": 57.08,
       "powerRank": 5,
       "gb": "2.5",
@@ -1151,9 +1151,9 @@
       "home": "3-3",
       "road": "4-1",
       "gr": 6,
-      "ypg": 396.6,
-      "yapg": 295.8,
-      "to": -3,
+      "ypg": 395.2,
+      "yapg": 291.9,
+      "to": -1,
       "playoffPct": 57.08,
       "powerRank": 5
     },
@@ -1837,6 +1837,12 @@
       "detail": ""
     },
     {
+      "name": "Bill Murray",
+      "position": "G",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Coleman Shelton",
       "position": "C",
       "status": "Out",
@@ -1960,30 +1966,30 @@
         "position": "QB",
         "jersey": "9",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
-        "line": "248/372, 2623 YDS, 19 TD, 10 INT",
-        "value": "92.8",
+        "line": "264/395, 2763 YDS, 19 TD, 11 INT",
+        "value": "91.4",
         "statLabel": "RTG"
       }
     ],
     "skill": [
-      {
-        "id": "4430737",
-        "name": "Kyren Williams",
-        "position": "RB",
-        "jersey": "23",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430737.png",
-        "line": "139 CAR, 616 YDS, 6 TD",
-        "value": "616",
-        "statLabel": "YDS"
-      },
       {
         "id": "4429096",
         "name": "Blake Corum",
         "position": "RB",
         "jersey": "24",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429096.png",
-        "line": "103 CAR, 547 YDS, 5 TD",
-        "value": "547",
+        "line": "135 CAR, 731 YDS, 6 TD",
+        "value": "731",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4430737",
+        "name": "Kyren Williams",
+        "position": "RB",
+        "jersey": "23",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430737.png",
+        "line": "151 CAR, 662 YDS, 7 TD",
+        "value": "662",
         "statLabel": "YDS"
       },
       {
@@ -2002,8 +2008,8 @@
         "position": "TE",
         "jersey": "89",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2573401.png",
-        "line": "31 REC, 304 YDS, 2 TD",
-        "value": "304",
+        "line": "32 REC, 318 YDS, 2 TD",
+        "value": "318",
         "statLabel": "YDS"
       },
       {
@@ -2012,8 +2018,8 @@
         "position": "WR",
         "jersey": "4",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4710855.png",
-        "line": "14 REC, 243 YDS, 1 TD",
-        "value": "243",
+        "line": "18 REC, 312 YDS, 1 TD",
+        "value": "312",
         "statLabel": "YDS"
       },
       {
@@ -2032,8 +2038,8 @@
         "position": "TE",
         "jersey": "84",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242557.png",
-        "line": "20 REC, 127 YDS, 1 TD",
-        "value": "127",
+        "line": "22 REC, 126 YDS, 1 TD",
+        "value": "126",
         "statLabel": "YDS"
       },
       {
@@ -2054,8 +2060,8 @@
         "position": "LB",
         "jersey": "53",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243181.png",
-        "line": "67",
-        "value": "67",
+        "line": "72",
+        "value": "72",
         "statLabel": "TKL"
       },
       {
@@ -2064,8 +2070,8 @@
         "position": "S",
         "jersey": "37",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249128.png",
-        "line": "65 \u00b7 3 INT",
-        "value": "65",
+        "line": "69 \u00b7 3 INT",
+        "value": "69",
         "statLabel": "TKL"
       },
       {
@@ -2074,8 +2080,8 @@
         "position": "S",
         "jersey": "3",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242154.png",
-        "line": "48",
-        "value": "48",
+        "line": "50",
+        "value": "50",
         "statLabel": "TKL"
       },
       {
@@ -2084,18 +2090,8 @@
         "position": "LB",
         "jersey": "48",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428550.png",
-        "line": "45 \u00b7 2 SACK",
-        "value": "45",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4596363",
-        "name": "Kamren Kinchens",
-        "position": "S",
-        "jersey": "5",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596363.png",
-        "line": "40",
-        "value": "40",
+        "line": "50 \u00b7 2 SACK",
+        "value": "50",
         "statLabel": "TKL"
       },
       {
@@ -2104,8 +2100,18 @@
         "position": "LB",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4875196.png",
-        "line": "39 \u00b7 5.5 SACK",
-        "value": "39",
+        "line": "42 \u00b7 6.5 SACK",
+        "value": "42",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4596363",
+        "name": "Kamren Kinchens",
+        "position": "S",
+        "jersey": "5",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596363.png",
+        "line": "41",
+        "value": "41",
         "statLabel": "TKL"
       },
       {
@@ -2130,5 +2136,5 @@
       }
     ]
   },
-  "qbRating": 92.7
+  "qbRating": 91.2
 }
