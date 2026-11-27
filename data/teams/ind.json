@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:28.269512-05:00",
+  "generatedAt": "2026-11-27T13:53:05.076629-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "IND",
@@ -1833,7 +1833,7 @@
     {
       "name": "Will Mallory",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1843,27 +1843,21 @@
       "detail": ""
     },
     {
-      "name": "Bernhard Raimann",
-      "position": "OT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jalen Travis",
       "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jerry Tillery",
       "position": "DT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Charvarius Ward",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

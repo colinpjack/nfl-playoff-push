@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:28.269512-05:00",
+  "generatedAt": "2026-11-27T13:53:05.076629-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "TEN",
@@ -1826,13 +1826,13 @@
     {
       "name": "Terrell Burgess",
       "position": "S",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Cor'Dale Flott",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

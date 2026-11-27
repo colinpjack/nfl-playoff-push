@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:28.269512-05:00",
+  "generatedAt": "2026-11-27T13:53:05.076629-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "NE",
@@ -1820,7 +1820,7 @@
     {
       "name": "A.J. Brown",
       "position": "WR",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1844,7 +1844,7 @@
     {
       "name": "Carlton Davis III",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

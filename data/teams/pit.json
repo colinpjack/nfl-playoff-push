@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:28.269512-05:00",
+  "generatedAt": "2026-11-27T13:53:05.076629-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -1818,6 +1818,24 @@
   },
   "injuries": [
     {
+      "name": "Drew Allar",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Eli Heidenreich",
+      "position": "RB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kaden Wetjen",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Alex Highsmith",
       "position": "LB",
       "status": "Out",
@@ -1826,7 +1844,19 @@
     {
       "name": "Cole Holcomb",
       "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Sean Murphy-Bunting",
+      "position": "CB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Gabriel Rubio",
+      "position": "DE",
+      "status": "Out",
       "detail": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:28.269512-05:00",
+  "generatedAt": "2026-11-27T13:53:05.076629-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "ATL",
@@ -1820,49 +1820,31 @@
     {
       "name": "Matthew Bergeron",
       "position": "G",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Zachariah Branch",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jahan Dotson",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Billy Bowman Jr.",
       "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Kendal Daniels",
-      "position": "LB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "DeMarcco Hellams",
       "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Za'Darius Smith",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Cameron Thomas",
-      "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {

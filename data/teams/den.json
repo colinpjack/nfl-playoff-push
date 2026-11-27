@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:28.269512-05:00",
+  "generatedAt": "2026-11-27T13:53:05.076629-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "DEN",
@@ -1818,15 +1818,39 @@
   },
   "injuries": [
     {
-      "name": "Tyler Badie",
-      "position": "RB",
-      "status": "Questionable",
+      "name": "Dallen Bentley",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Kage Casey",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "J.K. Dobbins",
       "position": "RB",
       "status": "Suspension",
+      "detail": ""
+    },
+    {
+      "name": "Sam Ehlinger",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Gavin Ortega",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
