@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:54:59.834850-05:00",
+  "generatedAt": "2026-11-28T05:15:51.441194-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "PIT",
@@ -48,7 +48,7 @@
     "+0.5 GB OF THE CUT LINE",
     "NEXT SUN VS HOU",
     "BYE WEEK 9",
-    "PASSER RATING 85.7"
+    "PASSER RATING 86.8"
   ],
   "narrative": {
     "kicker": "Inside the AFC field",
@@ -124,49 +124,49 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "21.4",
+      "value": "21.9",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "20.1",
+      "value": "18.7",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "336.1",
+      "value": "329.1",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "332.6",
+      "value": "324.4",
       "hint": "What the defense is giving up"
     },
     {
       "stat": "TO",
       "label": "Turnover margin",
-      "value": "+6",
+      "value": "+8",
       "hint": "Takeaways minus giveaways"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "37%",
-      "hint": "49-133 \u00b7 around 40% is average"
+      "value": "38%",
+      "hint": "55-146 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "43%",
+      "value": "41%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-1",
+      "value": "+1",
       "hint": "Sacks recorded minus sacks allowed"
     },
     {
@@ -193,35 +193,35 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "+1.3",
-      "detail": "21.4 scored, 20.1 allowed.",
+      "value": "+3.2",
+      "detail": "21.9 scored, 18.7 allowed.",
       "direction": "up"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "37%",
-      "detail": "49-133",
+      "value": "38%",
+      "detail": "55-146",
       "direction": "flat"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "43%",
+      "value": "41%",
       "detail": "Touchdown rate inside the opponent 20.",
       "direction": "flat"
     },
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-1",
+      "value": "+1",
       "detail": "Pass rush minus pass protection.",
-      "direction": "down"
+      "direction": "up"
     },
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "31:09",
+      "value": "30:42",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "up"
     }
@@ -306,9 +306,9 @@
       "home": "5-0",
       "road": "3-3",
       "gr": 6,
-      "ypg": 291.1,
-      "yapg": 377.8,
-      "to": 5,
+      "ypg": 286.6,
+      "yapg": 367.0,
+      "to": 3,
       "playoffPct": 95.88,
       "powerRank": 15,
       "gb": "+1.5",
@@ -450,9 +450,9 @@
       "home": "5-0",
       "road": "2-4",
       "gr": 6,
-      "ypg": 336.1,
-      "yapg": 332.6,
-      "to": 6,
+      "ypg": 329.1,
+      "yapg": 324.4,
+      "to": 8,
       "playoffPct": 84.5,
       "powerRank": 13,
       "gb": "+0.5",
@@ -885,9 +885,9 @@
       "home": "5-0",
       "road": "2-4",
       "gr": 6,
-      "ypg": 336.1,
-      "yapg": 332.6,
-      "to": 6,
+      "ypg": 329.1,
+      "yapg": 324.4,
+      "to": 8,
       "playoffPct": 84.5,
       "powerRank": 13,
       "gb": "0.5",
@@ -1088,9 +1088,9 @@
       "home": "5-0",
       "road": "3-3",
       "gr": 6,
-      "ypg": 291.1,
-      "yapg": 377.8,
-      "to": 5,
+      "ypg": 286.6,
+      "yapg": 367.0,
+      "to": 3,
       "playoffPct": 95.88,
       "powerRank": 15
     }
@@ -1151,9 +1151,9 @@
       "home": "5-0",
       "road": "2-4",
       "gr": 6,
-      "ypg": 336.1,
-      "yapg": 332.6,
-      "to": 6,
+      "ypg": 329.1,
+      "yapg": 324.4,
+      "to": 8,
       "playoffPct": 84.5,
       "powerRank": 13
     },
@@ -1948,8 +1948,8 @@
         "position": "RB",
         "jersey": "30",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569987.png",
-        "line": "135 CAR, 747 YDS, 2 TD",
-        "value": "747",
+        "line": "155 CAR, 793 YDS, 2 TD",
+        "value": "793",
         "statLabel": "YDS"
       },
       {
@@ -1958,8 +1958,8 @@
         "position": "WR",
         "jersey": "4",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047650.png",
-        "line": "36 REC, 434 YDS, 2 TD",
-        "value": "434",
+        "line": "39 REC, 470 YDS, 3 TD",
+        "value": "470",
         "statLabel": "YDS"
       },
       {
@@ -1968,8 +1968,8 @@
         "position": "WR",
         "jersey": "17",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685261.png",
-        "line": "38 REC, 324 YDS, 1 TD",
-        "value": "324",
+        "line": "39 REC, 382 YDS, 1 TD",
+        "value": "382",
         "statLabel": "YDS"
       },
       {
@@ -1978,8 +1978,18 @@
         "position": "TE",
         "jersey": "88",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361411.png",
-        "line": "32 REC, 309 YDS, 5 TD",
-        "value": "309",
+        "line": "33 REC, 310 YDS, 5 TD",
+        "value": "310",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4038815",
+        "name": "Rico Dowdle",
+        "position": "RB",
+        "jersey": "13",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038815.png",
+        "line": "67 CAR, 286 YDS, 1 TD",
+        "value": "286",
         "statLabel": "YDS"
       },
       {
@@ -1998,18 +2008,8 @@
         "position": "WR",
         "jersey": "14",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431492.png",
-        "line": "17 REC, 231 YDS, 2 TD",
-        "value": "231",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "4038815",
-        "name": "Rico Dowdle",
-        "position": "RB",
-        "jersey": "13",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038815.png",
-        "line": "56 CAR, 215 YDS, 1 TD",
-        "value": "215",
+        "line": "18 REC, 268 YDS, 2 TD",
+        "value": "268",
         "statLabel": "YDS"
       },
       {
@@ -2018,8 +2018,8 @@
         "position": "WR",
         "jersey": "11",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035687.png",
-        "line": "7 REC, 89 YDS",
-        "value": "89",
+        "line": "8 REC, 96 YDS",
+        "value": "96",
         "statLabel": "YDS"
       }
     ],
@@ -2030,8 +2030,8 @@
         "position": "LB",
         "jersey": "41",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361652.png",
-        "line": "91 \u00b7 1 INT",
-        "value": "91",
+        "line": "99",
+        "value": "99",
         "statLabel": "TKL"
       },
       {
@@ -2040,8 +2040,8 @@
         "position": "LB",
         "jersey": "6",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242207.png",
-        "line": "78 \u00b7 3.5 SACK \u00b7 1 INT",
-        "value": "78",
+        "line": "83",
+        "value": "83",
         "statLabel": "TKL"
       },
       {
@@ -2050,8 +2050,8 @@
         "position": "S",
         "jersey": "3",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4570044.png",
-        "line": "65",
-        "value": "65",
+        "line": "71",
+        "value": "71",
         "statLabel": "TKL"
       },
       {
@@ -2060,7 +2060,7 @@
         "position": "CB",
         "jersey": "5",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3045373.png",
-        "line": "53",
+        "line": "53 \u00b7 1 INT",
         "value": "53",
         "statLabel": "TKL"
       },
@@ -2070,8 +2070,8 @@
         "position": "S",
         "jersey": "28",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4820584.png",
-        "line": "40",
-        "value": "40",
+        "line": "46",
+        "value": "46",
         "statLabel": "TKL"
       },
       {
@@ -2080,8 +2080,8 @@
         "position": "CB",
         "jersey": "35",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3873935.png",
-        "line": "38 \u00b7 1 INT",
-        "value": "38",
+        "line": "43 \u00b7 1 INT",
+        "value": "43",
         "statLabel": "TKL"
       },
       {
@@ -2106,5 +2106,5 @@
       }
     ]
   },
-  "qbRating": 85.7
+  "qbRating": 86.8
 }
